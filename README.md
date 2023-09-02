@@ -39,17 +39,17 @@ from fossil fuel combustion. It provides estimates for emissions of the three ma
 gases (CO2, CH4, N2O) and fluorinated gases per sector and country 
 (https://edgar.jrc.ec.europa.eu/dataset_ghg70#p1 ).
 For the purpose of this project, the considered data are the one regarding the CO2 emissions.
-Networks
+# Networks
 Two bipartite networks will be created, representing countries and industrial sectors at different 
 points in time, with edges connecting each country to the industrial sectors responsible for their 
 emissions. Edge weights will be based on the quantities of CO2 emissions per sector.
 The results of the measures applications on the two networks will be compared to search for 
 relevant differences in the selected time periods in order to highlight the changing of the 
 emissions network features.
-Measures
+# Measures
 The following Network Analysis measures will provide a comprehensive perspective on the roles 
 and importance of countries and sectors in the CO2 emissions network and their interactions. 
-Centrality:
+## Centrality:
 When calculating node centrality measures in bipartite networks, a possible approach is to 
 apply PageRank on the one-mode projection of the network. However, the projection could
 cause information loss and distort the network topology. Therefore, for better node ranking on 
@@ -61,7 +61,7 @@ For performing the analysis it will also be taken into account the weighted natu
 networks. Therefore another centrality measure for weighted networks, the Laplacian centrality, 
 will be computed through Networkx (reference:
 https://www.sciencedirect.com/science/article/abs/pii/S0020025511006761 ).
-Similarity :
+## Similarity :
 Simrank measure performedwith Networkx will allow to provide insights into the degree of 
 similarity between countries in their emissions behavior within shared industrial sectors, in 
 order to identify similar countries and distinguish between the most impactful ones and the 
