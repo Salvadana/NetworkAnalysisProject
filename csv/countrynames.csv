@@ -1,0 +1,4774 @@
+,Country_code_A3,Name
+0,ABW,Aruba
+1,ABW,Aruba
+2,ABW,Aruba
+3,ABW,Aruba
+4,ABW,Aruba
+5,ABW,Aruba
+6,ABW,Aruba
+7,ABW,Aruba
+8,ABW,Aruba
+9,ABW,Aruba
+10,ABW,Aruba
+11,ABW,Aruba
+12,ABW,Aruba
+13,ABW,Aruba
+14,ABW,Aruba
+15,ABW,Aruba
+16,ABW,Aruba
+17,AFG,Afghanistan
+18,AFG,Afghanistan
+19,AFG,Afghanistan
+20,AFG,Afghanistan
+21,AFG,Afghanistan
+22,AFG,Afghanistan
+23,AFG,Afghanistan
+24,AFG,Afghanistan
+25,AFG,Afghanistan
+26,AFG,Afghanistan
+27,AFG,Afghanistan
+28,AFG,Afghanistan
+29,AFG,Afghanistan
+30,AFG,Afghanistan
+31,AFG,Afghanistan
+32,AFG,Afghanistan
+33,AFG,Afghanistan
+34,AFG,Afghanistan
+35,AFG,Afghanistan
+36,AFG,Afghanistan
+37,AFG,Afghanistan
+38,AFG,Afghanistan
+39,AFG,Afghanistan
+40,AFG,Afghanistan
+41,AFG,Afghanistan
+42,AGO,Angola
+43,AGO,Angola
+44,AGO,Angola
+45,AGO,Angola
+46,AGO,Angola
+47,AGO,Angola
+48,AGO,Angola
+49,AGO,Angola
+50,AGO,Angola
+51,AGO,Angola
+52,AGO,Angola
+53,AGO,Angola
+54,AGO,Angola
+55,AGO,Angola
+56,AGO,Angola
+57,AGO,Angola
+58,AGO,Angola
+59,AGO,Angola
+60,AGO,Angola
+61,AGO,Angola
+62,AIA,Anguilla
+63,AIA,Anguilla
+64,AIA,Anguilla
+65,AIA,Anguilla
+66,AIA,Anguilla
+67,AIA,Anguilla
+68,AIA,Anguilla
+69,AIA,Anguilla
+70,AIA,Anguilla
+71,AIR,Int. Aviation
+72,AIR,Int. Aviation
+73,ALB,Albania
+74,ALB,Albania
+75,ALB,Albania
+76,ALB,Albania
+77,ALB,Albania
+78,ALB,Albania
+79,ALB,Albania
+80,ALB,Albania
+81,ALB,Albania
+82,ALB,Albania
+83,ALB,Albania
+84,ALB,Albania
+85,ALB,Albania
+86,ALB,Albania
+87,ALB,Albania
+88,ALB,Albania
+89,ALB,Albania
+90,ALB,Albania
+91,ALB,Albania
+92,ALB,Albania
+93,ALB,Albania
+94,ALB,Albania
+95,ALB,Albania
+96,ALB,Albania
+97,ALB,Albania
+98,ALB,Albania
+99,ALB,Albania
+100,ANT,Netherlands Antilles
+101,ANT,Netherlands Antilles
+102,ANT,Netherlands Antilles
+103,ANT,Netherlands Antilles
+104,ANT,Netherlands Antilles
+105,ANT,Netherlands Antilles
+106,ANT,Netherlands Antilles
+107,ANT,Netherlands Antilles
+108,ANT,Netherlands Antilles
+109,ANT,Netherlands Antilles
+110,ARE,United Arab Emirates
+111,ARE,United Arab Emirates
+112,ARE,United Arab Emirates
+113,ARE,United Arab Emirates
+114,ARE,United Arab Emirates
+115,ARE,United Arab Emirates
+116,ARE,United Arab Emirates
+117,ARE,United Arab Emirates
+118,ARE,United Arab Emirates
+119,ARE,United Arab Emirates
+120,ARE,United Arab Emirates
+121,ARE,United Arab Emirates
+122,ARE,United Arab Emirates
+123,ARE,United Arab Emirates
+124,ARE,United Arab Emirates
+125,ARE,United Arab Emirates
+126,ARE,United Arab Emirates
+127,ARG,Argentina
+128,ARG,Argentina
+129,ARG,Argentina
+130,ARG,Argentina
+131,ARG,Argentina
+132,ARG,Argentina
+133,ARG,Argentina
+134,ARG,Argentina
+135,ARG,Argentina
+136,ARG,Argentina
+137,ARG,Argentina
+138,ARG,Argentina
+139,ARG,Argentina
+140,ARG,Argentina
+141,ARG,Argentina
+142,ARG,Argentina
+143,ARG,Argentina
+144,ARG,Argentina
+145,ARG,Argentina
+146,ARG,Argentina
+147,ARG,Argentina
+148,ARG,Argentina
+149,ARG,Argentina
+150,ARG,Argentina
+151,ARG,Argentina
+152,ARG,Argentina
+153,ARG,Argentina
+154,ARG,Argentina
+155,ARG,Argentina
+156,ARG,Argentina
+157,ARM,Armenia
+158,ARM,Armenia
+159,ARM,Armenia
+160,ARM,Armenia
+161,ARM,Armenia
+162,ARM,Armenia
+163,ARM,Armenia
+164,ARM,Armenia
+165,ARM,Armenia
+166,ARM,Armenia
+167,ARM,Armenia
+168,ARM,Armenia
+169,ARM,Armenia
+170,ARM,Armenia
+171,ARM,Armenia
+172,ARM,Armenia
+173,ARM,Armenia
+174,ARM,Armenia
+175,ARM,Armenia
+176,ARM,Armenia
+177,ATG,Antigua and Barbuda
+178,ATG,Antigua and Barbuda
+179,ATG,Antigua and Barbuda
+180,ATG,Antigua and Barbuda
+181,ATG,Antigua and Barbuda
+182,ATG,Antigua and Barbuda
+183,ATG,Antigua and Barbuda
+184,ATG,Antigua and Barbuda
+185,ATG,Antigua and Barbuda
+186,ATG,Antigua and Barbuda
+187,ATG,Antigua and Barbuda
+188,ATG,Antigua and Barbuda
+189,ATG,Antigua and Barbuda
+190,ATG,Antigua and Barbuda
+191,ATG,Antigua and Barbuda
+192,ATG,Antigua and Barbuda
+193,ATG,Antigua and Barbuda
+194,AUS,Australia
+195,AUS,Australia
+196,AUS,Australia
+197,AUS,Australia
+198,AUS,Australia
+199,AUS,Australia
+200,AUS,Australia
+201,AUS,Australia
+202,AUS,Australia
+203,AUS,Australia
+204,AUS,Australia
+205,AUS,Australia
+206,AUS,Australia
+207,AUS,Australia
+208,AUS,Australia
+209,AUS,Australia
+210,AUS,Australia
+211,AUS,Australia
+212,AUS,Australia
+213,AUS,Australia
+214,AUS,Australia
+215,AUS,Australia
+216,AUS,Australia
+217,AUS,Australia
+218,AUS,Australia
+219,AUS,Australia
+220,AUS,Australia
+221,AUS,Australia
+222,AUS,Australia
+223,AUS,Australia
+224,AUT,Austria
+225,AUT,Austria
+226,AUT,Austria
+227,AUT,Austria
+228,AUT,Austria
+229,AUT,Austria
+230,AUT,Austria
+231,AUT,Austria
+232,AUT,Austria
+233,AUT,Austria
+234,AUT,Austria
+235,AUT,Austria
+236,AUT,Austria
+237,AUT,Austria
+238,AUT,Austria
+239,AUT,Austria
+240,AUT,Austria
+241,AUT,Austria
+242,AUT,Austria
+243,AUT,Austria
+244,AUT,Austria
+245,AUT,Austria
+246,AUT,Austria
+247,AUT,Austria
+248,AUT,Austria
+249,AUT,Austria
+250,AUT,Austria
+251,AUT,Austria
+252,AUT,Austria
+253,AUT,Austria
+254,AUT,Austria
+255,AUT,Austria
+256,AUT,Austria
+257,AZE,Azerbaijan
+258,AZE,Azerbaijan
+259,AZE,Azerbaijan
+260,AZE,Azerbaijan
+261,AZE,Azerbaijan
+262,AZE,Azerbaijan
+263,AZE,Azerbaijan
+264,AZE,Azerbaijan
+265,AZE,Azerbaijan
+266,AZE,Azerbaijan
+267,AZE,Azerbaijan
+268,AZE,Azerbaijan
+269,AZE,Azerbaijan
+270,AZE,Azerbaijan
+271,AZE,Azerbaijan
+272,AZE,Azerbaijan
+273,AZE,Azerbaijan
+274,AZE,Azerbaijan
+275,AZE,Azerbaijan
+276,AZE,Azerbaijan
+277,AZE,Azerbaijan
+278,AZE,Azerbaijan
+279,AZE,Azerbaijan
+280,AZE,Azerbaijan
+281,AZE,Azerbaijan
+282,AZE,Azerbaijan
+283,AZE,Azerbaijan
+284,BDI,Burundi
+285,BDI,Burundi
+286,BDI,Burundi
+287,BDI,Burundi
+288,BDI,Burundi
+289,BDI,Burundi
+290,BDI,Burundi
+291,BDI,Burundi
+292,BDI,Burundi
+293,BDI,Burundi
+294,BDI,Burundi
+295,BDI,Burundi
+296,BDI,Burundi
+297,BDI,Burundi
+298,BDI,Burundi
+299,BDI,Burundi
+300,BDI,Burundi
+301,BDI,Burundi
+302,BDI,Burundi
+303,BDI,Burundi
+304,BDI,Burundi
+305,BDI,Burundi
+306,BEL,Belgium
+307,BEL,Belgium
+308,BEL,Belgium
+309,BEL,Belgium
+310,BEL,Belgium
+311,BEL,Belgium
+312,BEL,Belgium
+313,BEL,Belgium
+314,BEL,Belgium
+315,BEL,Belgium
+316,BEL,Belgium
+317,BEL,Belgium
+318,BEL,Belgium
+319,BEL,Belgium
+320,BEL,Belgium
+321,BEL,Belgium
+322,BEL,Belgium
+323,BEL,Belgium
+324,BEL,Belgium
+325,BEL,Belgium
+326,BEL,Belgium
+327,BEL,Belgium
+328,BEL,Belgium
+329,BEL,Belgium
+330,BEL,Belgium
+331,BEL,Belgium
+332,BEL,Belgium
+333,BEL,Belgium
+334,BEL,Belgium
+335,BEL,Belgium
+336,BEN,Benin
+337,BEN,Benin
+338,BEN,Benin
+339,BEN,Benin
+340,BEN,Benin
+341,BEN,Benin
+342,BEN,Benin
+343,BEN,Benin
+344,BEN,Benin
+345,BEN,Benin
+346,BEN,Benin
+347,BEN,Benin
+348,BEN,Benin
+349,BEN,Benin
+350,BEN,Benin
+351,BEN,Benin
+352,BEN,Benin
+353,BEN,Benin
+354,BEN,Benin
+355,BFA,Burkina Faso
+356,BFA,Burkina Faso
+357,BFA,Burkina Faso
+358,BFA,Burkina Faso
+359,BFA,Burkina Faso
+360,BFA,Burkina Faso
+361,BFA,Burkina Faso
+362,BFA,Burkina Faso
+363,BFA,Burkina Faso
+364,BFA,Burkina Faso
+365,BFA,Burkina Faso
+366,BFA,Burkina Faso
+367,BFA,Burkina Faso
+368,BFA,Burkina Faso
+369,BFA,Burkina Faso
+370,BFA,Burkina Faso
+371,BFA,Burkina Faso
+372,BFA,Burkina Faso
+373,BFA,Burkina Faso
+374,BFA,Burkina Faso
+375,BFA,Burkina Faso
+376,BGD,Bangladesh
+377,BGD,Bangladesh
+378,BGD,Bangladesh
+379,BGD,Bangladesh
+380,BGD,Bangladesh
+381,BGD,Bangladesh
+382,BGD,Bangladesh
+383,BGD,Bangladesh
+384,BGD,Bangladesh
+385,BGD,Bangladesh
+386,BGD,Bangladesh
+387,BGD,Bangladesh
+388,BGD,Bangladesh
+389,BGD,Bangladesh
+390,BGD,Bangladesh
+391,BGD,Bangladesh
+392,BGD,Bangladesh
+393,BGD,Bangladesh
+394,BGD,Bangladesh
+395,BGD,Bangladesh
+396,BGD,Bangladesh
+397,BGD,Bangladesh
+398,BGD,Bangladesh
+399,BGR,Bulgaria
+400,BGR,Bulgaria
+401,BGR,Bulgaria
+402,BGR,Bulgaria
+403,BGR,Bulgaria
+404,BGR,Bulgaria
+405,BGR,Bulgaria
+406,BGR,Bulgaria
+407,BGR,Bulgaria
+408,BGR,Bulgaria
+409,BGR,Bulgaria
+410,BGR,Bulgaria
+411,BGR,Bulgaria
+412,BGR,Bulgaria
+413,BGR,Bulgaria
+414,BGR,Bulgaria
+415,BGR,Bulgaria
+416,BGR,Bulgaria
+417,BGR,Bulgaria
+418,BGR,Bulgaria
+419,BGR,Bulgaria
+420,BGR,Bulgaria
+421,BGR,Bulgaria
+422,BGR,Bulgaria
+423,BGR,Bulgaria
+424,BGR,Bulgaria
+425,BGR,Bulgaria
+426,BGR,Bulgaria
+427,BGR,Bulgaria
+428,BGR,Bulgaria
+429,BGR,Bulgaria
+430,BGR,Bulgaria
+431,BHR,Bahrain
+432,BHR,Bahrain
+433,BHR,Bahrain
+434,BHR,Bahrain
+435,BHR,Bahrain
+436,BHR,Bahrain
+437,BHR,Bahrain
+438,BHR,Bahrain
+439,BHR,Bahrain
+440,BHR,Bahrain
+441,BHR,Bahrain
+442,BHR,Bahrain
+443,BHR,Bahrain
+444,BHR,Bahrain
+445,BHR,Bahrain
+446,BHS,Bahamas
+447,BHS,Bahamas
+448,BHS,Bahamas
+449,BHS,Bahamas
+450,BHS,Bahamas
+451,BHS,Bahamas
+452,BHS,Bahamas
+453,BHS,Bahamas
+454,BHS,Bahamas
+455,BHS,Bahamas
+456,BHS,Bahamas
+457,BHS,Bahamas
+458,BHS,Bahamas
+459,BHS,Bahamas
+460,BHS,Bahamas
+461,BHS,Bahamas
+462,BHS,Bahamas
+463,BHS,Bahamas
+464,BHS,Bahamas
+465,BHS,Bahamas
+466,BHS,Bahamas
+467,BHS,Bahamas
+468,BHS,Bahamas
+469,BIH,Bosnia and Herzegovina
+470,BIH,Bosnia and Herzegovina
+471,BIH,Bosnia and Herzegovina
+472,BIH,Bosnia and Herzegovina
+473,BIH,Bosnia and Herzegovina
+474,BIH,Bosnia and Herzegovina
+475,BIH,Bosnia and Herzegovina
+476,BIH,Bosnia and Herzegovina
+477,BIH,Bosnia and Herzegovina
+478,BIH,Bosnia and Herzegovina
+479,BIH,Bosnia and Herzegovina
+480,BIH,Bosnia and Herzegovina
+481,BIH,Bosnia and Herzegovina
+482,BIH,Bosnia and Herzegovina
+483,BIH,Bosnia and Herzegovina
+484,BIH,Bosnia and Herzegovina
+485,BIH,Bosnia and Herzegovina
+486,BIH,Bosnia and Herzegovina
+487,BIH,Bosnia and Herzegovina
+488,BIH,Bosnia and Herzegovina
+489,BIH,Bosnia and Herzegovina
+490,BIH,Bosnia and Herzegovina
+491,BIH,Bosnia and Herzegovina
+492,BIH,Bosnia and Herzegovina
+493,BLR,Belarus
+494,BLR,Belarus
+495,BLR,Belarus
+496,BLR,Belarus
+497,BLR,Belarus
+498,BLR,Belarus
+499,BLR,Belarus
+500,BLR,Belarus
+501,BLR,Belarus
+502,BLR,Belarus
+503,BLR,Belarus
+504,BLR,Belarus
+505,BLR,Belarus
+506,BLR,Belarus
+507,BLR,Belarus
+508,BLR,Belarus
+509,BLR,Belarus
+510,BLR,Belarus
+511,BLR,Belarus
+512,BLR,Belarus
+513,BLR,Belarus
+514,BLR,Belarus
+515,BLR,Belarus
+516,BLR,Belarus
+517,BLR,Belarus
+518,BLR,Belarus
+519,BLR,Belarus
+520,BLR,Belarus
+521,BLR,Belarus
+522,BLR,Belarus
+523,BLZ,Belize
+524,BLZ,Belize
+525,BLZ,Belize
+526,BLZ,Belize
+527,BLZ,Belize
+528,BLZ,Belize
+529,BLZ,Belize
+530,BLZ,Belize
+531,BLZ,Belize
+532,BLZ,Belize
+533,BLZ,Belize
+534,BLZ,Belize
+535,BLZ,Belize
+536,BLZ,Belize
+537,BLZ,Belize
+538,BLZ,Belize
+539,BLZ,Belize
+540,BLZ,Belize
+541,BLZ,Belize
+542,BLZ,Belize
+543,BMU,Bermuda
+544,BMU,Bermuda
+545,BMU,Bermuda
+546,BMU,Bermuda
+547,BMU,Bermuda
+548,BMU,Bermuda
+549,BMU,Bermuda
+550,BMU,Bermuda
+551,BMU,Bermuda
+552,BMU,Bermuda
+553,BMU,Bermuda
+554,BMU,Bermuda
+555,BMU,Bermuda
+556,BMU,Bermuda
+557,BMU,Bermuda
+558,BMU,Bermuda
+559,BMU,Bermuda
+560,BMU,Bermuda
+561,BOL,Bolivia
+562,BOL,Bolivia
+563,BOL,Bolivia
+564,BOL,Bolivia
+565,BOL,Bolivia
+566,BOL,Bolivia
+567,BOL,Bolivia
+568,BOL,Bolivia
+569,BOL,Bolivia
+570,BOL,Bolivia
+571,BOL,Bolivia
+572,BOL,Bolivia
+573,BOL,Bolivia
+574,BOL,Bolivia
+575,BOL,Bolivia
+576,BOL,Bolivia
+577,BOL,Bolivia
+578,BOL,Bolivia
+579,BOL,Bolivia
+580,BOL,Bolivia
+581,BOL,Bolivia
+582,BOL,Bolivia
+583,BOL,Bolivia
+584,BOL,Bolivia
+585,BOL,Bolivia
+586,BOL,Bolivia
+587,BOL,Bolivia
+588,BRA,Brazil
+589,BRA,Brazil
+590,BRA,Brazil
+591,BRA,Brazil
+592,BRA,Brazil
+593,BRA,Brazil
+594,BRA,Brazil
+595,BRA,Brazil
+596,BRA,Brazil
+597,BRA,Brazil
+598,BRA,Brazil
+599,BRA,Brazil
+600,BRA,Brazil
+601,BRA,Brazil
+602,BRA,Brazil
+603,BRA,Brazil
+604,BRA,Brazil
+605,BRA,Brazil
+606,BRA,Brazil
+607,BRA,Brazil
+608,BRA,Brazil
+609,BRA,Brazil
+610,BRA,Brazil
+611,BRA,Brazil
+612,BRA,Brazil
+613,BRA,Brazil
+614,BRA,Brazil
+615,BRA,Brazil
+616,BRA,Brazil
+617,BRA,Brazil
+618,BRA,Brazil
+619,BRA,Brazil
+620,BRA,Brazil
+621,BRB,Barbados
+622,BRB,Barbados
+623,BRB,Barbados
+624,BRB,Barbados
+625,BRB,Barbados
+626,BRB,Barbados
+627,BRB,Barbados
+628,BRB,Barbados
+629,BRB,Barbados
+630,BRB,Barbados
+631,BRB,Barbados
+632,BRB,Barbados
+633,BRB,Barbados
+634,BRB,Barbados
+635,BRB,Barbados
+636,BRB,Barbados
+637,BRB,Barbados
+638,BRB,Barbados
+639,BRB,Barbados
+640,BRB,Barbados
+641,BRB,Barbados
+642,BRB,Barbados
+643,BRB,Barbados
+644,BRN,Brunei Darussalam
+645,BRN,Brunei Darussalam
+646,BRN,Brunei Darussalam
+647,BRN,Brunei Darussalam
+648,BRN,Brunei Darussalam
+649,BRN,Brunei Darussalam
+650,BRN,Brunei Darussalam
+651,BRN,Brunei Darussalam
+652,BRN,Brunei Darussalam
+653,BRN,Brunei Darussalam
+654,BRN,Brunei Darussalam
+655,BRN,Brunei Darussalam
+656,BRN,Brunei Darussalam
+657,BRN,Brunei Darussalam
+658,BRN,Brunei Darussalam
+659,BTN,Bhutan
+660,BTN,Bhutan
+661,BTN,Bhutan
+662,BTN,Bhutan
+663,BTN,Bhutan
+664,BTN,Bhutan
+665,BTN,Bhutan
+666,BTN,Bhutan
+667,BTN,Bhutan
+668,BTN,Bhutan
+669,BTN,Bhutan
+670,BTN,Bhutan
+671,BTN,Bhutan
+672,BTN,Bhutan
+673,BTN,Bhutan
+674,BTN,Bhutan
+675,BTN,Bhutan
+676,BTN,Bhutan
+677,BTN,Bhutan
+678,BTN,Bhutan
+679,BTN,Bhutan
+680,BTN,Bhutan
+681,BWA,Botswana
+682,BWA,Botswana
+683,BWA,Botswana
+684,BWA,Botswana
+685,BWA,Botswana
+686,BWA,Botswana
+687,BWA,Botswana
+688,BWA,Botswana
+689,BWA,Botswana
+690,BWA,Botswana
+691,BWA,Botswana
+692,BWA,Botswana
+693,BWA,Botswana
+694,BWA,Botswana
+695,BWA,Botswana
+696,BWA,Botswana
+697,BWA,Botswana
+698,CAF,Central African Republic
+699,CAF,Central African Republic
+700,CAF,Central African Republic
+701,CAF,Central African Republic
+702,CAF,Central African Republic
+703,CAF,Central African Republic
+704,CAF,Central African Republic
+705,CAF,Central African Republic
+706,CAF,Central African Republic
+707,CAF,Central African Republic
+708,CAF,Central African Republic
+709,CAF,Central African Republic
+710,CAF,Central African Republic
+711,CAF,Central African Republic
+712,CAF,Central African Republic
+713,CAF,Central African Republic
+714,CAF,Central African Republic
+715,CAF,Central African Republic
+716,CAF,Central African Republic
+717,CAF,Central African Republic
+718,CAN,Canada
+719,CAN,Canada
+720,CAN,Canada
+721,CAN,Canada
+722,CAN,Canada
+723,CAN,Canada
+724,CAN,Canada
+725,CAN,Canada
+726,CAN,Canada
+727,CAN,Canada
+728,CAN,Canada
+729,CAN,Canada
+730,CAN,Canada
+731,CAN,Canada
+732,CAN,Canada
+733,CAN,Canada
+734,CAN,Canada
+735,CAN,Canada
+736,CAN,Canada
+737,CAN,Canada
+738,CAN,Canada
+739,CAN,Canada
+740,CAN,Canada
+741,CAN,Canada
+742,CAN,Canada
+743,CAN,Canada
+744,CAN,Canada
+745,CAN,Canada
+746,CAN,Canada
+747,CHE,Switzerland
+748,CHE,Switzerland
+749,CHE,Switzerland
+750,CHE,Switzerland
+751,CHE,Switzerland
+752,CHE,Switzerland
+753,CHE,Switzerland
+754,CHE,Switzerland
+755,CHE,Switzerland
+756,CHE,Switzerland
+757,CHE,Switzerland
+758,CHE,Switzerland
+759,CHE,Switzerland
+760,CHE,Switzerland
+761,CHE,Switzerland
+762,CHE,Switzerland
+763,CHE,Switzerland
+764,CHE,Switzerland
+765,CHE,Switzerland
+766,CHE,Switzerland
+767,CHE,Switzerland
+768,CHE,Switzerland
+769,CHE,Switzerland
+770,CHE,Switzerland
+771,CHE,Switzerland
+772,CHE,Switzerland
+773,CHE,Switzerland
+774,CHE,Switzerland
+775,CHE,Switzerland
+776,CHE,Switzerland
+777,CHE,Switzerland
+778,CHE,Switzerland
+779,CHE,Switzerland
+780,CHL,Chile
+781,CHL,Chile
+782,CHL,Chile
+783,CHL,Chile
+784,CHL,Chile
+785,CHL,Chile
+786,CHL,Chile
+787,CHL,Chile
+788,CHL,Chile
+789,CHL,Chile
+790,CHL,Chile
+791,CHL,Chile
+792,CHL,Chile
+793,CHL,Chile
+794,CHL,Chile
+795,CHL,Chile
+796,CHL,Chile
+797,CHL,Chile
+798,CHL,Chile
+799,CHL,Chile
+800,CHL,Chile
+801,CHL,Chile
+802,CHL,Chile
+803,CHL,Chile
+804,CHL,Chile
+805,CHL,Chile
+806,CHL,Chile
+807,CHL,Chile
+808,CHL,Chile
+809,CHN,China
+810,CHN,China
+811,CHN,China
+812,CHN,China
+813,CHN,China
+814,CHN,China
+815,CHN,China
+816,CHN,China
+817,CHN,China
+818,CHN,China
+819,CHN,China
+820,CHN,China
+821,CHN,China
+822,CHN,China
+823,CHN,China
+824,CHN,China
+825,CHN,China
+826,CHN,China
+827,CHN,China
+828,CHN,China
+829,CHN,China
+830,CHN,China
+831,CHN,China
+832,CHN,China
+833,CHN,China
+834,CHN,China
+835,CHN,China
+836,CHN,China
+837,CHN,China
+838,CHN,China
+839,CIV,Cote d'Ivoire
+840,CIV,Cote d'Ivoire
+841,CIV,Cote d'Ivoire
+842,CIV,Cote d'Ivoire
+843,CIV,Cote d'Ivoire
+844,CIV,Cote d'Ivoire
+845,CIV,Cote d'Ivoire
+846,CIV,Cote d'Ivoire
+847,CIV,Cote d'Ivoire
+848,CIV,Cote d'Ivoire
+849,CIV,Cote d'Ivoire
+850,CIV,Cote d'Ivoire
+851,CIV,Cote d'Ivoire
+852,CIV,Cote d'Ivoire
+853,CIV,Cote d'Ivoire
+854,CIV,Cote d'Ivoire
+855,CIV,Cote d'Ivoire
+856,CIV,Cote d'Ivoire
+857,CIV,Cote d'Ivoire
+858,CIV,Cote d'Ivoire
+859,CMR,Cameroon
+860,CMR,Cameroon
+861,CMR,Cameroon
+862,CMR,Cameroon
+863,CMR,Cameroon
+864,CMR,Cameroon
+865,CMR,Cameroon
+866,CMR,Cameroon
+867,CMR,Cameroon
+868,CMR,Cameroon
+869,CMR,Cameroon
+870,CMR,Cameroon
+871,CMR,Cameroon
+872,CMR,Cameroon
+873,CMR,Cameroon
+874,CMR,Cameroon
+875,CMR,Cameroon
+876,CMR,Cameroon
+877,CMR,Cameroon
+878,CMR,Cameroon
+879,CMR,Cameroon
+880,CMR,Cameroon
+881,CMR,Cameroon
+882,CMR,Cameroon
+883,COD,Congo_the Democratic Republic of the
+884,COD,Congo_the Democratic Republic of the
+885,COD,Congo_the Democratic Republic of the
+886,COD,Congo_the Democratic Republic of the
+887,COD,Congo_the Democratic Republic of the
+888,COD,Congo_the Democratic Republic of the
+889,COD,Congo_the Democratic Republic of the
+890,COD,Congo_the Democratic Republic of the
+891,COD,Congo_the Democratic Republic of the
+892,COD,Congo_the Democratic Republic of the
+893,COD,Congo_the Democratic Republic of the
+894,COD,Congo_the Democratic Republic of the
+895,COD,Congo_the Democratic Republic of the
+896,COD,Congo_the Democratic Republic of the
+897,COD,Congo_the Democratic Republic of the
+898,COD,Congo_the Democratic Republic of the
+899,COD,Congo_the Democratic Republic of the
+900,COD,Congo_the Democratic Republic of the
+901,COD,Congo_the Democratic Republic of the
+902,COD,Congo_the Democratic Republic of the
+903,COD,Congo_the Democratic Republic of the
+904,COD,Congo_the Democratic Republic of the
+905,COG,Congo
+906,COG,Congo
+907,COG,Congo
+908,COG,Congo
+909,COG,Congo
+910,COG,Congo
+911,COG,Congo
+912,COG,Congo
+913,COG,Congo
+914,COG,Congo
+915,COG,Congo
+916,COG,Congo
+917,COG,Congo
+918,COG,Congo
+919,COG,Congo
+920,COG,Congo
+921,COG,Congo
+922,COG,Congo
+923,COG,Congo
+924,COG,Congo
+925,COK,Cook Islands
+926,COK,Cook Islands
+927,COK,Cook Islands
+928,COK,Cook Islands
+929,COK,Cook Islands
+930,COK,Cook Islands
+931,COK,Cook Islands
+932,COK,Cook Islands
+933,COK,Cook Islands
+934,COK,Cook Islands
+935,COK,Cook Islands
+936,COK,Cook Islands
+937,COK,Cook Islands
+938,COK,Cook Islands
+939,COK,Cook Islands
+940,COL,Colombia
+941,COL,Colombia
+942,COL,Colombia
+943,COL,Colombia
+944,COL,Colombia
+945,COL,Colombia
+946,COL,Colombia
+947,COL,Colombia
+948,COL,Colombia
+949,COL,Colombia
+950,COL,Colombia
+951,COL,Colombia
+952,COL,Colombia
+953,COL,Colombia
+954,COL,Colombia
+955,COL,Colombia
+956,COL,Colombia
+957,COL,Colombia
+958,COL,Colombia
+959,COL,Colombia
+960,COL,Colombia
+961,COL,Colombia
+962,COL,Colombia
+963,COL,Colombia
+964,COL,Colombia
+965,COL,Colombia
+966,COL,Colombia
+967,COL,Colombia
+968,COL,Colombia
+969,COL,Colombia
+970,COL,Colombia
+971,COM,Comoros
+972,COM,Comoros
+973,COM,Comoros
+974,COM,Comoros
+975,COM,Comoros
+976,COM,Comoros
+977,COM,Comoros
+978,COM,Comoros
+979,COM,Comoros
+980,COM,Comoros
+981,COM,Comoros
+982,COM,Comoros
+983,COM,Comoros
+984,COM,Comoros
+985,COM,Comoros
+986,COM,Comoros
+987,COM,Comoros
+988,COM,Comoros
+989,COM,Comoros
+990,COM,Comoros
+991,CPV,Cape Verde
+992,CPV,Cape Verde
+993,CPV,Cape Verde
+994,CPV,Cape Verde
+995,CPV,Cape Verde
+996,CPV,Cape Verde
+997,CPV,Cape Verde
+998,CPV,Cape Verde
+999,CPV,Cape Verde
+1000,CPV,Cape Verde
+1001,CPV,Cape Verde
+1002,CPV,Cape Verde
+1003,CPV,Cape Verde
+1004,CPV,Cape Verde
+1005,CPV,Cape Verde
+1006,CPV,Cape Verde
+1007,CPV,Cape Verde
+1008,CPV,Cape Verde
+1009,CPV,Cape Verde
+1010,CPV,Cape Verde
+1011,CRI,Costa Rica
+1012,CRI,Costa Rica
+1013,CRI,Costa Rica
+1014,CRI,Costa Rica
+1015,CRI,Costa Rica
+1016,CRI,Costa Rica
+1017,CRI,Costa Rica
+1018,CRI,Costa Rica
+1019,CRI,Costa Rica
+1020,CRI,Costa Rica
+1021,CRI,Costa Rica
+1022,CRI,Costa Rica
+1023,CRI,Costa Rica
+1024,CRI,Costa Rica
+1025,CRI,Costa Rica
+1026,CRI,Costa Rica
+1027,CRI,Costa Rica
+1028,CRI,Costa Rica
+1029,CRI,Costa Rica
+1030,CRI,Costa Rica
+1031,CRI,Costa Rica
+1032,CRI,Costa Rica
+1033,CRI,Costa Rica
+1034,CUB,Cuba
+1035,CUB,Cuba
+1036,CUB,Cuba
+1037,CUB,Cuba
+1038,CUB,Cuba
+1039,CUB,Cuba
+1040,CUB,Cuba
+1041,CUB,Cuba
+1042,CUB,Cuba
+1043,CUB,Cuba
+1044,CUB,Cuba
+1045,CUB,Cuba
+1046,CUB,Cuba
+1047,CUB,Cuba
+1048,CUB,Cuba
+1049,CUB,Cuba
+1050,CUB,Cuba
+1051,CUB,Cuba
+1052,CUB,Cuba
+1053,CUB,Cuba
+1054,CUB,Cuba
+1055,CUB,Cuba
+1056,CUB,Cuba
+1057,CUB,Cuba
+1058,CUB,Cuba
+1059,CUB,Cuba
+1060,CUB,Cuba
+1061,CYM,Cayman Islands
+1062,CYM,Cayman Islands
+1063,CYM,Cayman Islands
+1064,CYM,Cayman Islands
+1065,CYM,Cayman Islands
+1066,CYM,Cayman Islands
+1067,CYM,Cayman Islands
+1068,CYM,Cayman Islands
+1069,CYM,Cayman Islands
+1070,CYM,Cayman Islands
+1071,CYM,Cayman Islands
+1072,CYM,Cayman Islands
+1073,CYM,Cayman Islands
+1074,CYM,Cayman Islands
+1075,CYM,Cayman Islands
+1076,CYM,Cayman Islands
+1077,CYP,Cyprus
+1078,CYP,Cyprus
+1079,CYP,Cyprus
+1080,CYP,Cyprus
+1081,CYP,Cyprus
+1082,CYP,Cyprus
+1083,CYP,Cyprus
+1084,CYP,Cyprus
+1085,CYP,Cyprus
+1086,CYP,Cyprus
+1087,CYP,Cyprus
+1088,CYP,Cyprus
+1089,CYP,Cyprus
+1090,CYP,Cyprus
+1091,CYP,Cyprus
+1092,CYP,Cyprus
+1093,CYP,Cyprus
+1094,CYP,Cyprus
+1095,CYP,Cyprus
+1096,CYP,Cyprus
+1097,CYP,Cyprus
+1098,CYP,Cyprus
+1099,CYP,Cyprus
+1100,CYP,Cyprus
+1101,CYP,Cyprus
+1102,CZE,Czech Republic
+1103,CZE,Czech Republic
+1104,CZE,Czech Republic
+1105,CZE,Czech Republic
+1106,CZE,Czech Republic
+1107,CZE,Czech Republic
+1108,CZE,Czech Republic
+1109,CZE,Czech Republic
+1110,CZE,Czech Republic
+1111,CZE,Czech Republic
+1112,CZE,Czech Republic
+1113,CZE,Czech Republic
+1114,CZE,Czech Republic
+1115,CZE,Czech Republic
+1116,CZE,Czech Republic
+1117,CZE,Czech Republic
+1118,CZE,Czech Republic
+1119,CZE,Czech Republic
+1120,CZE,Czech Republic
+1121,CZE,Czech Republic
+1122,CZE,Czech Republic
+1123,CZE,Czech Republic
+1124,CZE,Czech Republic
+1125,CZE,Czech Republic
+1126,CZE,Czech Republic
+1127,CZE,Czech Republic
+1128,CZE,Czech Republic
+1129,CZE,Czech Republic
+1130,CZE,Czech Republic
+1131,CZE,Czech Republic
+1132,DEU,Germany
+1133,DEU,Germany
+1134,DEU,Germany
+1135,DEU,Germany
+1136,DEU,Germany
+1137,DEU,Germany
+1138,DEU,Germany
+1139,DEU,Germany
+1140,DEU,Germany
+1141,DEU,Germany
+1142,DEU,Germany
+1143,DEU,Germany
+1144,DEU,Germany
+1145,DEU,Germany
+1146,DEU,Germany
+1147,DEU,Germany
+1148,DEU,Germany
+1149,DEU,Germany
+1150,DEU,Germany
+1151,DEU,Germany
+1152,DEU,Germany
+1153,DEU,Germany
+1154,DEU,Germany
+1155,DEU,Germany
+1156,DEU,Germany
+1157,DEU,Germany
+1158,DEU,Germany
+1159,DEU,Germany
+1160,DEU,Germany
+1161,DEU,Germany
+1162,DEU,Germany
+1163,DEU,Germany
+1164,DEU,Germany
+1165,DJI,Djibouti
+1166,DJI,Djibouti
+1167,DJI,Djibouti
+1168,DJI,Djibouti
+1169,DJI,Djibouti
+1170,DJI,Djibouti
+1171,DJI,Djibouti
+1172,DJI,Djibouti
+1173,DJI,Djibouti
+1174,DJI,Djibouti
+1175,DJI,Djibouti
+1176,DJI,Djibouti
+1177,DJI,Djibouti
+1178,DJI,Djibouti
+1179,DJI,Djibouti
+1180,DJI,Djibouti
+1181,DJI,Djibouti
+1182,DJI,Djibouti
+1183,DJI,Djibouti
+1184,DJI,Djibouti
+1185,DMA,Dominica
+1186,DMA,Dominica
+1187,DMA,Dominica
+1188,DMA,Dominica
+1189,DMA,Dominica
+1190,DMA,Dominica
+1191,DMA,Dominica
+1192,DMA,Dominica
+1193,DMA,Dominica
+1194,DMA,Dominica
+1195,DMA,Dominica
+1196,DMA,Dominica
+1197,DMA,Dominica
+1198,DMA,Dominica
+1199,DMA,Dominica
+1200,DMA,Dominica
+1201,DMA,Dominica
+1202,DMA,Dominica
+1203,DMA,Dominica
+1204,DMA,Dominica
+1205,DNK,Denmark
+1206,DNK,Denmark
+1207,DNK,Denmark
+1208,DNK,Denmark
+1209,DNK,Denmark
+1210,DNK,Denmark
+1211,DNK,Denmark
+1212,DNK,Denmark
+1213,DNK,Denmark
+1214,DNK,Denmark
+1215,DNK,Denmark
+1216,DNK,Denmark
+1217,DNK,Denmark
+1218,DNK,Denmark
+1219,DNK,Denmark
+1220,DNK,Denmark
+1221,DNK,Denmark
+1222,DNK,Denmark
+1223,DNK,Denmark
+1224,DNK,Denmark
+1225,DNK,Denmark
+1226,DNK,Denmark
+1227,DNK,Denmark
+1228,DNK,Denmark
+1229,DNK,Denmark
+1230,DNK,Denmark
+1231,DNK,Denmark
+1232,DNK,Denmark
+1233,DNK,Denmark
+1234,DOM,Dominican Republic
+1235,DOM,Dominican Republic
+1236,DOM,Dominican Republic
+1237,DOM,Dominican Republic
+1238,DOM,Dominican Republic
+1239,DOM,Dominican Republic
+1240,DOM,Dominican Republic
+1241,DOM,Dominican Republic
+1242,DOM,Dominican Republic
+1243,DOM,Dominican Republic
+1244,DOM,Dominican Republic
+1245,DOM,Dominican Republic
+1246,DOM,Dominican Republic
+1247,DOM,Dominican Republic
+1248,DOM,Dominican Republic
+1249,DOM,Dominican Republic
+1250,DOM,Dominican Republic
+1251,DOM,Dominican Republic
+1252,DOM,Dominican Republic
+1253,DOM,Dominican Republic
+1254,DOM,Dominican Republic
+1255,DOM,Dominican Republic
+1256,DOM,Dominican Republic
+1257,DOM,Dominican Republic
+1258,DOM,Dominican Republic
+1259,DZA,Algeria
+1260,DZA,Algeria
+1261,DZA,Algeria
+1262,DZA,Algeria
+1263,DZA,Algeria
+1264,DZA,Algeria
+1265,DZA,Algeria
+1266,DZA,Algeria
+1267,DZA,Algeria
+1268,DZA,Algeria
+1269,DZA,Algeria
+1270,DZA,Algeria
+1271,DZA,Algeria
+1272,DZA,Algeria
+1273,DZA,Algeria
+1274,DZA,Algeria
+1275,DZA,Algeria
+1276,DZA,Algeria
+1277,DZA,Algeria
+1278,DZA,Algeria
+1279,DZA,Algeria
+1280,DZA,Algeria
+1281,DZA,Algeria
+1282,DZA,Algeria
+1283,DZA,Algeria
+1284,DZA,Algeria
+1285,ECU,Ecuador
+1286,ECU,Ecuador
+1287,ECU,Ecuador
+1288,ECU,Ecuador
+1289,ECU,Ecuador
+1290,ECU,Ecuador
+1291,ECU,Ecuador
+1292,ECU,Ecuador
+1293,ECU,Ecuador
+1294,ECU,Ecuador
+1295,ECU,Ecuador
+1296,ECU,Ecuador
+1297,ECU,Ecuador
+1298,ECU,Ecuador
+1299,ECU,Ecuador
+1300,ECU,Ecuador
+1301,ECU,Ecuador
+1302,ECU,Ecuador
+1303,ECU,Ecuador
+1304,ECU,Ecuador
+1305,ECU,Ecuador
+1306,ECU,Ecuador
+1307,ECU,Ecuador
+1308,ECU,Ecuador
+1309,ECU,Ecuador
+1310,ECU,Ecuador
+1311,EGY,Egypt
+1312,EGY,Egypt
+1313,EGY,Egypt
+1314,EGY,Egypt
+1315,EGY,Egypt
+1316,EGY,Egypt
+1317,EGY,Egypt
+1318,EGY,Egypt
+1319,EGY,Egypt
+1320,EGY,Egypt
+1321,EGY,Egypt
+1322,EGY,Egypt
+1323,EGY,Egypt
+1324,EGY,Egypt
+1325,EGY,Egypt
+1326,EGY,Egypt
+1327,EGY,Egypt
+1328,EGY,Egypt
+1329,EGY,Egypt
+1330,EGY,Egypt
+1331,EGY,Egypt
+1332,EGY,Egypt
+1333,EGY,Egypt
+1334,EGY,Egypt
+1335,EGY,Egypt
+1336,ERI,Eritrea
+1337,ERI,Eritrea
+1338,ERI,Eritrea
+1339,ERI,Eritrea
+1340,ERI,Eritrea
+1341,ERI,Eritrea
+1342,ERI,Eritrea
+1343,ERI,Eritrea
+1344,ERI,Eritrea
+1345,ERI,Eritrea
+1346,ERI,Eritrea
+1347,ERI,Eritrea
+1348,ERI,Eritrea
+1349,ERI,Eritrea
+1350,ERI,Eritrea
+1351,ERI,Eritrea
+1352,ESH,Western Sahara
+1353,ESH,Western Sahara
+1354,ESH,Western Sahara
+1355,ESH,Western Sahara
+1356,ESH,Western Sahara
+1357,ESH,Western Sahara
+1358,ESH,Western Sahara
+1359,ESH,Western Sahara
+1360,ESH,Western Sahara
+1361,ESH,Western Sahara
+1362,ESH,Western Sahara
+1363,ESP,Spain
+1364,ESP,Spain
+1365,ESP,Spain
+1366,ESP,Spain
+1367,ESP,Spain
+1368,ESP,Spain
+1369,ESP,Spain
+1370,ESP,Spain
+1371,ESP,Spain
+1372,ESP,Spain
+1373,ESP,Spain
+1374,ESP,Spain
+1375,ESP,Spain
+1376,ESP,Spain
+1377,ESP,Spain
+1378,ESP,Spain
+1379,ESP,Spain
+1380,ESP,Spain
+1381,ESP,Spain
+1382,ESP,Spain
+1383,ESP,Spain
+1384,ESP,Spain
+1385,ESP,Spain
+1386,ESP,Spain
+1387,ESP,Spain
+1388,ESP,Spain
+1389,ESP,Spain
+1390,ESP,Spain
+1391,ESP,Spain
+1392,ESP,Spain
+1393,ESP,Spain
+1394,ESP,Spain
+1395,ESP,Spain
+1396,ESP,Spain
+1397,EST,Estonia
+1398,EST,Estonia
+1399,EST,Estonia
+1400,EST,Estonia
+1401,EST,Estonia
+1402,EST,Estonia
+1403,EST,Estonia
+1404,EST,Estonia
+1405,EST,Estonia
+1406,EST,Estonia
+1407,EST,Estonia
+1408,EST,Estonia
+1409,EST,Estonia
+1410,EST,Estonia
+1411,EST,Estonia
+1412,EST,Estonia
+1413,EST,Estonia
+1414,EST,Estonia
+1415,EST,Estonia
+1416,EST,Estonia
+1417,EST,Estonia
+1418,EST,Estonia
+1419,EST,Estonia
+1420,EST,Estonia
+1421,EST,Estonia
+1422,EST,Estonia
+1423,EST,Estonia
+1424,ETH,Ethiopia
+1425,ETH,Ethiopia
+1426,ETH,Ethiopia
+1427,ETH,Ethiopia
+1428,ETH,Ethiopia
+1429,ETH,Ethiopia
+1430,ETH,Ethiopia
+1431,ETH,Ethiopia
+1432,ETH,Ethiopia
+1433,ETH,Ethiopia
+1434,ETH,Ethiopia
+1435,ETH,Ethiopia
+1436,ETH,Ethiopia
+1437,ETH,Ethiopia
+1438,ETH,Ethiopia
+1439,ETH,Ethiopia
+1440,ETH,Ethiopia
+1441,ETH,Ethiopia
+1442,ETH,Ethiopia
+1443,ETH,Ethiopia
+1444,ETH,Ethiopia
+1445,ETH,Ethiopia
+1446,ETH,Ethiopia
+1447,ETH,Ethiopia
+1448,ETH,Ethiopia
+1449,ETH,Ethiopia
+1450,FIN,Finland
+1451,FIN,Finland
+1452,FIN,Finland
+1453,FIN,Finland
+1454,FIN,Finland
+1455,FIN,Finland
+1456,FIN,Finland
+1457,FIN,Finland
+1458,FIN,Finland
+1459,FIN,Finland
+1460,FIN,Finland
+1461,FIN,Finland
+1462,FIN,Finland
+1463,FIN,Finland
+1464,FIN,Finland
+1465,FIN,Finland
+1466,FIN,Finland
+1467,FIN,Finland
+1468,FIN,Finland
+1469,FIN,Finland
+1470,FIN,Finland
+1471,FIN,Finland
+1472,FIN,Finland
+1473,FIN,Finland
+1474,FIN,Finland
+1475,FIN,Finland
+1476,FIN,Finland
+1477,FIN,Finland
+1478,FIN,Finland
+1479,FIN,Finland
+1480,FIN,Finland
+1481,FIN,Finland
+1482,FIN,Finland
+1483,FJI,Fiji
+1484,FJI,Fiji
+1485,FJI,Fiji
+1486,FJI,Fiji
+1487,FJI,Fiji
+1488,FJI,Fiji
+1489,FJI,Fiji
+1490,FJI,Fiji
+1491,FJI,Fiji
+1492,FJI,Fiji
+1493,FJI,Fiji
+1494,FJI,Fiji
+1495,FJI,Fiji
+1496,FJI,Fiji
+1497,FJI,Fiji
+1498,FJI,Fiji
+1499,FJI,Fiji
+1500,FJI,Fiji
+1501,FJI,Fiji
+1502,FJI,Fiji
+1503,FJI,Fiji
+1504,FJI,Fiji
+1505,FLK,Falkland Islands (Malvinas)
+1506,FLK,Falkland Islands (Malvinas)
+1507,FLK,Falkland Islands (Malvinas)
+1508,FLK,Falkland Islands (Malvinas)
+1509,FLK,Falkland Islands (Malvinas)
+1510,FLK,Falkland Islands (Malvinas)
+1511,FLK,Falkland Islands (Malvinas)
+1512,FLK,Falkland Islands (Malvinas)
+1513,FLK,Falkland Islands (Malvinas)
+1514,FLK,Falkland Islands (Malvinas)
+1515,FLK,Falkland Islands (Malvinas)
+1516,FLK,Falkland Islands (Malvinas)
+1517,FLK,Falkland Islands (Malvinas)
+1518,FLK,Falkland Islands (Malvinas)
+1519,FLK,Falkland Islands (Malvinas)
+1520,FLK,Falkland Islands (Malvinas)
+1521,FLK,Falkland Islands (Malvinas)
+1522,FRA,France
+1523,FRA,France
+1524,FRA,France
+1525,FRA,France
+1526,FRA,France
+1527,FRA,France
+1528,FRA,France
+1529,FRA,France
+1530,FRA,France
+1531,FRA,France
+1532,FRA,France
+1533,FRA,France
+1534,FRA,France
+1535,FRA,France
+1536,FRA,France
+1537,FRA,France
+1538,FRA,France
+1539,FRA,France
+1540,FRA,France
+1541,FRA,France
+1542,FRA,France
+1543,FRA,France
+1544,FRA,France
+1545,FRA,France
+1546,FRA,France
+1547,FRA,France
+1548,FRA,France
+1549,FRA,France
+1550,FRA,France
+1551,FRA,France
+1552,FRA,France
+1553,FRA,France
+1554,FRA,France
+1555,FRO,Faroe Islands
+1556,FRO,Faroe Islands
+1557,FRO,Faroe Islands
+1558,FRO,Faroe Islands
+1559,FRO,Faroe Islands
+1560,FRO,Faroe Islands
+1561,GAB,Gabon
+1562,GAB,Gabon
+1563,GAB,Gabon
+1564,GAB,Gabon
+1565,GAB,Gabon
+1566,GAB,Gabon
+1567,GAB,Gabon
+1568,GAB,Gabon
+1569,GAB,Gabon
+1570,GAB,Gabon
+1571,GAB,Gabon
+1572,GAB,Gabon
+1573,GAB,Gabon
+1574,GAB,Gabon
+1575,GAB,Gabon
+1576,GAB,Gabon
+1577,GAB,Gabon
+1578,GAB,Gabon
+1579,GBR,United Kingdom
+1580,GBR,United Kingdom
+1581,GBR,United Kingdom
+1582,GBR,United Kingdom
+1583,GBR,United Kingdom
+1584,GBR,United Kingdom
+1585,GBR,United Kingdom
+1586,GBR,United Kingdom
+1587,GBR,United Kingdom
+1588,GBR,United Kingdom
+1589,GBR,United Kingdom
+1590,GBR,United Kingdom
+1591,GBR,United Kingdom
+1592,GBR,United Kingdom
+1593,GBR,United Kingdom
+1594,GBR,United Kingdom
+1595,GBR,United Kingdom
+1596,GBR,United Kingdom
+1597,GBR,United Kingdom
+1598,GBR,United Kingdom
+1599,GBR,United Kingdom
+1600,GBR,United Kingdom
+1601,GBR,United Kingdom
+1602,GBR,United Kingdom
+1603,GBR,United Kingdom
+1604,GBR,United Kingdom
+1605,GBR,United Kingdom
+1606,GBR,United Kingdom
+1607,GBR,United Kingdom
+1608,GEO,Georgia
+1609,GEO,Georgia
+1610,GEO,Georgia
+1611,GEO,Georgia
+1612,GEO,Georgia
+1613,GEO,Georgia
+1614,GEO,Georgia
+1615,GEO,Georgia
+1616,GEO,Georgia
+1617,GEO,Georgia
+1618,GEO,Georgia
+1619,GEO,Georgia
+1620,GEO,Georgia
+1621,GEO,Georgia
+1622,GEO,Georgia
+1623,GEO,Georgia
+1624,GEO,Georgia
+1625,GEO,Georgia
+1626,GEO,Georgia
+1627,GEO,Georgia
+1628,GEO,Georgia
+1629,GEO,Georgia
+1630,GEO,Georgia
+1631,GEO,Georgia
+1632,GEO,Georgia
+1633,GEO,Georgia
+1634,GEO,Georgia
+1635,GHA,Ghana
+1636,GHA,Ghana
+1637,GHA,Ghana
+1638,GHA,Ghana
+1639,GHA,Ghana
+1640,GHA,Ghana
+1641,GHA,Ghana
+1642,GHA,Ghana
+1643,GHA,Ghana
+1644,GHA,Ghana
+1645,GHA,Ghana
+1646,GHA,Ghana
+1647,GHA,Ghana
+1648,GHA,Ghana
+1649,GHA,Ghana
+1650,GHA,Ghana
+1651,GHA,Ghana
+1652,GHA,Ghana
+1653,GHA,Ghana
+1654,GHA,Ghana
+1655,GHA,Ghana
+1656,GIB,Gibraltar
+1657,GIB,Gibraltar
+1658,GIB,Gibraltar
+1659,GIB,Gibraltar
+1660,GIB,Gibraltar
+1661,GIB,Gibraltar
+1662,GIN,Guinea
+1663,GIN,Guinea
+1664,GIN,Guinea
+1665,GIN,Guinea
+1666,GIN,Guinea
+1667,GIN,Guinea
+1668,GIN,Guinea
+1669,GIN,Guinea
+1670,GIN,Guinea
+1671,GIN,Guinea
+1672,GIN,Guinea
+1673,GIN,Guinea
+1674,GIN,Guinea
+1675,GIN,Guinea
+1676,GIN,Guinea
+1677,GIN,Guinea
+1678,GIN,Guinea
+1679,GIN,Guinea
+1680,GIN,Guinea
+1681,GIN,Guinea
+1682,GIN,Guinea
+1683,GLP,Guadeloupe
+1684,GLP,Guadeloupe
+1685,GLP,Guadeloupe
+1686,GLP,Guadeloupe
+1687,GLP,Guadeloupe
+1688,GLP,Guadeloupe
+1689,GLP,Guadeloupe
+1690,GLP,Guadeloupe
+1691,GLP,Guadeloupe
+1692,GLP,Guadeloupe
+1693,GLP,Guadeloupe
+1694,GLP,Guadeloupe
+1695,GLP,Guadeloupe
+1696,GLP,Guadeloupe
+1697,GLP,Guadeloupe
+1698,GLP,Guadeloupe
+1699,GLP,Guadeloupe
+1700,GLP,Guadeloupe
+1701,GLP,Guadeloupe
+1702,GLP,Guadeloupe
+1703,GLP,Guadeloupe
+1704,GMB,Gambia
+1705,GMB,Gambia
+1706,GMB,Gambia
+1707,GMB,Gambia
+1708,GMB,Gambia
+1709,GMB,Gambia
+1710,GMB,Gambia
+1711,GMB,Gambia
+1712,GMB,Gambia
+1713,GMB,Gambia
+1714,GMB,Gambia
+1715,GMB,Gambia
+1716,GMB,Gambia
+1717,GMB,Gambia
+1718,GMB,Gambia
+1719,GMB,Gambia
+1720,GMB,Gambia
+1721,GMB,Gambia
+1722,GMB,Gambia
+1723,GMB,Gambia
+1724,GNB,Guinea-Bissau
+1725,GNB,Guinea-Bissau
+1726,GNB,Guinea-Bissau
+1727,GNB,Guinea-Bissau
+1728,GNB,Guinea-Bissau
+1729,GNB,Guinea-Bissau
+1730,GNB,Guinea-Bissau
+1731,GNB,Guinea-Bissau
+1732,GNB,Guinea-Bissau
+1733,GNB,Guinea-Bissau
+1734,GNB,Guinea-Bissau
+1735,GNB,Guinea-Bissau
+1736,GNB,Guinea-Bissau
+1737,GNB,Guinea-Bissau
+1738,GNB,Guinea-Bissau
+1739,GNB,Guinea-Bissau
+1740,GNB,Guinea-Bissau
+1741,GNB,Guinea-Bissau
+1742,GNB,Guinea-Bissau
+1743,GNB,Guinea-Bissau
+1744,GNQ,Equatorial Guinea
+1745,GNQ,Equatorial Guinea
+1746,GNQ,Equatorial Guinea
+1747,GNQ,Equatorial Guinea
+1748,GNQ,Equatorial Guinea
+1749,GNQ,Equatorial Guinea
+1750,GNQ,Equatorial Guinea
+1751,GNQ,Equatorial Guinea
+1752,GNQ,Equatorial Guinea
+1753,GNQ,Equatorial Guinea
+1754,GNQ,Equatorial Guinea
+1755,GNQ,Equatorial Guinea
+1756,GNQ,Equatorial Guinea
+1757,GNQ,Equatorial Guinea
+1758,GRC,Greece
+1759,GRC,Greece
+1760,GRC,Greece
+1761,GRC,Greece
+1762,GRC,Greece
+1763,GRC,Greece
+1764,GRC,Greece
+1765,GRC,Greece
+1766,GRC,Greece
+1767,GRC,Greece
+1768,GRC,Greece
+1769,GRC,Greece
+1770,GRC,Greece
+1771,GRC,Greece
+1772,GRC,Greece
+1773,GRC,Greece
+1774,GRC,Greece
+1775,GRC,Greece
+1776,GRC,Greece
+1777,GRC,Greece
+1778,GRC,Greece
+1779,GRC,Greece
+1780,GRC,Greece
+1781,GRC,Greece
+1782,GRC,Greece
+1783,GRC,Greece
+1784,GRC,Greece
+1785,GRC,Greece
+1786,GRC,Greece
+1787,GRC,Greece
+1788,GRC,Greece
+1789,GRC,Greece
+1790,GRC,Greece
+1791,GRC,Greece
+1792,GRD,Grenada
+1793,GRD,Grenada
+1794,GRD,Grenada
+1795,GRD,Grenada
+1796,GRD,Grenada
+1797,GRD,Grenada
+1798,GRD,Grenada
+1799,GRD,Grenada
+1800,GRD,Grenada
+1801,GRD,Grenada
+1802,GRD,Grenada
+1803,GRD,Grenada
+1804,GRD,Grenada
+1805,GRD,Grenada
+1806,GRD,Grenada
+1807,GRD,Grenada
+1808,GRL,Greenland
+1809,GRL,Greenland
+1810,GRL,Greenland
+1811,GRL,Greenland
+1812,GRL,Greenland
+1813,GRL,Greenland
+1814,GRL,Greenland
+1815,GRL,Greenland
+1816,GRL,Greenland
+1817,GRL,Greenland
+1818,GRL,Greenland
+1819,GRL,Greenland
+1820,GTM,Guatemala
+1821,GTM,Guatemala
+1822,GTM,Guatemala
+1823,GTM,Guatemala
+1824,GTM,Guatemala
+1825,GTM,Guatemala
+1826,GTM,Guatemala
+1827,GTM,Guatemala
+1828,GTM,Guatemala
+1829,GTM,Guatemala
+1830,GTM,Guatemala
+1831,GTM,Guatemala
+1832,GTM,Guatemala
+1833,GTM,Guatemala
+1834,GTM,Guatemala
+1835,GTM,Guatemala
+1836,GTM,Guatemala
+1837,GTM,Guatemala
+1838,GTM,Guatemala
+1839,GTM,Guatemala
+1840,GTM,Guatemala
+1841,GTM,Guatemala
+1842,GUF,French Guiana
+1843,GUF,French Guiana
+1844,GUF,French Guiana
+1845,GUF,French Guiana
+1846,GUF,French Guiana
+1847,GUF,French Guiana
+1848,GUF,French Guiana
+1849,GUF,French Guiana
+1850,GUF,French Guiana
+1851,GUF,French Guiana
+1852,GUF,French Guiana
+1853,GUF,French Guiana
+1854,GUF,French Guiana
+1855,GUF,French Guiana
+1856,GUF,French Guiana
+1857,GUF,French Guiana
+1858,GUF,French Guiana
+1859,GUF,French Guiana
+1860,GUF,French Guiana
+1861,GUF,French Guiana
+1862,GUF,French Guiana
+1863,GUY,Guyana
+1864,GUY,Guyana
+1865,GUY,Guyana
+1866,GUY,Guyana
+1867,GUY,Guyana
+1868,GUY,Guyana
+1869,GUY,Guyana
+1870,GUY,Guyana
+1871,GUY,Guyana
+1872,GUY,Guyana
+1873,GUY,Guyana
+1874,GUY,Guyana
+1875,GUY,Guyana
+1876,GUY,Guyana
+1877,GUY,Guyana
+1878,GUY,Guyana
+1879,HKG,Hong Kong
+1880,HKG,Hong Kong
+1881,HKG,Hong Kong
+1882,HKG,Hong Kong
+1883,HKG,Hong Kong
+1884,HKG,Hong Kong
+1885,HKG,Hong Kong
+1886,HKG,Hong Kong
+1887,HKG,Hong Kong
+1888,HKG,Hong Kong
+1889,HKG,Hong Kong
+1890,HKG,Hong Kong
+1891,HKG,Hong Kong
+1892,HKG,Hong Kong
+1893,HKG,Hong Kong
+1894,HKG,Hong Kong
+1895,HKG,Hong Kong
+1896,HKG,Hong Kong
+1897,HKG,Hong Kong
+1898,HKG,Hong Kong
+1899,HND,Honduras
+1900,HND,Honduras
+1901,HND,Honduras
+1902,HND,Honduras
+1903,HND,Honduras
+1904,HND,Honduras
+1905,HND,Honduras
+1906,HND,Honduras
+1907,HND,Honduras
+1908,HND,Honduras
+1909,HND,Honduras
+1910,HND,Honduras
+1911,HND,Honduras
+1912,HND,Honduras
+1913,HND,Honduras
+1914,HND,Honduras
+1915,HND,Honduras
+1916,HND,Honduras
+1917,HND,Honduras
+1918,HND,Honduras
+1919,HND,Honduras
+1920,HND,Honduras
+1921,HRV,Croatia
+1922,HRV,Croatia
+1923,HRV,Croatia
+1924,HRV,Croatia
+1925,HRV,Croatia
+1926,HRV,Croatia
+1927,HRV,Croatia
+1928,HRV,Croatia
+1929,HRV,Croatia
+1930,HRV,Croatia
+1931,HRV,Croatia
+1932,HRV,Croatia
+1933,HRV,Croatia
+1934,HRV,Croatia
+1935,HRV,Croatia
+1936,HRV,Croatia
+1937,HRV,Croatia
+1938,HRV,Croatia
+1939,HRV,Croatia
+1940,HRV,Croatia
+1941,HRV,Croatia
+1942,HRV,Croatia
+1943,HRV,Croatia
+1944,HRV,Croatia
+1945,HRV,Croatia
+1946,HRV,Croatia
+1947,HRV,Croatia
+1948,HRV,Croatia
+1949,HRV,Croatia
+1950,HTI,Haiti
+1951,HTI,Haiti
+1952,HTI,Haiti
+1953,HTI,Haiti
+1954,HTI,Haiti
+1955,HTI,Haiti
+1956,HTI,Haiti
+1957,HTI,Haiti
+1958,HTI,Haiti
+1959,HTI,Haiti
+1960,HTI,Haiti
+1961,HTI,Haiti
+1962,HTI,Haiti
+1963,HTI,Haiti
+1964,HTI,Haiti
+1965,HTI,Haiti
+1966,HTI,Haiti
+1967,HTI,Haiti
+1968,HTI,Haiti
+1969,HUN,Hungary
+1970,HUN,Hungary
+1971,HUN,Hungary
+1972,HUN,Hungary
+1973,HUN,Hungary
+1974,HUN,Hungary
+1975,HUN,Hungary
+1976,HUN,Hungary
+1977,HUN,Hungary
+1978,HUN,Hungary
+1979,HUN,Hungary
+1980,HUN,Hungary
+1981,HUN,Hungary
+1982,HUN,Hungary
+1983,HUN,Hungary
+1984,HUN,Hungary
+1985,HUN,Hungary
+1986,HUN,Hungary
+1987,HUN,Hungary
+1988,HUN,Hungary
+1989,HUN,Hungary
+1990,HUN,Hungary
+1991,HUN,Hungary
+1992,HUN,Hungary
+1993,HUN,Hungary
+1994,HUN,Hungary
+1995,HUN,Hungary
+1996,HUN,Hungary
+1997,HUN,Hungary
+1998,HUN,Hungary
+1999,HUN,Hungary
+2000,HUN,Hungary
+2001,HUN,Hungary
+2002,IDN,Indonesia
+2003,IDN,Indonesia
+2004,IDN,Indonesia
+2005,IDN,Indonesia
+2006,IDN,Indonesia
+2007,IDN,Indonesia
+2008,IDN,Indonesia
+2009,IDN,Indonesia
+2010,IDN,Indonesia
+2011,IDN,Indonesia
+2012,IDN,Indonesia
+2013,IDN,Indonesia
+2014,IDN,Indonesia
+2015,IDN,Indonesia
+2016,IDN,Indonesia
+2017,IDN,Indonesia
+2018,IDN,Indonesia
+2019,IDN,Indonesia
+2020,IDN,Indonesia
+2021,IDN,Indonesia
+2022,IDN,Indonesia
+2023,IDN,Indonesia
+2024,IDN,Indonesia
+2025,IDN,Indonesia
+2026,IDN,Indonesia
+2027,IDN,Indonesia
+2028,IDN,Indonesia
+2029,IDN,Indonesia
+2030,IDN,Indonesia
+2031,IND,India
+2032,IND,India
+2033,IND,India
+2034,IND,India
+2035,IND,India
+2036,IND,India
+2037,IND,India
+2038,IND,India
+2039,IND,India
+2040,IND,India
+2041,IND,India
+2042,IND,India
+2043,IND,India
+2044,IND,India
+2045,IND,India
+2046,IND,India
+2047,IND,India
+2048,IND,India
+2049,IND,India
+2050,IND,India
+2051,IND,India
+2052,IND,India
+2053,IND,India
+2054,IND,India
+2055,IND,India
+2056,IND,India
+2057,IND,India
+2058,IND,India
+2059,IND,India
+2060,IRL,Ireland
+2061,IRL,Ireland
+2062,IRL,Ireland
+2063,IRL,Ireland
+2064,IRL,Ireland
+2065,IRL,Ireland
+2066,IRL,Ireland
+2067,IRL,Ireland
+2068,IRL,Ireland
+2069,IRL,Ireland
+2070,IRL,Ireland
+2071,IRL,Ireland
+2072,IRL,Ireland
+2073,IRL,Ireland
+2074,IRL,Ireland
+2075,IRL,Ireland
+2076,IRL,Ireland
+2077,IRL,Ireland
+2078,IRL,Ireland
+2079,IRL,Ireland
+2080,IRL,Ireland
+2081,IRL,Ireland
+2082,IRL,Ireland
+2083,IRL,Ireland
+2084,IRL,Ireland
+2085,IRL,Ireland
+2086,IRL,Ireland
+2087,IRL,Ireland
+2088,IRL,Ireland
+2089,IRN,Iran. Islamic Republic of
+2090,IRN,Iran. Islamic Republic of
+2091,IRN,Iran. Islamic Republic of
+2092,IRN,Iran. Islamic Republic of
+2093,IRN,Iran. Islamic Republic of
+2094,IRN,Iran. Islamic Republic of
+2095,IRN,Iran. Islamic Republic of
+2096,IRN,Iran. Islamic Republic of
+2097,IRN,Iran. Islamic Republic of
+2098,IRN,Iran. Islamic Republic of
+2099,IRN,Iran. Islamic Republic of
+2100,IRN,Iran. Islamic Republic of
+2101,IRN,Iran. Islamic Republic of
+2102,IRN,Iran. Islamic Republic of
+2103,IRN,Iran. Islamic Republic of
+2104,IRN,Iran. Islamic Republic of
+2105,IRN,Iran. Islamic Republic of
+2106,IRN,Iran. Islamic Republic of
+2107,IRN,Iran. Islamic Republic of
+2108,IRN,Iran. Islamic Republic of
+2109,IRN,Iran. Islamic Republic of
+2110,IRN,Iran. Islamic Republic of
+2111,IRN,Iran. Islamic Republic of
+2112,IRN,Iran. Islamic Republic of
+2113,IRN,Iran. Islamic Republic of
+2114,IRQ,Iraq
+2115,IRQ,Iraq
+2116,IRQ,Iraq
+2117,IRQ,Iraq
+2118,IRQ,Iraq
+2119,IRQ,Iraq
+2120,IRQ,Iraq
+2121,IRQ,Iraq
+2122,IRQ,Iraq
+2123,IRQ,Iraq
+2124,IRQ,Iraq
+2125,IRQ,Iraq
+2126,IRQ,Iraq
+2127,IRQ,Iraq
+2128,IRQ,Iraq
+2129,IRQ,Iraq
+2130,IRQ,Iraq
+2131,IRQ,Iraq
+2132,ISL,Iceland
+2133,ISL,Iceland
+2134,ISL,Iceland
+2135,ISL,Iceland
+2136,ISL,Iceland
+2137,ISL,Iceland
+2138,ISL,Iceland
+2139,ISL,Iceland
+2140,ISL,Iceland
+2141,ISL,Iceland
+2142,ISL,Iceland
+2143,ISL,Iceland
+2144,ISL,Iceland
+2145,ISL,Iceland
+2146,ISL,Iceland
+2147,ISL,Iceland
+2148,ISL,Iceland
+2149,ISL,Iceland
+2150,ISL,Iceland
+2151,ISL,Iceland
+2152,ISL,Iceland
+2153,ISL,Iceland
+2154,ISL,Iceland
+2155,ISL,Iceland
+2156,ISL,Iceland
+2157,ISL,Iceland
+2158,ISR,Israel
+2159,ISR,Israel
+2160,ISR,Israel
+2161,ISR,Israel
+2162,ISR,Israel
+2163,ISR,Israel
+2164,ISR,Israel
+2165,ISR,Israel
+2166,ISR,Israel
+2167,ISR,Israel
+2168,ISR,Israel
+2169,ISR,Israel
+2170,ISR,Israel
+2171,ISR,Israel
+2172,ISR,Israel
+2173,ISR,Israel
+2174,ISR,Israel
+2175,ISR,Israel
+2176,ISR,Israel
+2177,ISR,Israel
+2178,ISR,Israel
+2179,ISR,Israel
+2180,ISR,Israel
+2181,ITA,Italy
+2182,ITA,Italy
+2183,ITA,Italy
+2184,ITA,Italy
+2185,ITA,Italy
+2186,ITA,Italy
+2187,ITA,Italy
+2188,ITA,Italy
+2189,ITA,Italy
+2190,ITA,Italy
+2191,ITA,Italy
+2192,ITA,Italy
+2193,ITA,Italy
+2194,ITA,Italy
+2195,ITA,Italy
+2196,ITA,Italy
+2197,ITA,Italy
+2198,ITA,Italy
+2199,ITA,Italy
+2200,ITA,Italy
+2201,ITA,Italy
+2202,ITA,Italy
+2203,ITA,Italy
+2204,ITA,Italy
+2205,ITA,Italy
+2206,ITA,Italy
+2207,ITA,Italy
+2208,ITA,Italy
+2209,ITA,Italy
+2210,ITA,Italy
+2211,ITA,Italy
+2212,JAM,Jamaica
+2213,JAM,Jamaica
+2214,JAM,Jamaica
+2215,JAM,Jamaica
+2216,JAM,Jamaica
+2217,JAM,Jamaica
+2218,JAM,Jamaica
+2219,JAM,Jamaica
+2220,JAM,Jamaica
+2221,JAM,Jamaica
+2222,JAM,Jamaica
+2223,JAM,Jamaica
+2224,JAM,Jamaica
+2225,JAM,Jamaica
+2226,JAM,Jamaica
+2227,JAM,Jamaica
+2228,JAM,Jamaica
+2229,JAM,Jamaica
+2230,JAM,Jamaica
+2231,JAM,Jamaica
+2232,JAM,Jamaica
+2233,JAM,Jamaica
+2234,JAM,Jamaica
+2235,JAM,Jamaica
+2236,JOR,Jordan
+2237,JOR,Jordan
+2238,JOR,Jordan
+2239,JOR,Jordan
+2240,JOR,Jordan
+2241,JOR,Jordan
+2242,JOR,Jordan
+2243,JOR,Jordan
+2244,JOR,Jordan
+2245,JOR,Jordan
+2246,JOR,Jordan
+2247,JOR,Jordan
+2248,JOR,Jordan
+2249,JOR,Jordan
+2250,JOR,Jordan
+2251,JOR,Jordan
+2252,JOR,Jordan
+2253,JOR,Jordan
+2254,JOR,Jordan
+2255,JOR,Jordan
+2256,JOR,Jordan
+2257,JOR,Jordan
+2258,JOR,Jordan
+2259,JPN,Japan
+2260,JPN,Japan
+2261,JPN,Japan
+2262,JPN,Japan
+2263,JPN,Japan
+2264,JPN,Japan
+2265,JPN,Japan
+2266,JPN,Japan
+2267,JPN,Japan
+2268,JPN,Japan
+2269,JPN,Japan
+2270,JPN,Japan
+2271,JPN,Japan
+2272,JPN,Japan
+2273,JPN,Japan
+2274,JPN,Japan
+2275,JPN,Japan
+2276,JPN,Japan
+2277,JPN,Japan
+2278,JPN,Japan
+2279,JPN,Japan
+2280,JPN,Japan
+2281,JPN,Japan
+2282,JPN,Japan
+2283,JPN,Japan
+2284,JPN,Japan
+2285,JPN,Japan
+2286,JPN,Japan
+2287,JPN,Japan
+2288,JPN,Japan
+2289,JPN,Japan
+2290,KAZ,Kazakhstan
+2291,KAZ,Kazakhstan
+2292,KAZ,Kazakhstan
+2293,KAZ,Kazakhstan
+2294,KAZ,Kazakhstan
+2295,KAZ,Kazakhstan
+2296,KAZ,Kazakhstan
+2297,KAZ,Kazakhstan
+2298,KAZ,Kazakhstan
+2299,KAZ,Kazakhstan
+2300,KAZ,Kazakhstan
+2301,KAZ,Kazakhstan
+2302,KAZ,Kazakhstan
+2303,KAZ,Kazakhstan
+2304,KAZ,Kazakhstan
+2305,KAZ,Kazakhstan
+2306,KAZ,Kazakhstan
+2307,KAZ,Kazakhstan
+2308,KAZ,Kazakhstan
+2309,KAZ,Kazakhstan
+2310,KAZ,Kazakhstan
+2311,KAZ,Kazakhstan
+2312,KAZ,Kazakhstan
+2313,KAZ,Kazakhstan
+2314,KAZ,Kazakhstan
+2315,KAZ,Kazakhstan
+2316,KAZ,Kazakhstan
+2317,KEN,Kenya
+2318,KEN,Kenya
+2319,KEN,Kenya
+2320,KEN,Kenya
+2321,KEN,Kenya
+2322,KEN,Kenya
+2323,KEN,Kenya
+2324,KEN,Kenya
+2325,KEN,Kenya
+2326,KEN,Kenya
+2327,KEN,Kenya
+2328,KEN,Kenya
+2329,KEN,Kenya
+2330,KEN,Kenya
+2331,KEN,Kenya
+2332,KEN,Kenya
+2333,KEN,Kenya
+2334,KEN,Kenya
+2335,KEN,Kenya
+2336,KEN,Kenya
+2337,KEN,Kenya
+2338,KEN,Kenya
+2339,KEN,Kenya
+2340,KEN,Kenya
+2341,KGZ,Kyrgyzstan
+2342,KGZ,Kyrgyzstan
+2343,KGZ,Kyrgyzstan
+2344,KGZ,Kyrgyzstan
+2345,KGZ,Kyrgyzstan
+2346,KGZ,Kyrgyzstan
+2347,KGZ,Kyrgyzstan
+2348,KGZ,Kyrgyzstan
+2349,KGZ,Kyrgyzstan
+2350,KGZ,Kyrgyzstan
+2351,KGZ,Kyrgyzstan
+2352,KGZ,Kyrgyzstan
+2353,KGZ,Kyrgyzstan
+2354,KGZ,Kyrgyzstan
+2355,KGZ,Kyrgyzstan
+2356,KGZ,Kyrgyzstan
+2357,KGZ,Kyrgyzstan
+2358,KGZ,Kyrgyzstan
+2359,KGZ,Kyrgyzstan
+2360,KGZ,Kyrgyzstan
+2361,KGZ,Kyrgyzstan
+2362,KGZ,Kyrgyzstan
+2363,KHM,Cambodia
+2364,KHM,Cambodia
+2365,KHM,Cambodia
+2366,KHM,Cambodia
+2367,KHM,Cambodia
+2368,KHM,Cambodia
+2369,KHM,Cambodia
+2370,KHM,Cambodia
+2371,KHM,Cambodia
+2372,KHM,Cambodia
+2373,KHM,Cambodia
+2374,KHM,Cambodia
+2375,KHM,Cambodia
+2376,KHM,Cambodia
+2377,KHM,Cambodia
+2378,KHM,Cambodia
+2379,KHM,Cambodia
+2380,KHM,Cambodia
+2381,KHM,Cambodia
+2382,KHM,Cambodia
+2383,KHM,Cambodia
+2384,KHM,Cambodia
+2385,KHM,Cambodia
+2386,KIR,Kiribati
+2387,KIR,Kiribati
+2388,KIR,Kiribati
+2389,KIR,Kiribati
+2390,KIR,Kiribati
+2391,KIR,Kiribati
+2392,KIR,Kiribati
+2393,KIR,Kiribati
+2394,KIR,Kiribati
+2395,KIR,Kiribati
+2396,KIR,Kiribati
+2397,KIR,Kiribati
+2398,KIR,Kiribati
+2399,KIR,Kiribati
+2400,KIR,Kiribati
+2401,KIR,Kiribati
+2402,KIR,Kiribati
+2403,KIR,Kiribati
+2404,KNA,Saint Kitts and Nevis
+2405,KNA,Saint Kitts and Nevis
+2406,KNA,Saint Kitts and Nevis
+2407,KNA,Saint Kitts and Nevis
+2408,KNA,Saint Kitts and Nevis
+2409,KNA,Saint Kitts and Nevis
+2410,KNA,Saint Kitts and Nevis
+2411,KNA,Saint Kitts and Nevis
+2412,KNA,Saint Kitts and Nevis
+2413,KNA,Saint Kitts and Nevis
+2414,KNA,Saint Kitts and Nevis
+2415,KNA,Saint Kitts and Nevis
+2416,KNA,Saint Kitts and Nevis
+2417,KNA,Saint Kitts and Nevis
+2418,KNA,Saint Kitts and Nevis
+2419,KNA,Saint Kitts and Nevis
+2420,KNA,Saint Kitts and Nevis
+2421,KOR,Korea. Republic of
+2422,KOR,Korea. Republic of
+2423,KOR,Korea. Republic of
+2424,KOR,Korea. Republic of
+2425,KOR,Korea. Republic of
+2426,KOR,Korea. Republic of
+2427,KOR,Korea. Republic of
+2428,KOR,Korea. Republic of
+2429,KOR,Korea. Republic of
+2430,KOR,Korea. Republic of
+2431,KOR,Korea. Republic of
+2432,KOR,Korea. Republic of
+2433,KOR,Korea. Republic of
+2434,KOR,Korea. Republic of
+2435,KOR,Korea. Republic of
+2436,KOR,Korea. Republic of
+2437,KOR,Korea. Republic of
+2438,KOR,Korea. Republic of
+2439,KOR,Korea. Republic of
+2440,KOR,Korea. Republic of
+2441,KOR,Korea. Republic of
+2442,KOR,Korea. Republic of
+2443,KOR,Korea. Republic of
+2444,KOR,Korea. Republic of
+2445,KOR,Korea. Republic of
+2446,KOR,Korea. Republic of
+2447,KOR,Korea. Republic of
+2448,KOR,Korea. Republic of
+2449,KOR,Korea. Republic of
+2450,KOR,Korea. Republic of
+2451,KWT,Kuwait
+2452,KWT,Kuwait
+2453,KWT,Kuwait
+2454,KWT,Kuwait
+2455,KWT,Kuwait
+2456,KWT,Kuwait
+2457,KWT,Kuwait
+2458,KWT,Kuwait
+2459,KWT,Kuwait
+2460,KWT,Kuwait
+2461,KWT,Kuwait
+2462,KWT,Kuwait
+2463,KWT,Kuwait
+2464,KWT,Kuwait
+2465,KWT,Kuwait
+2466,KWT,Kuwait
+2467,KWT,Kuwait
+2468,KWT,Kuwait
+2469,LAO,Lao People's Democratic Republic
+2470,LAO,Lao People's Democratic Republic
+2471,LAO,Lao People's Democratic Republic
+2472,LAO,Lao People's Democratic Republic
+2473,LAO,Lao People's Democratic Republic
+2474,LAO,Lao People's Democratic Republic
+2475,LAO,Lao People's Democratic Republic
+2476,LAO,Lao People's Democratic Republic
+2477,LAO,Lao People's Democratic Republic
+2478,LAO,Lao People's Democratic Republic
+2479,LAO,Lao People's Democratic Republic
+2480,LAO,Lao People's Democratic Republic
+2481,LAO,Lao People's Democratic Republic
+2482,LAO,Lao People's Democratic Republic
+2483,LAO,Lao People's Democratic Republic
+2484,LAO,Lao People's Democratic Republic
+2485,LAO,Lao People's Democratic Republic
+2486,LAO,Lao People's Democratic Republic
+2487,LAO,Lao People's Democratic Republic
+2488,LAO,Lao People's Democratic Republic
+2489,LAO,Lao People's Democratic Republic
+2490,LAO,Lao People's Democratic Republic
+2491,LAO,Lao People's Democratic Republic
+2492,LBN,Lebanon
+2493,LBN,Lebanon
+2494,LBN,Lebanon
+2495,LBN,Lebanon
+2496,LBN,Lebanon
+2497,LBN,Lebanon
+2498,LBN,Lebanon
+2499,LBN,Lebanon
+2500,LBN,Lebanon
+2501,LBN,Lebanon
+2502,LBN,Lebanon
+2503,LBN,Lebanon
+2504,LBN,Lebanon
+2505,LBN,Lebanon
+2506,LBN,Lebanon
+2507,LBN,Lebanon
+2508,LBN,Lebanon
+2509,LBN,Lebanon
+2510,LBN,Lebanon
+2511,LBN,Lebanon
+2512,LBN,Lebanon
+2513,LBR,Liberia
+2514,LBR,Liberia
+2515,LBR,Liberia
+2516,LBR,Liberia
+2517,LBR,Liberia
+2518,LBR,Liberia
+2519,LBR,Liberia
+2520,LBR,Liberia
+2521,LBR,Liberia
+2522,LBR,Liberia
+2523,LBR,Liberia
+2524,LBR,Liberia
+2525,LBR,Liberia
+2526,LBR,Liberia
+2527,LBR,Liberia
+2528,LBR,Liberia
+2529,LBR,Liberia
+2530,LBR,Liberia
+2531,LBR,Liberia
+2532,LBR,Liberia
+2533,LBY,Libyan Arab Jamahiriya
+2534,LBY,Libyan Arab Jamahiriya
+2535,LBY,Libyan Arab Jamahiriya
+2536,LBY,Libyan Arab Jamahiriya
+2537,LBY,Libyan Arab Jamahiriya
+2538,LBY,Libyan Arab Jamahiriya
+2539,LBY,Libyan Arab Jamahiriya
+2540,LBY,Libyan Arab Jamahiriya
+2541,LBY,Libyan Arab Jamahiriya
+2542,LBY,Libyan Arab Jamahiriya
+2543,LBY,Libyan Arab Jamahiriya
+2544,LBY,Libyan Arab Jamahiriya
+2545,LBY,Libyan Arab Jamahiriya
+2546,LBY,Libyan Arab Jamahiriya
+2547,LBY,Libyan Arab Jamahiriya
+2548,LBY,Libyan Arab Jamahiriya
+2549,LBY,Libyan Arab Jamahiriya
+2550,LBY,Libyan Arab Jamahiriya
+2551,LBY,Libyan Arab Jamahiriya
+2552,LCA,Saint Lucia
+2553,LCA,Saint Lucia
+2554,LCA,Saint Lucia
+2555,LCA,Saint Lucia
+2556,LCA,Saint Lucia
+2557,LCA,Saint Lucia
+2558,LCA,Saint Lucia
+2559,LCA,Saint Lucia
+2560,LCA,Saint Lucia
+2561,LCA,Saint Lucia
+2562,LCA,Saint Lucia
+2563,LCA,Saint Lucia
+2564,LCA,Saint Lucia
+2565,LCA,Saint Lucia
+2566,LCA,Saint Lucia
+2567,LCA,Saint Lucia
+2568,LCA,Saint Lucia
+2569,LCA,Saint Lucia
+2570,LCA,Saint Lucia
+2571,LCA,Saint Lucia
+2572,LKA,Sri Lanka
+2573,LKA,Sri Lanka
+2574,LKA,Sri Lanka
+2575,LKA,Sri Lanka
+2576,LKA,Sri Lanka
+2577,LKA,Sri Lanka
+2578,LKA,Sri Lanka
+2579,LKA,Sri Lanka
+2580,LKA,Sri Lanka
+2581,LKA,Sri Lanka
+2582,LKA,Sri Lanka
+2583,LKA,Sri Lanka
+2584,LKA,Sri Lanka
+2585,LKA,Sri Lanka
+2586,LKA,Sri Lanka
+2587,LKA,Sri Lanka
+2588,LKA,Sri Lanka
+2589,LKA,Sri Lanka
+2590,LKA,Sri Lanka
+2591,LKA,Sri Lanka
+2592,LKA,Sri Lanka
+2593,LKA,Sri Lanka
+2594,LKA,Sri Lanka
+2595,LSO,Lesotho
+2596,LSO,Lesotho
+2597,LSO,Lesotho
+2598,LSO,Lesotho
+2599,LSO,Lesotho
+2600,LSO,Lesotho
+2601,LSO,Lesotho
+2602,LSO,Lesotho
+2603,LSO,Lesotho
+2604,LSO,Lesotho
+2605,LSO,Lesotho
+2606,LSO,Lesotho
+2607,LSO,Lesotho
+2608,LSO,Lesotho
+2609,LSO,Lesotho
+2610,LSO,Lesotho
+2611,LSO,Lesotho
+2612,LSO,Lesotho
+2613,LSO,Lesotho
+2614,LTU,Lithuania
+2615,LTU,Lithuania
+2616,LTU,Lithuania
+2617,LTU,Lithuania
+2618,LTU,Lithuania
+2619,LTU,Lithuania
+2620,LTU,Lithuania
+2621,LTU,Lithuania
+2622,LTU,Lithuania
+2623,LTU,Lithuania
+2624,LTU,Lithuania
+2625,LTU,Lithuania
+2626,LTU,Lithuania
+2627,LTU,Lithuania
+2628,LTU,Lithuania
+2629,LTU,Lithuania
+2630,LTU,Lithuania
+2631,LTU,Lithuania
+2632,LTU,Lithuania
+2633,LTU,Lithuania
+2634,LTU,Lithuania
+2635,LTU,Lithuania
+2636,LTU,Lithuania
+2637,LTU,Lithuania
+2638,LTU,Lithuania
+2639,LTU,Lithuania
+2640,LTU,Lithuania
+2641,LTU,Lithuania
+2642,LTU,Lithuania
+2643,LTU,Lithuania
+2644,LUX,Luxembourg
+2645,LUX,Luxembourg
+2646,LUX,Luxembourg
+2647,LUX,Luxembourg
+2648,LUX,Luxembourg
+2649,LUX,Luxembourg
+2650,LUX,Luxembourg
+2651,LUX,Luxembourg
+2652,LUX,Luxembourg
+2653,LUX,Luxembourg
+2654,LUX,Luxembourg
+2655,LUX,Luxembourg
+2656,LUX,Luxembourg
+2657,LUX,Luxembourg
+2658,LUX,Luxembourg
+2659,LUX,Luxembourg
+2660,LUX,Luxembourg
+2661,LUX,Luxembourg
+2662,LUX,Luxembourg
+2663,LUX,Luxembourg
+2664,LUX,Luxembourg
+2665,LUX,Luxembourg
+2666,LUX,Luxembourg
+2667,LUX,Luxembourg
+2668,LUX,Luxembourg
+2669,LVA,Latvia
+2670,LVA,Latvia
+2671,LVA,Latvia
+2672,LVA,Latvia
+2673,LVA,Latvia
+2674,LVA,Latvia
+2675,LVA,Latvia
+2676,LVA,Latvia
+2677,LVA,Latvia
+2678,LVA,Latvia
+2679,LVA,Latvia
+2680,LVA,Latvia
+2681,LVA,Latvia
+2682,LVA,Latvia
+2683,LVA,Latvia
+2684,LVA,Latvia
+2685,LVA,Latvia
+2686,LVA,Latvia
+2687,LVA,Latvia
+2688,LVA,Latvia
+2689,LVA,Latvia
+2690,LVA,Latvia
+2691,LVA,Latvia
+2692,LVA,Latvia
+2693,LVA,Latvia
+2694,LVA,Latvia
+2695,LVA,Latvia
+2696,LVA,Latvia
+2697,LVA,Latvia
+2698,MAC,Macao
+2699,MAC,Macao
+2700,MAC,Macao
+2701,MAC,Macao
+2702,MAC,Macao
+2703,MAC,Macao
+2704,MAC,Macao
+2705,MAC,Macao
+2706,MAC,Macao
+2707,MAC,Macao
+2708,MAC,Macao
+2709,MAC,Macao
+2710,MAC,Macao
+2711,MAC,Macao
+2712,MAC,Macao
+2713,MAC,Macao
+2714,MAC,Macao
+2715,MAC,Macao
+2716,MAC,Macao
+2717,MAC,Macao
+2718,MAC,Macao
+2719,MAR,Morocco
+2720,MAR,Morocco
+2721,MAR,Morocco
+2722,MAR,Morocco
+2723,MAR,Morocco
+2724,MAR,Morocco
+2725,MAR,Morocco
+2726,MAR,Morocco
+2727,MAR,Morocco
+2728,MAR,Morocco
+2729,MAR,Morocco
+2730,MAR,Morocco
+2731,MAR,Morocco
+2732,MAR,Morocco
+2733,MAR,Morocco
+2734,MAR,Morocco
+2735,MAR,Morocco
+2736,MAR,Morocco
+2737,MAR,Morocco
+2738,MAR,Morocco
+2739,MAR,Morocco
+2740,MAR,Morocco
+2741,MAR,Morocco
+2742,MDA,Moldova. Republic of
+2743,MDA,Moldova. Republic of
+2744,MDA,Moldova. Republic of
+2745,MDA,Moldova. Republic of
+2746,MDA,Moldova. Republic of
+2747,MDA,Moldova. Republic of
+2748,MDA,Moldova. Republic of
+2749,MDA,Moldova. Republic of
+2750,MDA,Moldova. Republic of
+2751,MDA,Moldova. Republic of
+2752,MDA,Moldova. Republic of
+2753,MDA,Moldova. Republic of
+2754,MDA,Moldova. Republic of
+2755,MDA,Moldova. Republic of
+2756,MDA,Moldova. Republic of
+2757,MDA,Moldova. Republic of
+2758,MDA,Moldova. Republic of
+2759,MDA,Moldova. Republic of
+2760,MDA,Moldova. Republic of
+2761,MDA,Moldova. Republic of
+2762,MDA,Moldova. Republic of
+2763,MDA,Moldova. Republic of
+2764,MDA,Moldova. Republic of
+2765,MDA,Moldova. Republic of
+2766,MDA,Moldova. Republic of
+2767,MDA,Moldova. Republic of
+2768,MDG,Madagascar
+2769,MDG,Madagascar
+2770,MDG,Madagascar
+2771,MDG,Madagascar
+2772,MDG,Madagascar
+2773,MDG,Madagascar
+2774,MDG,Madagascar
+2775,MDG,Madagascar
+2776,MDG,Madagascar
+2777,MDG,Madagascar
+2778,MDG,Madagascar
+2779,MDG,Madagascar
+2780,MDG,Madagascar
+2781,MDG,Madagascar
+2782,MDG,Madagascar
+2783,MDG,Madagascar
+2784,MDG,Madagascar
+2785,MDG,Madagascar
+2786,MDG,Madagascar
+2787,MDG,Madagascar
+2788,MDG,Madagascar
+2789,MDV,Maldives
+2790,MDV,Maldives
+2791,MDV,Maldives
+2792,MDV,Maldives
+2793,MDV,Maldives
+2794,MDV,Maldives
+2795,MDV,Maldives
+2796,MDV,Maldives
+2797,MDV,Maldives
+2798,MDV,Maldives
+2799,MDV,Maldives
+2800,MDV,Maldives
+2801,MDV,Maldives
+2802,MDV,Maldives
+2803,MDV,Maldives
+2804,MDV,Maldives
+2805,MDV,Maldives
+2806,MDV,Maldives
+2807,MDV,Maldives
+2808,MDV,Maldives
+2809,MEX,Mexico
+2810,MEX,Mexico
+2811,MEX,Mexico
+2812,MEX,Mexico
+2813,MEX,Mexico
+2814,MEX,Mexico
+2815,MEX,Mexico
+2816,MEX,Mexico
+2817,MEX,Mexico
+2818,MEX,Mexico
+2819,MEX,Mexico
+2820,MEX,Mexico
+2821,MEX,Mexico
+2822,MEX,Mexico
+2823,MEX,Mexico
+2824,MEX,Mexico
+2825,MEX,Mexico
+2826,MEX,Mexico
+2827,MEX,Mexico
+2828,MEX,Mexico
+2829,MEX,Mexico
+2830,MEX,Mexico
+2831,MEX,Mexico
+2832,MEX,Mexico
+2833,MEX,Mexico
+2834,MKD,Macedonia. the former Yugoslav Republic of
+2835,MKD,Macedonia. the former Yugoslav Republic of
+2836,MKD,Macedonia. the former Yugoslav Republic of
+2837,MKD,Macedonia. the former Yugoslav Republic of
+2838,MKD,Macedonia. the former Yugoslav Republic of
+2839,MKD,Macedonia. the former Yugoslav Republic of
+2840,MKD,Macedonia. the former Yugoslav Republic of
+2841,MKD,Macedonia. the former Yugoslav Republic of
+2842,MKD,Macedonia. the former Yugoslav Republic of
+2843,MKD,Macedonia. the former Yugoslav Republic of
+2844,MKD,Macedonia. the former Yugoslav Republic of
+2845,MKD,Macedonia. the former Yugoslav Republic of
+2846,MKD,Macedonia. the former Yugoslav Republic of
+2847,MKD,Macedonia. the former Yugoslav Republic of
+2848,MKD,Macedonia. the former Yugoslav Republic of
+2849,MKD,Macedonia. the former Yugoslav Republic of
+2850,MKD,Macedonia. the former Yugoslav Republic of
+2851,MKD,Macedonia. the former Yugoslav Republic of
+2852,MKD,Macedonia. the former Yugoslav Republic of
+2853,MKD,Macedonia. the former Yugoslav Republic of
+2854,MKD,Macedonia. the former Yugoslav Republic of
+2855,MKD,Macedonia. the former Yugoslav Republic of
+2856,MKD,Macedonia. the former Yugoslav Republic of
+2857,MKD,Macedonia. the former Yugoslav Republic of
+2858,MKD,Macedonia. the former Yugoslav Republic of
+2859,MKD,Macedonia. the former Yugoslav Republic of
+2860,MLI,Mali
+2861,MLI,Mali
+2862,MLI,Mali
+2863,MLI,Mali
+2864,MLI,Mali
+2865,MLI,Mali
+2866,MLI,Mali
+2867,MLI,Mali
+2868,MLI,Mali
+2869,MLI,Mali
+2870,MLI,Mali
+2871,MLI,Mali
+2872,MLI,Mali
+2873,MLI,Mali
+2874,MLI,Mali
+2875,MLI,Mali
+2876,MLI,Mali
+2877,MLI,Mali
+2878,MLI,Mali
+2879,MLI,Mali
+2880,MLI,Mali
+2881,MLI,Mali
+2882,MLT,Malta
+2883,MLT,Malta
+2884,MLT,Malta
+2885,MLT,Malta
+2886,MLT,Malta
+2887,MLT,Malta
+2888,MLT,Malta
+2889,MLT,Malta
+2890,MLT,Malta
+2891,MLT,Malta
+2892,MLT,Malta
+2893,MLT,Malta
+2894,MLT,Malta
+2895,MLT,Malta
+2896,MLT,Malta
+2897,MLT,Malta
+2898,MLT,Malta
+2899,MLT,Malta
+2900,MLT,Malta
+2901,MLT,Malta
+2902,MLT,Malta
+2903,MLT,Malta
+2904,MMR,Myanmar
+2905,MMR,Myanmar
+2906,MMR,Myanmar
+2907,MMR,Myanmar
+2908,MMR,Myanmar
+2909,MMR,Myanmar
+2910,MMR,Myanmar
+2911,MMR,Myanmar
+2912,MMR,Myanmar
+2913,MMR,Myanmar
+2914,MMR,Myanmar
+2915,MMR,Myanmar
+2916,MMR,Myanmar
+2917,MMR,Myanmar
+2918,MMR,Myanmar
+2919,MMR,Myanmar
+2920,MMR,Myanmar
+2921,MMR,Myanmar
+2922,MMR,Myanmar
+2923,MMR,Myanmar
+2924,MMR,Myanmar
+2925,MMR,Myanmar
+2926,MMR,Myanmar
+2927,MMR,Myanmar
+2928,MNG,Mongolia
+2929,MNG,Mongolia
+2930,MNG,Mongolia
+2931,MNG,Mongolia
+2932,MNG,Mongolia
+2933,MNG,Mongolia
+2934,MNG,Mongolia
+2935,MNG,Mongolia
+2936,MNG,Mongolia
+2937,MNG,Mongolia
+2938,MNG,Mongolia
+2939,MNG,Mongolia
+2940,MNG,Mongolia
+2941,MNG,Mongolia
+2942,MNG,Mongolia
+2943,MNG,Mongolia
+2944,MNG,Mongolia
+2945,MNG,Mongolia
+2946,MNG,Mongolia
+2947,MNG,Mongolia
+2948,MNG,Mongolia
+2949,MNG,Mongolia
+2950,MNG,Mongolia
+2951,MNG,Mongolia
+2952,MNG,Mongolia
+2953,MNG,Mongolia
+2954,MNG,Mongolia
+2955,MNG,Mongolia
+2956,MOZ,Mozambique
+2957,MOZ,Mozambique
+2958,MOZ,Mozambique
+2959,MOZ,Mozambique
+2960,MOZ,Mozambique
+2961,MOZ,Mozambique
+2962,MOZ,Mozambique
+2963,MOZ,Mozambique
+2964,MOZ,Mozambique
+2965,MOZ,Mozambique
+2966,MOZ,Mozambique
+2967,MOZ,Mozambique
+2968,MOZ,Mozambique
+2969,MOZ,Mozambique
+2970,MOZ,Mozambique
+2971,MOZ,Mozambique
+2972,MOZ,Mozambique
+2973,MOZ,Mozambique
+2974,MOZ,Mozambique
+2975,MOZ,Mozambique
+2976,MOZ,Mozambique
+2977,MOZ,Mozambique
+2978,MRT,Mauritania
+2979,MRT,Mauritania
+2980,MRT,Mauritania
+2981,MRT,Mauritania
+2982,MRT,Mauritania
+2983,MRT,Mauritania
+2984,MRT,Mauritania
+2985,MRT,Mauritania
+2986,MRT,Mauritania
+2987,MRT,Mauritania
+2988,MRT,Mauritania
+2989,MRT,Mauritania
+2990,MRT,Mauritania
+2991,MRT,Mauritania
+2992,MRT,Mauritania
+2993,MRT,Mauritania
+2994,MRT,Mauritania
+2995,MRT,Mauritania
+2996,MRT,Mauritania
+2997,MRT,Mauritania
+2998,MRT,Mauritania
+2999,MRT,Mauritania
+3000,MTQ,Martinique
+3001,MTQ,Martinique
+3002,MTQ,Martinique
+3003,MTQ,Martinique
+3004,MTQ,Martinique
+3005,MTQ,Martinique
+3006,MTQ,Martinique
+3007,MTQ,Martinique
+3008,MTQ,Martinique
+3009,MTQ,Martinique
+3010,MTQ,Martinique
+3011,MTQ,Martinique
+3012,MTQ,Martinique
+3013,MTQ,Martinique
+3014,MTQ,Martinique
+3015,MTQ,Martinique
+3016,MTQ,Martinique
+3017,MTQ,Martinique
+3018,MTQ,Martinique
+3019,MTQ,Martinique
+3020,MTQ,Martinique
+3021,MUS,Mauritius
+3022,MUS,Mauritius
+3023,MUS,Mauritius
+3024,MUS,Mauritius
+3025,MUS,Mauritius
+3026,MUS,Mauritius
+3027,MUS,Mauritius
+3028,MUS,Mauritius
+3029,MUS,Mauritius
+3030,MUS,Mauritius
+3031,MUS,Mauritius
+3032,MUS,Mauritius
+3033,MUS,Mauritius
+3034,MUS,Mauritius
+3035,MUS,Mauritius
+3036,MUS,Mauritius
+3037,MUS,Mauritius
+3038,MUS,Mauritius
+3039,MUS,Mauritius
+3040,MUS,Mauritius
+3041,MWI,Malawi
+3042,MWI,Malawi
+3043,MWI,Malawi
+3044,MWI,Malawi
+3045,MWI,Malawi
+3046,MWI,Malawi
+3047,MWI,Malawi
+3048,MWI,Malawi
+3049,MWI,Malawi
+3050,MWI,Malawi
+3051,MWI,Malawi
+3052,MWI,Malawi
+3053,MWI,Malawi
+3054,MWI,Malawi
+3055,MWI,Malawi
+3056,MWI,Malawi
+3057,MWI,Malawi
+3058,MWI,Malawi
+3059,MWI,Malawi
+3060,MWI,Malawi
+3061,MWI,Malawi
+3062,MWI,Malawi
+3063,MWI,Malawi
+3064,MYS,Malaysia
+3065,MYS,Malaysia
+3066,MYS,Malaysia
+3067,MYS,Malaysia
+3068,MYS,Malaysia
+3069,MYS,Malaysia
+3070,MYS,Malaysia
+3071,MYS,Malaysia
+3072,MYS,Malaysia
+3073,MYS,Malaysia
+3074,MYS,Malaysia
+3075,MYS,Malaysia
+3076,MYS,Malaysia
+3077,MYS,Malaysia
+3078,MYS,Malaysia
+3079,MYS,Malaysia
+3080,MYS,Malaysia
+3081,MYS,Malaysia
+3082,MYS,Malaysia
+3083,MYS,Malaysia
+3084,MYS,Malaysia
+3085,MYS,Malaysia
+3086,MYS,Malaysia
+3087,MYS,Malaysia
+3088,MYS,Malaysia
+3089,MYS,Malaysia
+3090,MYS,Malaysia
+3091,NAM,Namibia
+3092,NAM,Namibia
+3093,NAM,Namibia
+3094,NAM,Namibia
+3095,NAM,Namibia
+3096,NAM,Namibia
+3097,NAM,Namibia
+3098,NAM,Namibia
+3099,NAM,Namibia
+3100,NAM,Namibia
+3101,NAM,Namibia
+3102,NAM,Namibia
+3103,NAM,Namibia
+3104,NAM,Namibia
+3105,NAM,Namibia
+3106,NAM,Namibia
+3107,NAM,Namibia
+3108,NAM,Namibia
+3109,NAM,Namibia
+3110,NAM,Namibia
+3111,NAM,Namibia
+3112,NAM,Namibia
+3113,NAM,Namibia
+3114,NAM,Namibia
+3115,NCL,New Caledonia
+3116,NCL,New Caledonia
+3117,NCL,New Caledonia
+3118,NCL,New Caledonia
+3119,NCL,New Caledonia
+3120,NCL,New Caledonia
+3121,NCL,New Caledonia
+3122,NCL,New Caledonia
+3123,NCL,New Caledonia
+3124,NCL,New Caledonia
+3125,NCL,New Caledonia
+3126,NCL,New Caledonia
+3127,NCL,New Caledonia
+3128,NCL,New Caledonia
+3129,NCL,New Caledonia
+3130,NCL,New Caledonia
+3131,NCL,New Caledonia
+3132,NCL,New Caledonia
+3133,NCL,New Caledonia
+3134,NCL,New Caledonia
+3135,NCL,New Caledonia
+3136,NER,Niger
+3137,NER,Niger
+3138,NER,Niger
+3139,NER,Niger
+3140,NER,Niger
+3141,NER,Niger
+3142,NER,Niger
+3143,NER,Niger
+3144,NER,Niger
+3145,NER,Niger
+3146,NER,Niger
+3147,NER,Niger
+3148,NER,Niger
+3149,NER,Niger
+3150,NER,Niger
+3151,NER,Niger
+3152,NER,Niger
+3153,NGA,Nigeria
+3154,NGA,Nigeria
+3155,NGA,Nigeria
+3156,NGA,Nigeria
+3157,NGA,Nigeria
+3158,NGA,Nigeria
+3159,NGA,Nigeria
+3160,NGA,Nigeria
+3161,NGA,Nigeria
+3162,NGA,Nigeria
+3163,NGA,Nigeria
+3164,NGA,Nigeria
+3165,NGA,Nigeria
+3166,NGA,Nigeria
+3167,NGA,Nigeria
+3168,NGA,Nigeria
+3169,NGA,Nigeria
+3170,NGA,Nigeria
+3171,NGA,Nigeria
+3172,NGA,Nigeria
+3173,NGA,Nigeria
+3174,NGA,Nigeria
+3175,NGA,Nigeria
+3176,NGA,Nigeria
+3177,NIC,Nicaragua
+3178,NIC,Nicaragua
+3179,NIC,Nicaragua
+3180,NIC,Nicaragua
+3181,NIC,Nicaragua
+3182,NIC,Nicaragua
+3183,NIC,Nicaragua
+3184,NIC,Nicaragua
+3185,NIC,Nicaragua
+3186,NIC,Nicaragua
+3187,NIC,Nicaragua
+3188,NIC,Nicaragua
+3189,NIC,Nicaragua
+3190,NIC,Nicaragua
+3191,NIC,Nicaragua
+3192,NIC,Nicaragua
+3193,NIC,Nicaragua
+3194,NIC,Nicaragua
+3195,NIC,Nicaragua
+3196,NIC,Nicaragua
+3197,NLD,Netherlands
+3198,NLD,Netherlands
+3199,NLD,Netherlands
+3200,NLD,Netherlands
+3201,NLD,Netherlands
+3202,NLD,Netherlands
+3203,NLD,Netherlands
+3204,NLD,Netherlands
+3205,NLD,Netherlands
+3206,NLD,Netherlands
+3207,NLD,Netherlands
+3208,NLD,Netherlands
+3209,NLD,Netherlands
+3210,NLD,Netherlands
+3211,NLD,Netherlands
+3212,NLD,Netherlands
+3213,NLD,Netherlands
+3214,NLD,Netherlands
+3215,NLD,Netherlands
+3216,NLD,Netherlands
+3217,NLD,Netherlands
+3218,NLD,Netherlands
+3219,NLD,Netherlands
+3220,NLD,Netherlands
+3221,NLD,Netherlands
+3222,NLD,Netherlands
+3223,NLD,Netherlands
+3224,NLD,Netherlands
+3225,NLD,Netherlands
+3226,NLD,Netherlands
+3227,NLD,Netherlands
+3228,NOR,Norway
+3229,NOR,Norway
+3230,NOR,Norway
+3231,NOR,Norway
+3232,NOR,Norway
+3233,NOR,Norway
+3234,NOR,Norway
+3235,NOR,Norway
+3236,NOR,Norway
+3237,NOR,Norway
+3238,NOR,Norway
+3239,NOR,Norway
+3240,NOR,Norway
+3241,NOR,Norway
+3242,NOR,Norway
+3243,NOR,Norway
+3244,NOR,Norway
+3245,NOR,Norway
+3246,NOR,Norway
+3247,NOR,Norway
+3248,NOR,Norway
+3249,NOR,Norway
+3250,NOR,Norway
+3251,NOR,Norway
+3252,NOR,Norway
+3253,NOR,Norway
+3254,NOR,Norway
+3255,NOR,Norway
+3256,NOR,Norway
+3257,NOR,Norway
+3258,NPL,Nepal
+3259,NPL,Nepal
+3260,NPL,Nepal
+3261,NPL,Nepal
+3262,NPL,Nepal
+3263,NPL,Nepal
+3264,NPL,Nepal
+3265,NPL,Nepal
+3266,NPL,Nepal
+3267,NPL,Nepal
+3268,NPL,Nepal
+3269,NPL,Nepal
+3270,NPL,Nepal
+3271,NPL,Nepal
+3272,NPL,Nepal
+3273,NPL,Nepal
+3274,NPL,Nepal
+3275,NPL,Nepal
+3276,NPL,Nepal
+3277,NZL,New Zealand
+3278,NZL,New Zealand
+3279,NZL,New Zealand
+3280,NZL,New Zealand
+3281,NZL,New Zealand
+3282,NZL,New Zealand
+3283,NZL,New Zealand
+3284,NZL,New Zealand
+3285,NZL,New Zealand
+3286,NZL,New Zealand
+3287,NZL,New Zealand
+3288,NZL,New Zealand
+3289,NZL,New Zealand
+3290,NZL,New Zealand
+3291,NZL,New Zealand
+3292,NZL,New Zealand
+3293,NZL,New Zealand
+3294,NZL,New Zealand
+3295,NZL,New Zealand
+3296,NZL,New Zealand
+3297,NZL,New Zealand
+3298,NZL,New Zealand
+3299,NZL,New Zealand
+3300,NZL,New Zealand
+3301,NZL,New Zealand
+3302,NZL,New Zealand
+3303,NZL,New Zealand
+3304,NZL,New Zealand
+3305,NZL,New Zealand
+3306,OMN,Oman
+3307,OMN,Oman
+3308,OMN,Oman
+3309,OMN,Oman
+3310,OMN,Oman
+3311,OMN,Oman
+3312,OMN,Oman
+3313,OMN,Oman
+3314,OMN,Oman
+3315,OMN,Oman
+3316,OMN,Oman
+3317,OMN,Oman
+3318,OMN,Oman
+3319,OMN,Oman
+3320,OMN,Oman
+3321,OMN,Oman
+3322,OMN,Oman
+3323,OMN,Oman
+3324,PAK,Pakistan
+3325,PAK,Pakistan
+3326,PAK,Pakistan
+3327,PAK,Pakistan
+3328,PAK,Pakistan
+3329,PAK,Pakistan
+3330,PAK,Pakistan
+3331,PAK,Pakistan
+3332,PAK,Pakistan
+3333,PAK,Pakistan
+3334,PAK,Pakistan
+3335,PAK,Pakistan
+3336,PAK,Pakistan
+3337,PAK,Pakistan
+3338,PAK,Pakistan
+3339,PAK,Pakistan
+3340,PAK,Pakistan
+3341,PAK,Pakistan
+3342,PAK,Pakistan
+3343,PAK,Pakistan
+3344,PAK,Pakistan
+3345,PAK,Pakistan
+3346,PAK,Pakistan
+3347,PAK,Pakistan
+3348,PAN,Panama
+3349,PAN,Panama
+3350,PAN,Panama
+3351,PAN,Panama
+3352,PAN,Panama
+3353,PAN,Panama
+3354,PAN,Panama
+3355,PAN,Panama
+3356,PAN,Panama
+3357,PAN,Panama
+3358,PAN,Panama
+3359,PAN,Panama
+3360,PAN,Panama
+3361,PAN,Panama
+3362,PAN,Panama
+3363,PAN,Panama
+3364,PAN,Panama
+3365,PAN,Panama
+3366,PAN,Panama
+3367,PAN,Panama
+3368,PAN,Panama
+3369,PER,Peru
+3370,PER,Peru
+3371,PER,Peru
+3372,PER,Peru
+3373,PER,Peru
+3374,PER,Peru
+3375,PER,Peru
+3376,PER,Peru
+3377,PER,Peru
+3378,PER,Peru
+3379,PER,Peru
+3380,PER,Peru
+3381,PER,Peru
+3382,PER,Peru
+3383,PER,Peru
+3384,PER,Peru
+3385,PER,Peru
+3386,PER,Peru
+3387,PER,Peru
+3388,PER,Peru
+3389,PER,Peru
+3390,PER,Peru
+3391,PER,Peru
+3392,PER,Peru
+3393,PER,Peru
+3394,PER,Peru
+3395,PER,Peru
+3396,PER,Peru
+3397,PHL,Philippines
+3398,PHL,Philippines
+3399,PHL,Philippines
+3400,PHL,Philippines
+3401,PHL,Philippines
+3402,PHL,Philippines
+3403,PHL,Philippines
+3404,PHL,Philippines
+3405,PHL,Philippines
+3406,PHL,Philippines
+3407,PHL,Philippines
+3408,PHL,Philippines
+3409,PHL,Philippines
+3410,PHL,Philippines
+3411,PHL,Philippines
+3412,PHL,Philippines
+3413,PHL,Philippines
+3414,PHL,Philippines
+3415,PHL,Philippines
+3416,PHL,Philippines
+3417,PHL,Philippines
+3418,PHL,Philippines
+3419,PHL,Philippines
+3420,PHL,Philippines
+3421,PHL,Philippines
+3422,PHL,Philippines
+3423,PHL,Philippines
+3424,PHL,Philippines
+3425,PHL,Philippines
+3426,PHL,Philippines
+3427,PLW,Palau
+3428,PLW,Palau
+3429,PLW,Palau
+3430,PLW,Palau
+3431,PLW,Palau
+3432,PLW,Palau
+3433,PLW,Palau
+3434,PLW,Palau
+3435,PLW,Palau
+3436,PLW,Palau
+3437,PLW,Palau
+3438,PLW,Palau
+3439,PLW,Palau
+3440,PLW,Palau
+3441,PLW,Palau
+3442,PNG,Papua New Guinea
+3443,PNG,Papua New Guinea
+3444,PNG,Papua New Guinea
+3445,PNG,Papua New Guinea
+3446,PNG,Papua New Guinea
+3447,PNG,Papua New Guinea
+3448,PNG,Papua New Guinea
+3449,PNG,Papua New Guinea
+3450,PNG,Papua New Guinea
+3451,PNG,Papua New Guinea
+3452,PNG,Papua New Guinea
+3453,PNG,Papua New Guinea
+3454,PNG,Papua New Guinea
+3455,PNG,Papua New Guinea
+3456,PNG,Papua New Guinea
+3457,PNG,Papua New Guinea
+3458,PNG,Papua New Guinea
+3459,PNG,Papua New Guinea
+3460,PNG,Papua New Guinea
+3461,PNG,Papua New Guinea
+3462,PNG,Papua New Guinea
+3463,PNG,Papua New Guinea
+3464,PNG,Papua New Guinea
+3465,POL,Poland
+3466,POL,Poland
+3467,POL,Poland
+3468,POL,Poland
+3469,POL,Poland
+3470,POL,Poland
+3471,POL,Poland
+3472,POL,Poland
+3473,POL,Poland
+3474,POL,Poland
+3475,POL,Poland
+3476,POL,Poland
+3477,POL,Poland
+3478,POL,Poland
+3479,POL,Poland
+3480,POL,Poland
+3481,POL,Poland
+3482,POL,Poland
+3483,POL,Poland
+3484,POL,Poland
+3485,POL,Poland
+3486,POL,Poland
+3487,POL,Poland
+3488,POL,Poland
+3489,POL,Poland
+3490,POL,Poland
+3491,POL,Poland
+3492,POL,Poland
+3493,POL,Poland
+3494,POL,Poland
+3495,POL,Poland
+3496,POL,Poland
+3497,PRI,Puerto Rico
+3498,PRI,Puerto Rico
+3499,PRI,Puerto Rico
+3500,PRI,Puerto Rico
+3501,PRI,Puerto Rico
+3502,PRI,Puerto Rico
+3503,PRI,Puerto Rico
+3504,PRI,Puerto Rico
+3505,PRI,Puerto Rico
+3506,PRI,Puerto Rico
+3507,PRK,Korea. Democratic People's Republic of
+3508,PRK,Korea. Democratic People's Republic of
+3509,PRK,Korea. Democratic People's Republic of
+3510,PRK,Korea. Democratic People's Republic of
+3511,PRK,Korea. Democratic People's Republic of
+3512,PRK,Korea. Democratic People's Republic of
+3513,PRK,Korea. Democratic People's Republic of
+3514,PRK,Korea. Democratic People's Republic of
+3515,PRK,Korea. Democratic People's Republic of
+3516,PRK,Korea. Democratic People's Republic of
+3517,PRK,Korea. Democratic People's Republic of
+3518,PRK,Korea. Democratic People's Republic of
+3519,PRK,Korea. Democratic People's Republic of
+3520,PRK,Korea. Democratic People's Republic of
+3521,PRK,Korea. Democratic People's Republic of
+3522,PRK,Korea. Democratic People's Republic of
+3523,PRK,Korea. Democratic People's Republic of
+3524,PRK,Korea. Democratic People's Republic of
+3525,PRK,Korea. Democratic People's Republic of
+3526,PRK,Korea. Democratic People's Republic of
+3527,PRK,Korea. Democratic People's Republic of
+3528,PRT,Portugal
+3529,PRT,Portugal
+3530,PRT,Portugal
+3531,PRT,Portugal
+3532,PRT,Portugal
+3533,PRT,Portugal
+3534,PRT,Portugal
+3535,PRT,Portugal
+3536,PRT,Portugal
+3537,PRT,Portugal
+3538,PRT,Portugal
+3539,PRT,Portugal
+3540,PRT,Portugal
+3541,PRT,Portugal
+3542,PRT,Portugal
+3543,PRT,Portugal
+3544,PRT,Portugal
+3545,PRT,Portugal
+3546,PRT,Portugal
+3547,PRT,Portugal
+3548,PRT,Portugal
+3549,PRT,Portugal
+3550,PRT,Portugal
+3551,PRT,Portugal
+3552,PRT,Portugal
+3553,PRT,Portugal
+3554,PRT,Portugal
+3555,PRT,Portugal
+3556,PRT,Portugal
+3557,PRT,Portugal
+3558,PRT,Portugal
+3559,PRT,Portugal
+3560,PRT,Portugal
+3561,PRY,Paraguay
+3562,PRY,Paraguay
+3563,PRY,Paraguay
+3564,PRY,Paraguay
+3565,PRY,Paraguay
+3566,PRY,Paraguay
+3567,PRY,Paraguay
+3568,PRY,Paraguay
+3569,PRY,Paraguay
+3570,PRY,Paraguay
+3571,PRY,Paraguay
+3572,PRY,Paraguay
+3573,PRY,Paraguay
+3574,PRY,Paraguay
+3575,PRY,Paraguay
+3576,PRY,Paraguay
+3577,PRY,Paraguay
+3578,PRY,Paraguay
+3579,PRY,Paraguay
+3580,PRY,Paraguay
+3581,PRY,Paraguay
+3582,PRY,Paraguay
+3583,PRY,Paraguay
+3584,PRY,Paraguay
+3585,PRY,Paraguay
+3586,PYF,French Polynesia
+3587,PYF,French Polynesia
+3588,PYF,French Polynesia
+3589,PYF,French Polynesia
+3590,PYF,French Polynesia
+3591,PYF,French Polynesia
+3592,PYF,French Polynesia
+3593,PYF,French Polynesia
+3594,PYF,French Polynesia
+3595,PYF,French Polynesia
+3596,PYF,French Polynesia
+3597,PYF,French Polynesia
+3598,PYF,French Polynesia
+3599,PYF,French Polynesia
+3600,PYF,French Polynesia
+3601,PYF,French Polynesia
+3602,PYF,French Polynesia
+3603,PYF,French Polynesia
+3604,PYF,French Polynesia
+3605,PYF,French Polynesia
+3606,QAT,Qatar
+3607,QAT,Qatar
+3608,QAT,Qatar
+3609,QAT,Qatar
+3610,QAT,Qatar
+3611,QAT,Qatar
+3612,QAT,Qatar
+3613,QAT,Qatar
+3614,QAT,Qatar
+3615,QAT,Qatar
+3616,QAT,Qatar
+3617,QAT,Qatar
+3618,QAT,Qatar
+3619,QAT,Qatar
+3620,QAT,Qatar
+3621,QAT,Qatar
+3622,QAT,Qatar
+3623,REU,Reunion
+3624,REU,Reunion
+3625,REU,Reunion
+3626,REU,Reunion
+3627,REU,Reunion
+3628,REU,Reunion
+3629,REU,Reunion
+3630,REU,Reunion
+3631,REU,Reunion
+3632,REU,Reunion
+3633,REU,Reunion
+3634,REU,Reunion
+3635,REU,Reunion
+3636,REU,Reunion
+3637,REU,Reunion
+3638,REU,Reunion
+3639,REU,Reunion
+3640,REU,Reunion
+3641,REU,Reunion
+3642,REU,Reunion
+3643,REU,Reunion
+3644,ROU,Romania
+3645,ROU,Romania
+3646,ROU,Romania
+3647,ROU,Romania
+3648,ROU,Romania
+3649,ROU,Romania
+3650,ROU,Romania
+3651,ROU,Romania
+3652,ROU,Romania
+3653,ROU,Romania
+3654,ROU,Romania
+3655,ROU,Romania
+3656,ROU,Romania
+3657,ROU,Romania
+3658,ROU,Romania
+3659,ROU,Romania
+3660,ROU,Romania
+3661,ROU,Romania
+3662,ROU,Romania
+3663,ROU,Romania
+3664,ROU,Romania
+3665,ROU,Romania
+3666,ROU,Romania
+3667,ROU,Romania
+3668,ROU,Romania
+3669,ROU,Romania
+3670,ROU,Romania
+3671,ROU,Romania
+3672,ROU,Romania
+3673,ROU,Romania
+3674,ROU,Romania
+3675,ROU,Romania
+3676,ROU,Romania
+3677,RUS,Russian Federation
+3678,RUS,Russian Federation
+3679,RUS,Russian Federation
+3680,RUS,Russian Federation
+3681,RUS,Russian Federation
+3682,RUS,Russian Federation
+3683,RUS,Russian Federation
+3684,RUS,Russian Federation
+3685,RUS,Russian Federation
+3686,RUS,Russian Federation
+3687,RUS,Russian Federation
+3688,RUS,Russian Federation
+3689,RUS,Russian Federation
+3690,RUS,Russian Federation
+3691,RUS,Russian Federation
+3692,RUS,Russian Federation
+3693,RUS,Russian Federation
+3694,RUS,Russian Federation
+3695,RUS,Russian Federation
+3696,RUS,Russian Federation
+3697,RUS,Russian Federation
+3698,RUS,Russian Federation
+3699,RUS,Russian Federation
+3700,RUS,Russian Federation
+3701,RUS,Russian Federation
+3702,RUS,Russian Federation
+3703,RUS,Russian Federation
+3704,RUS,Russian Federation
+3705,RUS,Russian Federation
+3706,RUS,Russian Federation
+3707,RWA,Rwanda
+3708,RWA,Rwanda
+3709,RWA,Rwanda
+3710,RWA,Rwanda
+3711,RWA,Rwanda
+3712,RWA,Rwanda
+3713,RWA,Rwanda
+3714,RWA,Rwanda
+3715,RWA,Rwanda
+3716,RWA,Rwanda
+3717,RWA,Rwanda
+3718,RWA,Rwanda
+3719,RWA,Rwanda
+3720,RWA,Rwanda
+3721,RWA,Rwanda
+3722,RWA,Rwanda
+3723,RWA,Rwanda
+3724,RWA,Rwanda
+3725,RWA,Rwanda
+3726,RWA,Rwanda
+3727,RWA,Rwanda
+3728,SAU,Saudi Arabia
+3729,SAU,Saudi Arabia
+3730,SAU,Saudi Arabia
+3731,SAU,Saudi Arabia
+3732,SAU,Saudi Arabia
+3733,SAU,Saudi Arabia
+3734,SAU,Saudi Arabia
+3735,SAU,Saudi Arabia
+3736,SAU,Saudi Arabia
+3737,SAU,Saudi Arabia
+3738,SAU,Saudi Arabia
+3739,SAU,Saudi Arabia
+3740,SAU,Saudi Arabia
+3741,SAU,Saudi Arabia
+3742,SAU,Saudi Arabia
+3743,SAU,Saudi Arabia
+3744,SAU,Saudi Arabia
+3745,SAU,Saudi Arabia
+3746,SCG,Serbia and Montenegro
+3747,SCG,Serbia and Montenegro
+3748,SCG,Serbia and Montenegro
+3749,SCG,Serbia and Montenegro
+3750,SCG,Serbia and Montenegro
+3751,SCG,Serbia and Montenegro
+3752,SCG,Serbia and Montenegro
+3753,SCG,Serbia and Montenegro
+3754,SCG,Serbia and Montenegro
+3755,SCG,Serbia and Montenegro
+3756,SCG,Serbia and Montenegro
+3757,SCG,Serbia and Montenegro
+3758,SCG,Serbia and Montenegro
+3759,SCG,Serbia and Montenegro
+3760,SCG,Serbia and Montenegro
+3761,SCG,Serbia and Montenegro
+3762,SCG,Serbia and Montenegro
+3763,SCG,Serbia and Montenegro
+3764,SCG,Serbia and Montenegro
+3765,SCG,Serbia and Montenegro
+3766,SCG,Serbia and Montenegro
+3767,SCG,Serbia and Montenegro
+3768,SCG,Serbia and Montenegro
+3769,SCG,Serbia and Montenegro
+3770,SCG,Serbia and Montenegro
+3771,SCG,Serbia and Montenegro
+3772,SCG,Serbia and Montenegro
+3773,SCG,Serbia and Montenegro
+3774,SDN,Sudan
+3775,SDN,Sudan
+3776,SDN,Sudan
+3777,SDN,Sudan
+3778,SDN,Sudan
+3779,SDN,Sudan
+3780,SDN,Sudan
+3781,SDN,Sudan
+3782,SDN,Sudan
+3783,SDN,Sudan
+3784,SDN,Sudan
+3785,SDN,Sudan
+3786,SDN,Sudan
+3787,SDN,Sudan
+3788,SDN,Sudan
+3789,SDN,Sudan
+3790,SDN,Sudan
+3791,SDN,Sudan
+3792,SDN,Sudan
+3793,SDN,Sudan
+3794,SDN,Sudan
+3795,SEA,Int. Shipping
+3796,SEA,Int. Shipping
+3797,SEN,Senegal
+3798,SEN,Senegal
+3799,SEN,Senegal
+3800,SEN,Senegal
+3801,SEN,Senegal
+3802,SEN,Senegal
+3803,SEN,Senegal
+3804,SEN,Senegal
+3805,SEN,Senegal
+3806,SEN,Senegal
+3807,SEN,Senegal
+3808,SEN,Senegal
+3809,SEN,Senegal
+3810,SEN,Senegal
+3811,SEN,Senegal
+3812,SEN,Senegal
+3813,SEN,Senegal
+3814,SEN,Senegal
+3815,SEN,Senegal
+3816,SEN,Senegal
+3817,SEN,Senegal
+3818,SEN,Senegal
+3819,SGP,Singapore
+3820,SGP,Singapore
+3821,SGP,Singapore
+3822,SGP,Singapore
+3823,SGP,Singapore
+3824,SGP,Singapore
+3825,SGP,Singapore
+3826,SGP,Singapore
+3827,SGP,Singapore
+3828,SGP,Singapore
+3829,SGP,Singapore
+3830,SGP,Singapore
+3831,SGP,Singapore
+3832,SGP,Singapore
+3833,SGP,Singapore
+3834,SGP,Singapore
+3835,SGP,Singapore
+3836,SGP,Singapore
+3837,SGP,Singapore
+3838,SGP,Singapore
+3839,SGP,Singapore
+3840,SHN,Saint Helena
+3841,SHN,Saint Helena
+3842,SHN,Saint Helena
+3843,SHN,Saint Helena
+3844,SHN,Saint Helena
+3845,SHN,Saint Helena
+3846,SHN,Saint Helena
+3847,SHN,Saint Helena
+3848,SHN,Saint Helena
+3849,SHN,Saint Helena
+3850,SHN,Saint Helena
+3851,SLB,Solomon Islands
+3852,SLB,Solomon Islands
+3853,SLB,Solomon Islands
+3854,SLB,Solomon Islands
+3855,SLB,Solomon Islands
+3856,SLB,Solomon Islands
+3857,SLB,Solomon Islands
+3858,SLB,Solomon Islands
+3859,SLB,Solomon Islands
+3860,SLB,Solomon Islands
+3861,SLB,Solomon Islands
+3862,SLB,Solomon Islands
+3863,SLB,Solomon Islands
+3864,SLB,Solomon Islands
+3865,SLB,Solomon Islands
+3866,SLB,Solomon Islands
+3867,SLB,Solomon Islands
+3868,SLB,Solomon Islands
+3869,SLE,Sierra Leone
+3870,SLE,Sierra Leone
+3871,SLE,Sierra Leone
+3872,SLE,Sierra Leone
+3873,SLE,Sierra Leone
+3874,SLE,Sierra Leone
+3875,SLE,Sierra Leone
+3876,SLE,Sierra Leone
+3877,SLE,Sierra Leone
+3878,SLE,Sierra Leone
+3879,SLE,Sierra Leone
+3880,SLE,Sierra Leone
+3881,SLE,Sierra Leone
+3882,SLE,Sierra Leone
+3883,SLE,Sierra Leone
+3884,SLE,Sierra Leone
+3885,SLE,Sierra Leone
+3886,SLE,Sierra Leone
+3887,SLE,Sierra Leone
+3888,SLE,Sierra Leone
+3889,SLE,Sierra Leone
+3890,SLV,El Salvador
+3891,SLV,El Salvador
+3892,SLV,El Salvador
+3893,SLV,El Salvador
+3894,SLV,El Salvador
+3895,SLV,El Salvador
+3896,SLV,El Salvador
+3897,SLV,El Salvador
+3898,SLV,El Salvador
+3899,SLV,El Salvador
+3900,SLV,El Salvador
+3901,SLV,El Salvador
+3902,SLV,El Salvador
+3903,SLV,El Salvador
+3904,SLV,El Salvador
+3905,SLV,El Salvador
+3906,SLV,El Salvador
+3907,SLV,El Salvador
+3908,SLV,El Salvador
+3909,SOM,Somalia
+3910,SOM,Somalia
+3911,SOM,Somalia
+3912,SOM,Somalia
+3913,SOM,Somalia
+3914,SOM,Somalia
+3915,SOM,Somalia
+3916,SOM,Somalia
+3917,SOM,Somalia
+3918,SOM,Somalia
+3919,SOM,Somalia
+3920,SOM,Somalia
+3921,SOM,Somalia
+3922,SOM,Somalia
+3923,SOM,Somalia
+3924,SOM,Somalia
+3925,SOM,Somalia
+3926,SOM,Somalia
+3927,SOM,Somalia
+3928,SOM,Somalia
+3929,SPM,Saint Pierre and Miquelon
+3930,SPM,Saint Pierre and Miquelon
+3931,SPM,Saint Pierre and Miquelon
+3932,SPM,Saint Pierre and Miquelon
+3933,SPM,Saint Pierre and Miquelon
+3934,SPM,Saint Pierre and Miquelon
+3935,SPM,Saint Pierre and Miquelon
+3936,SPM,Saint Pierre and Miquelon
+3937,SPM,Saint Pierre and Miquelon
+3938,SPM,Saint Pierre and Miquelon
+3939,SPM,Saint Pierre and Miquelon
+3940,SPM,Saint Pierre and Miquelon
+3941,SPM,Saint Pierre and Miquelon
+3942,SPM,Saint Pierre and Miquelon
+3943,SPM,Saint Pierre and Miquelon
+3944,SPM,Saint Pierre and Miquelon
+3945,SPM,Saint Pierre and Miquelon
+3946,STP,Sao Tome and Principe
+3947,STP,Sao Tome and Principe
+3948,STP,Sao Tome and Principe
+3949,STP,Sao Tome and Principe
+3950,STP,Sao Tome and Principe
+3951,STP,Sao Tome and Principe
+3952,STP,Sao Tome and Principe
+3953,STP,Sao Tome and Principe
+3954,STP,Sao Tome and Principe
+3955,STP,Sao Tome and Principe
+3956,STP,Sao Tome and Principe
+3957,STP,Sao Tome and Principe
+3958,STP,Sao Tome and Principe
+3959,STP,Sao Tome and Principe
+3960,STP,Sao Tome and Principe
+3961,STP,Sao Tome and Principe
+3962,STP,Sao Tome and Principe
+3963,STP,Sao Tome and Principe
+3964,STP,Sao Tome and Principe
+3965,SUR,Suriname
+3966,SUR,Suriname
+3967,SUR,Suriname
+3968,SUR,Suriname
+3969,SUR,Suriname
+3970,SUR,Suriname
+3971,SUR,Suriname
+3972,SUR,Suriname
+3973,SUR,Suriname
+3974,SUR,Suriname
+3975,SUR,Suriname
+3976,SUR,Suriname
+3977,SUR,Suriname
+3978,SUR,Suriname
+3979,SUR,Suriname
+3980,SUR,Suriname
+3981,SUR,Suriname
+3982,SUR,Suriname
+3983,SUR,Suriname
+3984,SUR,Suriname
+3985,SUR,Suriname
+3986,SUR,Suriname
+3987,SUR,Suriname
+3988,SVK,Slovakia
+3989,SVK,Slovakia
+3990,SVK,Slovakia
+3991,SVK,Slovakia
+3992,SVK,Slovakia
+3993,SVK,Slovakia
+3994,SVK,Slovakia
+3995,SVK,Slovakia
+3996,SVK,Slovakia
+3997,SVK,Slovakia
+3998,SVK,Slovakia
+3999,SVK,Slovakia
+4000,SVK,Slovakia
+4001,SVK,Slovakia
+4002,SVK,Slovakia
+4003,SVK,Slovakia
+4004,SVK,Slovakia
+4005,SVK,Slovakia
+4006,SVK,Slovakia
+4007,SVK,Slovakia
+4008,SVK,Slovakia
+4009,SVK,Slovakia
+4010,SVK,Slovakia
+4011,SVK,Slovakia
+4012,SVK,Slovakia
+4013,SVK,Slovakia
+4014,SVK,Slovakia
+4015,SVK,Slovakia
+4016,SVN,Slovenia
+4017,SVN,Slovenia
+4018,SVN,Slovenia
+4019,SVN,Slovenia
+4020,SVN,Slovenia
+4021,SVN,Slovenia
+4022,SVN,Slovenia
+4023,SVN,Slovenia
+4024,SVN,Slovenia
+4025,SVN,Slovenia
+4026,SVN,Slovenia
+4027,SVN,Slovenia
+4028,SVN,Slovenia
+4029,SVN,Slovenia
+4030,SVN,Slovenia
+4031,SVN,Slovenia
+4032,SVN,Slovenia
+4033,SVN,Slovenia
+4034,SVN,Slovenia
+4035,SVN,Slovenia
+4036,SVN,Slovenia
+4037,SVN,Slovenia
+4038,SVN,Slovenia
+4039,SVN,Slovenia
+4040,SVN,Slovenia
+4041,SVN,Slovenia
+4042,SVN,Slovenia
+4043,SWE,Sweden
+4044,SWE,Sweden
+4045,SWE,Sweden
+4046,SWE,Sweden
+4047,SWE,Sweden
+4048,SWE,Sweden
+4049,SWE,Sweden
+4050,SWE,Sweden
+4051,SWE,Sweden
+4052,SWE,Sweden
+4053,SWE,Sweden
+4054,SWE,Sweden
+4055,SWE,Sweden
+4056,SWE,Sweden
+4057,SWE,Sweden
+4058,SWE,Sweden
+4059,SWE,Sweden
+4060,SWE,Sweden
+4061,SWE,Sweden
+4062,SWE,Sweden
+4063,SWE,Sweden
+4064,SWE,Sweden
+4065,SWE,Sweden
+4066,SWE,Sweden
+4067,SWE,Sweden
+4068,SWE,Sweden
+4069,SWE,Sweden
+4070,SWE,Sweden
+4071,SWE,Sweden
+4072,SWE,Sweden
+4073,SWE,Sweden
+4074,SWE,Sweden
+4075,SWZ,Swaziland
+4076,SWZ,Swaziland
+4077,SWZ,Swaziland
+4078,SWZ,Swaziland
+4079,SWZ,Swaziland
+4080,SWZ,Swaziland
+4081,SWZ,Swaziland
+4082,SWZ,Swaziland
+4083,SWZ,Swaziland
+4084,SWZ,Swaziland
+4085,SWZ,Swaziland
+4086,SWZ,Swaziland
+4087,SWZ,Swaziland
+4088,SWZ,Swaziland
+4089,SWZ,Swaziland
+4090,SWZ,Swaziland
+4091,SWZ,Swaziland
+4092,SWZ,Swaziland
+4093,SWZ,Swaziland
+4094,SWZ,Swaziland
+4095,SWZ,Swaziland
+4096,SYC,Seychelles
+4097,SYC,Seychelles
+4098,SYC,Seychelles
+4099,SYC,Seychelles
+4100,SYC,Seychelles
+4101,SYC,Seychelles
+4102,SYC,Seychelles
+4103,SYC,Seychelles
+4104,SYC,Seychelles
+4105,SYC,Seychelles
+4106,SYC,Seychelles
+4107,SYC,Seychelles
+4108,SYC,Seychelles
+4109,SYC,Seychelles
+4110,SYC,Seychelles
+4111,SYC,Seychelles
+4112,SYC,Seychelles
+4113,SYC,Seychelles
+4114,SYC,Seychelles
+4115,SYC,Seychelles
+4116,SYR,Syrian Arab Republic
+4117,SYR,Syrian Arab Republic
+4118,SYR,Syrian Arab Republic
+4119,SYR,Syrian Arab Republic
+4120,SYR,Syrian Arab Republic
+4121,SYR,Syrian Arab Republic
+4122,SYR,Syrian Arab Republic
+4123,SYR,Syrian Arab Republic
+4124,SYR,Syrian Arab Republic
+4125,SYR,Syrian Arab Republic
+4126,SYR,Syrian Arab Republic
+4127,SYR,Syrian Arab Republic
+4128,SYR,Syrian Arab Republic
+4129,SYR,Syrian Arab Republic
+4130,SYR,Syrian Arab Republic
+4131,SYR,Syrian Arab Republic
+4132,SYR,Syrian Arab Republic
+4133,SYR,Syrian Arab Republic
+4134,SYR,Syrian Arab Republic
+4135,SYR,Syrian Arab Republic
+4136,TCA,Turks and Caicos Islands
+4137,TCA,Turks and Caicos Islands
+4138,TCA,Turks and Caicos Islands
+4139,TCA,Turks and Caicos Islands
+4140,TCA,Turks and Caicos Islands
+4141,TCA,Turks and Caicos Islands
+4142,TCA,Turks and Caicos Islands
+4143,TCA,Turks and Caicos Islands
+4144,TCA,Turks and Caicos Islands
+4145,TCA,Turks and Caicos Islands
+4146,TCA,Turks and Caicos Islands
+4147,TCA,Turks and Caicos Islands
+4148,TCA,Turks and Caicos Islands
+4149,TCA,Turks and Caicos Islands
+4150,TCA,Turks and Caicos Islands
+4151,TCA,Turks and Caicos Islands
+4152,TCD,Chad
+4153,TCD,Chad
+4154,TCD,Chad
+4155,TCD,Chad
+4156,TCD,Chad
+4157,TCD,Chad
+4158,TCD,Chad
+4159,TCD,Chad
+4160,TCD,Chad
+4161,TCD,Chad
+4162,TCD,Chad
+4163,TCD,Chad
+4164,TCD,Chad
+4165,TCD,Chad
+4166,TCD,Chad
+4167,TCD,Chad
+4168,TCD,Chad
+4169,TCD,Chad
+4170,TCD,Chad
+4171,TCD,Chad
+4172,TCD,Chad
+4173,TGO,Togo
+4174,TGO,Togo
+4175,TGO,Togo
+4176,TGO,Togo
+4177,TGO,Togo
+4178,TGO,Togo
+4179,TGO,Togo
+4180,TGO,Togo
+4181,TGO,Togo
+4182,TGO,Togo
+4183,TGO,Togo
+4184,TGO,Togo
+4185,TGO,Togo
+4186,TGO,Togo
+4187,TGO,Togo
+4188,TGO,Togo
+4189,THA,Thailand
+4190,THA,Thailand
+4191,THA,Thailand
+4192,THA,Thailand
+4193,THA,Thailand
+4194,THA,Thailand
+4195,THA,Thailand
+4196,THA,Thailand
+4197,THA,Thailand
+4198,THA,Thailand
+4199,THA,Thailand
+4200,THA,Thailand
+4201,THA,Thailand
+4202,THA,Thailand
+4203,THA,Thailand
+4204,THA,Thailand
+4205,THA,Thailand
+4206,THA,Thailand
+4207,THA,Thailand
+4208,THA,Thailand
+4209,THA,Thailand
+4210,THA,Thailand
+4211,THA,Thailand
+4212,THA,Thailand
+4213,THA,Thailand
+4214,THA,Thailand
+4215,THA,Thailand
+4216,THA,Thailand
+4217,THA,Thailand
+4218,TJK,Tajikistan
+4219,TJK,Tajikistan
+4220,TJK,Tajikistan
+4221,TJK,Tajikistan
+4222,TJK,Tajikistan
+4223,TJK,Tajikistan
+4224,TJK,Tajikistan
+4225,TJK,Tajikistan
+4226,TJK,Tajikistan
+4227,TJK,Tajikistan
+4228,TJK,Tajikistan
+4229,TJK,Tajikistan
+4230,TJK,Tajikistan
+4231,TJK,Tajikistan
+4232,TJK,Tajikistan
+4233,TJK,Tajikistan
+4234,TJK,Tajikistan
+4235,TJK,Tajikistan
+4236,TJK,Tajikistan
+4237,TKM,Turkmenistan
+4238,TKM,Turkmenistan
+4239,TKM,Turkmenistan
+4240,TKM,Turkmenistan
+4241,TKM,Turkmenistan
+4242,TKM,Turkmenistan
+4243,TKM,Turkmenistan
+4244,TKM,Turkmenistan
+4245,TKM,Turkmenistan
+4246,TKM,Turkmenistan
+4247,TKM,Turkmenistan
+4248,TKM,Turkmenistan
+4249,TKM,Turkmenistan
+4250,TKM,Turkmenistan
+4251,TKM,Turkmenistan
+4252,TKM,Turkmenistan
+4253,TKM,Turkmenistan
+4254,TKM,Turkmenistan
+4255,TLS,Timor-Leste
+4256,TLS,Timor-Leste
+4257,TLS,Timor-Leste
+4258,TLS,Timor-Leste
+4259,TLS,Timor-Leste
+4260,TLS,Timor-Leste
+4261,TLS,Timor-Leste
+4262,TLS,Timor-Leste
+4263,TLS,Timor-Leste
+4264,TLS,Timor-Leste
+4265,TLS,Timor-Leste
+4266,TLS,Timor-Leste
+4267,TLS,Timor-Leste
+4268,TLS,Timor-Leste
+4269,TLS,Timor-Leste
+4270,TLS,Timor-Leste
+4271,TLS,Timor-Leste
+4272,TLS,Timor-Leste
+4273,TLS,Timor-Leste
+4274,TON,Tonga
+4275,TON,Tonga
+4276,TON,Tonga
+4277,TON,Tonga
+4278,TON,Tonga
+4279,TON,Tonga
+4280,TON,Tonga
+4281,TON,Tonga
+4282,TON,Tonga
+4283,TON,Tonga
+4284,TON,Tonga
+4285,TON,Tonga
+4286,TON,Tonga
+4287,TON,Tonga
+4288,TON,Tonga
+4289,TON,Tonga
+4290,TON,Tonga
+4291,TON,Tonga
+4292,TTO,Trinidad and Tobago
+4293,TTO,Trinidad and Tobago
+4294,TTO,Trinidad and Tobago
+4295,TTO,Trinidad and Tobago
+4296,TTO,Trinidad and Tobago
+4297,TTO,Trinidad and Tobago
+4298,TTO,Trinidad and Tobago
+4299,TTO,Trinidad and Tobago
+4300,TTO,Trinidad and Tobago
+4301,TTO,Trinidad and Tobago
+4302,TTO,Trinidad and Tobago
+4303,TTO,Trinidad and Tobago
+4304,TTO,Trinidad and Tobago
+4305,TTO,Trinidad and Tobago
+4306,TTO,Trinidad and Tobago
+4307,TTO,Trinidad and Tobago
+4308,TTO,Trinidad and Tobago
+4309,TTO,Trinidad and Tobago
+4310,TTO,Trinidad and Tobago
+4311,TTO,Trinidad and Tobago
+4312,TTO,Trinidad and Tobago
+4313,TTO,Trinidad and Tobago
+4314,TUN,Tunisia
+4315,TUN,Tunisia
+4316,TUN,Tunisia
+4317,TUN,Tunisia
+4318,TUN,Tunisia
+4319,TUN,Tunisia
+4320,TUN,Tunisia
+4321,TUN,Tunisia
+4322,TUN,Tunisia
+4323,TUN,Tunisia
+4324,TUN,Tunisia
+4325,TUN,Tunisia
+4326,TUN,Tunisia
+4327,TUN,Tunisia
+4328,TUN,Tunisia
+4329,TUN,Tunisia
+4330,TUN,Tunisia
+4331,TUN,Tunisia
+4332,TUN,Tunisia
+4333,TUN,Tunisia
+4334,TUN,Tunisia
+4335,TUN,Tunisia
+4336,TUN,Tunisia
+4337,TUR,Turkey
+4338,TUR,Turkey
+4339,TUR,Turkey
+4340,TUR,Turkey
+4341,TUR,Turkey
+4342,TUR,Turkey
+4343,TUR,Turkey
+4344,TUR,Turkey
+4345,TUR,Turkey
+4346,TUR,Turkey
+4347,TUR,Turkey
+4348,TUR,Turkey
+4349,TUR,Turkey
+4350,TUR,Turkey
+4351,TUR,Turkey
+4352,TUR,Turkey
+4353,TUR,Turkey
+4354,TUR,Turkey
+4355,TUR,Turkey
+4356,TUR,Turkey
+4357,TUR,Turkey
+4358,TUR,Turkey
+4359,TUR,Turkey
+4360,TUR,Turkey
+4361,TUR,Turkey
+4362,TUR,Turkey
+4363,TUR,Turkey
+4364,TWN,Taiwan_Province of China
+4365,TWN,Taiwan_Province of China
+4366,TWN,Taiwan_Province of China
+4367,TWN,Taiwan_Province of China
+4368,TWN,Taiwan_Province of China
+4369,TWN,Taiwan_Province of China
+4370,TWN,Taiwan_Province of China
+4371,TWN,Taiwan_Province of China
+4372,TWN,Taiwan_Province of China
+4373,TWN,Taiwan_Province of China
+4374,TWN,Taiwan_Province of China
+4375,TWN,Taiwan_Province of China
+4376,TWN,Taiwan_Province of China
+4377,TWN,Taiwan_Province of China
+4378,TWN,Taiwan_Province of China
+4379,TWN,Taiwan_Province of China
+4380,TWN,Taiwan_Province of China
+4381,TWN,Taiwan_Province of China
+4382,TWN,Taiwan_Province of China
+4383,TWN,Taiwan_Province of China
+4384,TWN,Taiwan_Province of China
+4385,TWN,Taiwan_Province of China
+4386,TWN,Taiwan_Province of China
+4387,TWN,Taiwan_Province of China
+4388,TWN,Taiwan_Province of China
+4389,TWN,Taiwan_Province of China
+4390,TWN,Taiwan_Province of China
+4391,TWN,Taiwan_Province of China
+4392,TWN,Taiwan_Province of China
+4393,TZA,Tanzania_United Republic of
+4394,TZA,Tanzania_United Republic of
+4395,TZA,Tanzania_United Republic of
+4396,TZA,Tanzania_United Republic of
+4397,TZA,Tanzania_United Republic of
+4398,TZA,Tanzania_United Republic of
+4399,TZA,Tanzania_United Republic of
+4400,TZA,Tanzania_United Republic of
+4401,TZA,Tanzania_United Republic of
+4402,TZA,Tanzania_United Republic of
+4403,TZA,Tanzania_United Republic of
+4404,TZA,Tanzania_United Republic of
+4405,TZA,Tanzania_United Republic of
+4406,TZA,Tanzania_United Republic of
+4407,TZA,Tanzania_United Republic of
+4408,TZA,Tanzania_United Republic of
+4409,TZA,Tanzania_United Republic of
+4410,TZA,Tanzania_United Republic of
+4411,TZA,Tanzania_United Republic of
+4412,TZA,Tanzania_United Republic of
+4413,TZA,Tanzania_United Republic of
+4414,TZA,Tanzania_United Republic of
+4415,UGA,Uganda
+4416,UGA,Uganda
+4417,UGA,Uganda
+4418,UGA,Uganda
+4419,UGA,Uganda
+4420,UGA,Uganda
+4421,UGA,Uganda
+4422,UGA,Uganda
+4423,UGA,Uganda
+4424,UGA,Uganda
+4425,UGA,Uganda
+4426,UGA,Uganda
+4427,UGA,Uganda
+4428,UGA,Uganda
+4429,UGA,Uganda
+4430,UGA,Uganda
+4431,UGA,Uganda
+4432,UGA,Uganda
+4433,UGA,Uganda
+4434,UGA,Uganda
+4435,UGA,Uganda
+4436,UGA,Uganda
+4437,UGA,Uganda
+4438,UKR,Ukraine
+4439,UKR,Ukraine
+4440,UKR,Ukraine
+4441,UKR,Ukraine
+4442,UKR,Ukraine
+4443,UKR,Ukraine
+4444,UKR,Ukraine
+4445,UKR,Ukraine
+4446,UKR,Ukraine
+4447,UKR,Ukraine
+4448,UKR,Ukraine
+4449,UKR,Ukraine
+4450,UKR,Ukraine
+4451,UKR,Ukraine
+4452,UKR,Ukraine
+4453,UKR,Ukraine
+4454,UKR,Ukraine
+4455,UKR,Ukraine
+4456,UKR,Ukraine
+4457,UKR,Ukraine
+4458,UKR,Ukraine
+4459,UKR,Ukraine
+4460,UKR,Ukraine
+4461,UKR,Ukraine
+4462,UKR,Ukraine
+4463,UKR,Ukraine
+4464,UKR,Ukraine
+4465,UKR,Ukraine
+4466,UKR,Ukraine
+4467,UKR,Ukraine
+4468,UKR,Ukraine
+4469,UKR,Ukraine
+4470,UKR,Ukraine
+4471,UKR,Ukraine
+4472,URY,Uruguay
+4473,URY,Uruguay
+4474,URY,Uruguay
+4475,URY,Uruguay
+4476,URY,Uruguay
+4477,URY,Uruguay
+4478,URY,Uruguay
+4479,URY,Uruguay
+4480,URY,Uruguay
+4481,URY,Uruguay
+4482,URY,Uruguay
+4483,URY,Uruguay
+4484,URY,Uruguay
+4485,URY,Uruguay
+4486,URY,Uruguay
+4487,URY,Uruguay
+4488,URY,Uruguay
+4489,URY,Uruguay
+4490,URY,Uruguay
+4491,URY,Uruguay
+4492,URY,Uruguay
+4493,URY,Uruguay
+4494,URY,Uruguay
+4495,URY,Uruguay
+4496,URY,Uruguay
+4497,URY,Uruguay
+4498,URY,Uruguay
+4499,URY,Uruguay
+4500,URY,Uruguay
+4501,USA,United States
+4502,USA,United States
+4503,USA,United States
+4504,USA,United States
+4505,USA,United States
+4506,USA,United States
+4507,USA,United States
+4508,USA,United States
+4509,USA,United States
+4510,USA,United States
+4511,USA,United States
+4512,USA,United States
+4513,USA,United States
+4514,USA,United States
+4515,USA,United States
+4516,USA,United States
+4517,USA,United States
+4518,USA,United States
+4519,USA,United States
+4520,USA,United States
+4521,USA,United States
+4522,USA,United States
+4523,USA,United States
+4524,USA,United States
+4525,USA,United States
+4526,USA,United States
+4527,USA,United States
+4528,USA,United States
+4529,USA,United States
+4530,USA,United States
+4531,USA,United States
+4532,USA,United States
+4533,USA,United States
+4534,USA,United States
+4535,UZB,Uzbekistan
+4536,UZB,Uzbekistan
+4537,UZB,Uzbekistan
+4538,UZB,Uzbekistan
+4539,UZB,Uzbekistan
+4540,UZB,Uzbekistan
+4541,UZB,Uzbekistan
+4542,UZB,Uzbekistan
+4543,UZB,Uzbekistan
+4544,UZB,Uzbekistan
+4545,UZB,Uzbekistan
+4546,UZB,Uzbekistan
+4547,UZB,Uzbekistan
+4548,UZB,Uzbekistan
+4549,UZB,Uzbekistan
+4550,UZB,Uzbekistan
+4551,UZB,Uzbekistan
+4552,UZB,Uzbekistan
+4553,UZB,Uzbekistan
+4554,UZB,Uzbekistan
+4555,UZB,Uzbekistan
+4556,UZB,Uzbekistan
+4557,VCT,Saint Vincent and the Grenadines
+4558,VCT,Saint Vincent and the Grenadines
+4559,VCT,Saint Vincent and the Grenadines
+4560,VCT,Saint Vincent and the Grenadines
+4561,VCT,Saint Vincent and the Grenadines
+4562,VCT,Saint Vincent and the Grenadines
+4563,VCT,Saint Vincent and the Grenadines
+4564,VCT,Saint Vincent and the Grenadines
+4565,VCT,Saint Vincent and the Grenadines
+4566,VCT,Saint Vincent and the Grenadines
+4567,VCT,Saint Vincent and the Grenadines
+4568,VCT,Saint Vincent and the Grenadines
+4569,VCT,Saint Vincent and the Grenadines
+4570,VCT,Saint Vincent and the Grenadines
+4571,VCT,Saint Vincent and the Grenadines
+4572,VCT,Saint Vincent and the Grenadines
+4573,VCT,Saint Vincent and the Grenadines
+4574,VCT,Saint Vincent and the Grenadines
+4575,VCT,Saint Vincent and the Grenadines
+4576,VCT,Saint Vincent and the Grenadines
+4577,VEN,Venezuela
+4578,VEN,Venezuela
+4579,VEN,Venezuela
+4580,VEN,Venezuela
+4581,VEN,Venezuela
+4582,VEN,Venezuela
+4583,VEN,Venezuela
+4584,VEN,Venezuela
+4585,VEN,Venezuela
+4586,VEN,Venezuela
+4587,VEN,Venezuela
+4588,VEN,Venezuela
+4589,VEN,Venezuela
+4590,VEN,Venezuela
+4591,VEN,Venezuela
+4592,VEN,Venezuela
+4593,VEN,Venezuela
+4594,VEN,Venezuela
+4595,VEN,Venezuela
+4596,VEN,Venezuela
+4597,VEN,Venezuela
+4598,VEN,Venezuela
+4599,VEN,Venezuela
+4600,VEN,Venezuela
+4601,VEN,Venezuela
+4602,VGB,Virgin Islands_British
+4603,VGB,Virgin Islands_British
+4604,VGB,Virgin Islands_British
+4605,VGB,Virgin Islands_British
+4606,VGB,Virgin Islands_British
+4607,VGB,Virgin Islands_British
+4608,VGB,Virgin Islands_British
+4609,VGB,Virgin Islands_British
+4610,VGB,Virgin Islands_British
+4611,VGB,Virgin Islands_British
+4612,VGB,Virgin Islands_British
+4613,VGB,Virgin Islands_British
+4614,VGB,Virgin Islands_British
+4615,VGB,Virgin Islands_British
+4616,VGB,Virgin Islands_British
+4617,VGB,Virgin Islands_British
+4618,VNM,Viet Nam
+4619,VNM,Viet Nam
+4620,VNM,Viet Nam
+4621,VNM,Viet Nam
+4622,VNM,Viet Nam
+4623,VNM,Viet Nam
+4624,VNM,Viet Nam
+4625,VNM,Viet Nam
+4626,VNM,Viet Nam
+4627,VNM,Viet Nam
+4628,VNM,Viet Nam
+4629,VNM,Viet Nam
+4630,VNM,Viet Nam
+4631,VNM,Viet Nam
+4632,VNM,Viet Nam
+4633,VNM,Viet Nam
+4634,VNM,Viet Nam
+4635,VNM,Viet Nam
+4636,VNM,Viet Nam
+4637,VNM,Viet Nam
+4638,VNM,Viet Nam
+4639,VNM,Viet Nam
+4640,VNM,Viet Nam
+4641,VNM,Viet Nam
+4642,VNM,Viet Nam
+4643,VNM,Viet Nam
+4644,VNM,Viet Nam
+4645,VNM,Viet Nam
+4646,VUT,Vanuatu
+4647,VUT,Vanuatu
+4648,VUT,Vanuatu
+4649,VUT,Vanuatu
+4650,VUT,Vanuatu
+4651,VUT,Vanuatu
+4652,VUT,Vanuatu
+4653,VUT,Vanuatu
+4654,VUT,Vanuatu
+4655,VUT,Vanuatu
+4656,VUT,Vanuatu
+4657,VUT,Vanuatu
+4658,VUT,Vanuatu
+4659,VUT,Vanuatu
+4660,VUT,Vanuatu
+4661,VUT,Vanuatu
+4662,VUT,Vanuatu
+4663,VUT,Vanuatu
+4664,VUT,Vanuatu
+4665,WSM,Samoa
+4666,WSM,Samoa
+4667,WSM,Samoa
+4668,WSM,Samoa
+4669,WSM,Samoa
+4670,WSM,Samoa
+4671,WSM,Samoa
+4672,WSM,Samoa
+4673,WSM,Samoa
+4674,WSM,Samoa
+4675,WSM,Samoa
+4676,WSM,Samoa
+4677,WSM,Samoa
+4678,WSM,Samoa
+4679,WSM,Samoa
+4680,WSM,Samoa
+4681,WSM,Samoa
+4682,WSM,Samoa
+4683,WSM,Samoa
+4684,YEM,Yemen
+4685,YEM,Yemen
+4686,YEM,Yemen
+4687,YEM,Yemen
+4688,YEM,Yemen
+4689,YEM,Yemen
+4690,YEM,Yemen
+4691,YEM,Yemen
+4692,YEM,Yemen
+4693,YEM,Yemen
+4694,YEM,Yemen
+4695,YEM,Yemen
+4696,YEM,Yemen
+4697,YEM,Yemen
+4698,YEM,Yemen
+4699,YEM,Yemen
+4700,ZAF,South Africa
+4701,ZAF,South Africa
+4702,ZAF,South Africa
+4703,ZAF,South Africa
+4704,ZAF,South Africa
+4705,ZAF,South Africa
+4706,ZAF,South Africa
+4707,ZAF,South Africa
+4708,ZAF,South Africa
+4709,ZAF,South Africa
+4710,ZAF,South Africa
+4711,ZAF,South Africa
+4712,ZAF,South Africa
+4713,ZAF,South Africa
+4714,ZAF,South Africa
+4715,ZAF,South Africa
+4716,ZAF,South Africa
+4717,ZAF,South Africa
+4718,ZAF,South Africa
+4719,ZAF,South Africa
+4720,ZAF,South Africa
+4721,ZAF,South Africa
+4722,ZAF,South Africa
+4723,ZAF,South Africa
+4724,ZAF,South Africa
+4725,ZAF,South Africa
+4726,ZAF,South Africa
+4727,ZMB,Zambia
+4728,ZMB,Zambia
+4729,ZMB,Zambia
+4730,ZMB,Zambia
+4731,ZMB,Zambia
+4732,ZMB,Zambia
+4733,ZMB,Zambia
+4734,ZMB,Zambia
+4735,ZMB,Zambia
+4736,ZMB,Zambia
+4737,ZMB,Zambia
+4738,ZMB,Zambia
+4739,ZMB,Zambia
+4740,ZMB,Zambia
+4741,ZMB,Zambia
+4742,ZMB,Zambia
+4743,ZMB,Zambia
+4744,ZMB,Zambia
+4745,ZMB,Zambia
+4746,ZMB,Zambia
+4747,ZMB,Zambia
+4748,ZMB,Zambia
+4749,ZMB,Zambia
+4750,ZMB,Zambia
+4751,ZWE,Zimbabwe
+4752,ZWE,Zimbabwe
+4753,ZWE,Zimbabwe
+4754,ZWE,Zimbabwe
+4755,ZWE,Zimbabwe
+4756,ZWE,Zimbabwe
+4757,ZWE,Zimbabwe
+4758,ZWE,Zimbabwe
+4759,ZWE,Zimbabwe
+4760,ZWE,Zimbabwe
+4761,ZWE,Zimbabwe
+4762,ZWE,Zimbabwe
+4763,ZWE,Zimbabwe
+4764,ZWE,Zimbabwe
+4765,ZWE,Zimbabwe
+4766,ZWE,Zimbabwe
+4767,ZWE,Zimbabwe
+4768,ZWE,Zimbabwe
+4769,ZWE,Zimbabwe
+4770,ZWE,Zimbabwe
+4771,ZWE,Zimbabwe
+4772,ZWE,Zimbabwe

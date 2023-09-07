@@ -1,0 +1,4774 @@
+,industry,industry_name
+0,1.A.1.a,Main Activity Electricity and Heat Production
+1,1.A.2,Manufacturing Industries and Construction
+2,1.A.4,Residential and other sectors
+3,1.A.5,Non-Specified
+4,1.B.1,Solid Fuels
+5,1.A.1.a,Main Activity Electricity and Heat Production
+6,1.A.2,Manufacturing Industries and Construction
+7,1.A.3.a,Civil Aviation
+8,1.A.3.b_noRES,Road Transportation no resuspension
+9,1.A.3.d,Water-borne Navigation
+10,1.A.3.e,Other Transportation
+11,1.A.4,Residential and other sectors
+12,1.A.5,Non-Specified
+13,1.B.2,Oil and Natural Gas
+14,2.A.3,Glass Production
+15,2.A.4,Other Process Uses of Carbonates
+16,2.D,Non-Energy Products from Fuels and Solvent Use
+17,1.A.1.a,Main Activity Electricity and Heat Production
+18,1.A.2,Manufacturing Industries and Construction
+19,1.A.4,Residential and other sectors
+20,1.A.5,Non-Specified
+21,1.B.1,Solid Fuels
+22,1.B.2,Oil and Natural Gas
+23,3.C.1,Emissions from biomass burning
+24,1.A.1.a,Main Activity Electricity and Heat Production
+25,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+26,1.A.2,Manufacturing Industries and Construction
+27,1.A.3.a,Civil Aviation
+28,1.A.3.b_noRES,Road Transportation no resuspension
+29,1.A.3.d,Water-borne Navigation
+30,1.A.3.e,Other Transportation
+31,1.A.4,Residential and other sectors
+32,1.A.5,Non-Specified
+33,1.B.1,Solid Fuels
+34,1.B.2,Oil and Natural Gas
+35,2.A.1,Cement production
+36,2.A.3,Glass Production
+37,2.B,Chemical Industry
+38,2.C,Metal Industry
+39,2.D,Non-Energy Products from Fuels and Solvent Use
+40,3.C.2,Liming
+41,3.C.3,Urea application
+42,1.A.2,Manufacturing Industries and Construction
+43,1.A.4,Residential and other sectors
+44,1.B.1,Solid Fuels
+45,3.C.1,Emissions from biomass burning
+46,1.A.1.a,Main Activity Electricity and Heat Production
+47,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+48,1.A.2,Manufacturing Industries and Construction
+49,1.A.3.a,Civil Aviation
+50,1.A.3.b_noRES,Road Transportation no resuspension
+51,1.A.3.d,Water-borne Navigation
+52,1.A.3.e,Other Transportation
+53,1.A.4,Residential and other sectors
+54,1.A.5,Non-Specified
+55,1.B.2,Oil and Natural Gas
+56,2.A.1,Cement production
+57,2.A.2,Lime production
+58,2.A.3,Glass Production
+59,2.A.4,Other Process Uses of Carbonates
+60,2.C,Metal Industry
+61,2.D,Non-Energy Products from Fuels and Solvent Use
+62,1.A.1.a,Main Activity Electricity and Heat Production
+63,1.A.2,Manufacturing Industries and Construction
+64,1.A.3.b_noRES,Road Transportation no resuspension
+65,1.A.4,Residential and other sectors
+66,1.A.5,Non-Specified
+67,1.B.1,Solid Fuels
+68,1.B.2,Oil and Natural Gas
+69,2.A.3,Glass Production
+70,2.A.4,Other Process Uses of Carbonates
+71,1.A.3.a,Civil Aviation
+72,1.A.3.a,Civil Aviation
+73,1.A.2,Manufacturing Industries and Construction
+74,1.A.3.b_noRES,Road Transportation no resuspension
+75,1.A.4,Residential and other sectors
+76,1.A.5,Non-Specified
+77,1.B.1,Solid Fuels
+78,3.C.1,Emissions from biomass burning
+79,1.A.1.a,Main Activity Electricity and Heat Production
+80,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+81,1.A.2,Manufacturing Industries and Construction
+82,1.A.3.a,Civil Aviation
+83,1.A.3.b_noRES,Road Transportation no resuspension
+84,1.A.3.c,Railways
+85,1.A.3.d,Water-borne Navigation
+86,1.A.3.e,Other Transportation
+87,1.A.4,Residential and other sectors
+88,1.A.5,Non-Specified
+89,1.B.1,Solid Fuels
+90,1.B.2,Oil and Natural Gas
+91,2.A.1,Cement production
+92,2.A.3,Glass Production
+93,2.A.4,Other Process Uses of Carbonates
+94,2.B,Chemical Industry
+95,2.C,Metal Industry
+96,2.D,Non-Energy Products from Fuels and Solvent Use
+97,3.C.2,Liming
+98,3.C.3,Urea application
+99,4.C,Incineration and Open Burning of Waste
+100,1.A.4,Residential and other sectors
+101,1.A.1.a,Main Activity Electricity and Heat Production
+102,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+103,1.A.2,Manufacturing Industries and Construction
+104,1.A.3.b_noRES,Road Transportation no resuspension
+105,1.A.4,Residential and other sectors
+106,1.B.2,Oil and Natural Gas
+107,2.A.3,Glass Production
+108,2.A.4,Other Process Uses of Carbonates
+109,2.D,Non-Energy Products from Fuels and Solvent Use
+110,1.A.5,Non-Specified
+111,3.C.1,Emissions from biomass burning
+112,1.A.1.a,Main Activity Electricity and Heat Production
+113,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+114,1.A.2,Manufacturing Industries and Construction
+115,1.A.3.a,Civil Aviation
+116,1.A.3.b_noRES,Road Transportation no resuspension
+117,1.A.4,Residential and other sectors
+118,1.B.2,Oil and Natural Gas
+119,2.A.1,Cement production
+120,2.A.2,Lime production
+121,2.A.3,Glass Production
+122,2.A.4,Other Process Uses of Carbonates
+123,2.B,Chemical Industry
+124,2.C,Metal Industry
+125,2.D,Non-Energy Products from Fuels and Solvent Use
+126,3.C.3,Urea application
+127,1.A.1.a,Main Activity Electricity and Heat Production
+128,1.A.2,Manufacturing Industries and Construction
+129,1.A.3.b_noRES,Road Transportation no resuspension
+130,1.A.3.e,Other Transportation
+131,1.A.4,Residential and other sectors
+132,1.B.1,Solid Fuels
+133,1.B.2,Oil and Natural Gas
+134,3.C.1,Emissions from biomass burning
+135,4.C,Incineration and Open Burning of Waste
+136,1.A.1.a,Main Activity Electricity and Heat Production
+137,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+138,1.A.2,Manufacturing Industries and Construction
+139,1.A.3.a,Civil Aviation
+140,1.A.3.b_noRES,Road Transportation no resuspension
+141,1.A.3.c,Railways
+142,1.A.3.d,Water-borne Navigation
+143,1.A.3.e,Other Transportation
+144,1.A.4,Residential and other sectors
+145,1.B.1,Solid Fuels
+146,1.B.2,Oil and Natural Gas
+147,2.A.1,Cement production
+148,2.A.2,Lime production
+149,2.A.3,Glass Production
+150,2.A.4,Other Process Uses of Carbonates
+151,2.B,Chemical Industry
+152,2.C,Metal Industry
+153,2.D,Non-Energy Products from Fuels and Solvent Use
+154,3.C.2,Liming
+155,3.C.3,Urea application
+156,4.C,Incineration and Open Burning of Waste
+157,1.A.2,Manufacturing Industries and Construction
+158,1.A.4,Residential and other sectors
+159,1.A.5,Non-Specified
+160,3.C.1,Emissions from biomass burning
+161,1.A.1.a,Main Activity Electricity and Heat Production
+162,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+163,1.A.2,Manufacturing Industries and Construction
+164,1.A.3.b_noRES,Road Transportation no resuspension
+165,1.A.4,Residential and other sectors
+166,1.A.5,Non-Specified
+167,1.B.1,Solid Fuels
+168,2.A.1,Cement production
+169,2.A.2,Lime production
+170,2.A.3,Glass Production
+171,2.A.4,Other Process Uses of Carbonates
+172,2.B,Chemical Industry
+173,2.C,Metal Industry
+174,2.D,Non-Energy Products from Fuels and Solvent Use
+175,3.C.2,Liming
+176,3.C.3,Urea application
+177,1.A.1.a,Main Activity Electricity and Heat Production
+178,1.A.2,Manufacturing Industries and Construction
+179,1.A.4,Residential and other sectors
+180,1.A.5,Non-Specified
+181,3.C.1,Emissions from biomass burning
+182,1.A.1.a,Main Activity Electricity and Heat Production
+183,1.A.2,Manufacturing Industries and Construction
+184,1.A.3.a,Civil Aviation
+185,1.A.3.b_noRES,Road Transportation no resuspension
+186,1.A.3.d,Water-borne Navigation
+187,1.A.3.e,Other Transportation
+188,1.A.4,Residential and other sectors
+189,1.A.5,Non-Specified
+190,1.B.2,Oil and Natural Gas
+191,2.A.3,Glass Production
+192,2.A.4,Other Process Uses of Carbonates
+193,2.D,Non-Energy Products from Fuels and Solvent Use
+194,1.A.1.a,Main Activity Electricity and Heat Production
+195,1.A.2,Manufacturing Industries and Construction
+196,1.A.3.b_noRES,Road Transportation no resuspension
+197,1.A.4,Residential and other sectors
+198,1.B.2,Oil and Natural Gas
+199,3.C.1,Emissions from biomass burning
+200,4.C,Incineration and Open Burning of Waste
+201,1.A.1.a,Main Activity Electricity and Heat Production
+202,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+203,1.A.2,Manufacturing Industries and Construction
+204,1.A.3.a,Civil Aviation
+205,1.A.3.b_noRES,Road Transportation no resuspension
+206,1.A.3.c,Railways
+207,1.A.3.d,Water-borne Navigation
+208,1.A.3.e,Other Transportation
+209,1.A.4,Residential and other sectors
+210,1.A.5,Non-Specified
+211,1.B.1,Solid Fuels
+212,1.B.2,Oil and Natural Gas
+213,2.A.1,Cement production
+214,2.A.2,Lime production
+215,2.A.3,Glass Production
+216,2.A.4,Other Process Uses of Carbonates
+217,2.B,Chemical Industry
+218,2.C,Metal Industry
+219,2.D,Non-Energy Products from Fuels and Solvent Use
+220,3.C.2,Liming
+221,3.C.3,Urea application
+222,4.C,Incineration and Open Burning of Waste
+223,5.B,Fossil fuel fires
+224,1.A.1.a,Main Activity Electricity and Heat Production
+225,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+226,1.A.2,Manufacturing Industries and Construction
+227,1.A.3.b_noRES,Road Transportation no resuspension
+228,1.A.3.c,Railways
+229,1.A.3.d,Water-borne Navigation
+230,1.A.4,Residential and other sectors
+231,1.A.5,Non-Specified
+232,1.B.1,Solid Fuels
+233,1.B.2,Oil and Natural Gas
+234,3.C.1,Emissions from biomass burning
+235,4.C,Incineration and Open Burning of Waste
+236,1.A.1.a,Main Activity Electricity and Heat Production
+237,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+238,1.A.2,Manufacturing Industries and Construction
+239,1.A.3.a,Civil Aviation
+240,1.A.3.b_noRES,Road Transportation no resuspension
+241,1.A.3.c,Railways
+242,1.A.3.d,Water-borne Navigation
+243,1.A.3.e,Other Transportation
+244,1.A.4,Residential and other sectors
+245,1.B.1,Solid Fuels
+246,1.B.2,Oil and Natural Gas
+247,2.A.1,Cement production
+248,2.A.2,Lime production
+249,2.A.3,Glass Production
+250,2.A.4,Other Process Uses of Carbonates
+251,2.B,Chemical Industry
+252,2.C,Metal Industry
+253,2.D,Non-Energy Products from Fuels and Solvent Use
+254,3.C.2,Liming
+255,3.C.3,Urea application
+256,4.C,Incineration and Open Burning of Waste
+257,1.A.1.a,Main Activity Electricity and Heat Production
+258,1.A.2,Manufacturing Industries and Construction
+259,1.A.3.c,Railways
+260,1.A.4,Residential and other sectors
+261,1.B.1,Solid Fuels
+262,3.C.1,Emissions from biomass burning
+263,1.A.1.a,Main Activity Electricity and Heat Production
+264,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+265,1.A.2,Manufacturing Industries and Construction
+266,1.A.3.a,Civil Aviation
+267,1.A.3.b_noRES,Road Transportation no resuspension
+268,1.A.3.c,Railways
+269,1.A.3.d,Water-borne Navigation
+270,1.A.3.e,Other Transportation
+271,1.A.4,Residential and other sectors
+272,1.A.5,Non-Specified
+273,1.B.2,Oil and Natural Gas
+274,2.A.1,Cement production
+275,2.A.2,Lime production
+276,2.A.3,Glass Production
+277,2.A.4,Other Process Uses of Carbonates
+278,2.B,Chemical Industry
+279,2.C,Metal Industry
+280,2.D,Non-Energy Products from Fuels and Solvent Use
+281,3.C.2,Liming
+282,3.C.3,Urea application
+283,4.C,Incineration and Open Burning of Waste
+284,1.A.1.a,Main Activity Electricity and Heat Production
+285,1.A.2,Manufacturing Industries and Construction
+286,1.A.4,Residential and other sectors
+287,1.B.1,Solid Fuels
+288,3.C.1,Emissions from biomass burning
+289,1.A.1.a,Main Activity Electricity and Heat Production
+290,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+291,1.A.2,Manufacturing Industries and Construction
+292,1.A.3.a,Civil Aviation
+293,1.A.3.b_noRES,Road Transportation no resuspension
+294,1.A.3.c,Railways
+295,1.A.3.d,Water-borne Navigation
+296,1.A.3.e,Other Transportation
+297,1.A.4,Residential and other sectors
+298,1.A.5,Non-Specified
+299,1.B.2,Oil and Natural Gas
+300,2.A.1,Cement production
+301,2.A.2,Lime production
+302,2.A.3,Glass Production
+303,2.A.4,Other Process Uses of Carbonates
+304,2.D,Non-Energy Products from Fuels and Solvent Use
+305,3.C.3,Urea application
+306,1.A.1.a,Main Activity Electricity and Heat Production
+307,1.A.2,Manufacturing Industries and Construction
+308,1.A.3.b_noRES,Road Transportation no resuspension
+309,1.A.4,Residential and other sectors
+310,1.A.5,Non-Specified
+311,1.B.2,Oil and Natural Gas
+312,3.C.1,Emissions from biomass burning
+313,4.C,Incineration and Open Burning of Waste
+314,1.A.1.a,Main Activity Electricity and Heat Production
+315,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+316,1.A.2,Manufacturing Industries and Construction
+317,1.A.3.a,Civil Aviation
+318,1.A.3.b_noRES,Road Transportation no resuspension
+319,1.A.3.c,Railways
+320,1.A.3.d,Water-borne Navigation
+321,1.A.3.e,Other Transportation
+322,1.A.4,Residential and other sectors
+323,1.A.5,Non-Specified
+324,1.B.1,Solid Fuels
+325,1.B.2,Oil and Natural Gas
+326,2.A.1,Cement production
+327,2.A.2,Lime production
+328,2.A.3,Glass Production
+329,2.A.4,Other Process Uses of Carbonates
+330,2.B,Chemical Industry
+331,2.C,Metal Industry
+332,2.D,Non-Energy Products from Fuels and Solvent Use
+333,3.C.2,Liming
+334,3.C.3,Urea application
+335,4.C,Incineration and Open Burning of Waste
+336,1.A.1.a,Main Activity Electricity and Heat Production
+337,1.A.2,Manufacturing Industries and Construction
+338,1.A.4,Residential and other sectors
+339,1.A.5,Non-Specified
+340,1.B.1,Solid Fuels
+341,3.C.1,Emissions from biomass burning
+342,1.A.1.a,Main Activity Electricity and Heat Production
+343,1.A.2,Manufacturing Industries and Construction
+344,1.A.3.b_noRES,Road Transportation no resuspension
+345,1.A.3.c,Railways
+346,1.A.4,Residential and other sectors
+347,1.A.5,Non-Specified
+348,1.B.2,Oil and Natural Gas
+349,2.A.1,Cement production
+350,2.A.3,Glass Production
+351,2.A.4,Other Process Uses of Carbonates
+352,2.D,Non-Energy Products from Fuels and Solvent Use
+353,3.C.3,Urea application
+354,4.C,Incineration and Open Burning of Waste
+355,1.A.1.a,Main Activity Electricity and Heat Production
+356,1.A.2,Manufacturing Industries and Construction
+357,1.A.4,Residential and other sectors
+358,1.B.1,Solid Fuels
+359,3.C.1,Emissions from biomass burning
+360,1.A.1.a,Main Activity Electricity and Heat Production
+361,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+362,1.A.2,Manufacturing Industries and Construction
+363,1.A.3.a,Civil Aviation
+364,1.A.3.b_noRES,Road Transportation no resuspension
+365,1.A.3.c,Railways
+366,1.A.3.d,Water-borne Navigation
+367,1.A.3.e,Other Transportation
+368,1.A.4,Residential and other sectors
+369,1.A.5,Non-Specified
+370,1.B.2,Oil and Natural Gas
+371,2.A.1,Cement production
+372,2.A.3,Glass Production
+373,2.A.4,Other Process Uses of Carbonates
+374,2.D,Non-Energy Products from Fuels and Solvent Use
+375,3.C.3,Urea application
+376,1.A.2,Manufacturing Industries and Construction
+377,1.A.4,Residential and other sectors
+378,1.B.1,Solid Fuels
+379,3.C.1,Emissions from biomass burning
+380,1.A.1.a,Main Activity Electricity and Heat Production
+381,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+382,1.A.2,Manufacturing Industries and Construction
+383,1.A.3.b_noRES,Road Transportation no resuspension
+384,1.A.3.c,Railways
+385,1.A.3.d,Water-borne Navigation
+386,1.A.3.e,Other Transportation
+387,1.A.4,Residential and other sectors
+388,1.A.5,Non-Specified
+389,1.B.1,Solid Fuels
+390,1.B.2,Oil and Natural Gas
+391,2.A.1,Cement production
+392,2.A.3,Glass Production
+393,2.A.4,Other Process Uses of Carbonates
+394,2.B,Chemical Industry
+395,2.C,Metal Industry
+396,2.D,Non-Energy Products from Fuels and Solvent Use
+397,3.C.2,Liming
+398,3.C.3,Urea application
+399,1.A.1.a,Main Activity Electricity and Heat Production
+400,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+401,1.A.2,Manufacturing Industries and Construction
+402,1.A.3.b_noRES,Road Transportation no resuspension
+403,1.A.3.c,Railways
+404,1.A.4,Residential and other sectors
+405,1.B.1,Solid Fuels
+406,1.B.2,Oil and Natural Gas
+407,3.C.1,Emissions from biomass burning
+408,4.C,Incineration and Open Burning of Waste
+409,1.A.1.a,Main Activity Electricity and Heat Production
+410,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+411,1.A.2,Manufacturing Industries and Construction
+412,1.A.3.a,Civil Aviation
+413,1.A.3.b_noRES,Road Transportation no resuspension
+414,1.A.3.c,Railways
+415,1.A.3.d,Water-borne Navigation
+416,1.A.3.e,Other Transportation
+417,1.A.4,Residential and other sectors
+418,1.A.5,Non-Specified
+419,1.B.1,Solid Fuels
+420,1.B.2,Oil and Natural Gas
+421,2.A.1,Cement production
+422,2.A.2,Lime production
+423,2.A.3,Glass Production
+424,2.A.4,Other Process Uses of Carbonates
+425,2.B,Chemical Industry
+426,2.C,Metal Industry
+427,2.D,Non-Energy Products from Fuels and Solvent Use
+428,3.C.2,Liming
+429,3.C.3,Urea application
+430,4.C,Incineration and Open Burning of Waste
+431,3.C.1,Emissions from biomass burning
+432,1.A.1.a,Main Activity Electricity and Heat Production
+433,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+434,1.A.2,Manufacturing Industries and Construction
+435,1.A.3.a,Civil Aviation
+436,1.A.3.b_noRES,Road Transportation no resuspension
+437,1.A.4,Residential and other sectors
+438,1.B.2,Oil and Natural Gas
+439,2.A.1,Cement production
+440,2.A.3,Glass Production
+441,2.A.4,Other Process Uses of Carbonates
+442,2.B,Chemical Industry
+443,2.C,Metal Industry
+444,2.D,Non-Energy Products from Fuels and Solvent Use
+445,3.C.3,Urea application
+446,1.A.1.a,Main Activity Electricity and Heat Production
+447,1.A.2,Manufacturing Industries and Construction
+448,1.A.4,Residential and other sectors
+449,1.A.5,Non-Specified
+450,1.B.1,Solid Fuels
+451,3.C.1,Emissions from biomass burning
+452,1.A.1.a,Main Activity Electricity and Heat Production
+453,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+454,1.A.2,Manufacturing Industries and Construction
+455,1.A.3.a,Civil Aviation
+456,1.A.3.b_noRES,Road Transportation no resuspension
+457,1.A.3.d,Water-borne Navigation
+458,1.A.3.e,Other Transportation
+459,1.A.4,Residential and other sectors
+460,1.A.5,Non-Specified
+461,1.B.2,Oil and Natural Gas
+462,2.A.1,Cement production
+463,2.A.2,Lime production
+464,2.A.3,Glass Production
+465,2.A.4,Other Process Uses of Carbonates
+466,2.D,Non-Energy Products from Fuels and Solvent Use
+467,3.C.3,Urea application
+468,4.C,Incineration and Open Burning of Waste
+469,1.A.1.a,Main Activity Electricity and Heat Production
+470,1.A.2,Manufacturing Industries and Construction
+471,1.A.4,Residential and other sectors
+472,1.B.1,Solid Fuels
+473,3.C.1,Emissions from biomass burning
+474,1.A.1.a,Main Activity Electricity and Heat Production
+475,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+476,1.A.2,Manufacturing Industries and Construction
+477,1.A.3.b_noRES,Road Transportation no resuspension
+478,1.A.3.c,Railways
+479,1.A.4,Residential and other sectors
+480,1.A.5,Non-Specified
+481,1.B.1,Solid Fuels
+482,1.B.2,Oil and Natural Gas
+483,2.A.1,Cement production
+484,2.A.2,Lime production
+485,2.A.3,Glass Production
+486,2.A.4,Other Process Uses of Carbonates
+487,2.B,Chemical Industry
+488,2.C,Metal Industry
+489,2.D,Non-Energy Products from Fuels and Solvent Use
+490,3.C.2,Liming
+491,3.C.3,Urea application
+492,4.C,Incineration and Open Burning of Waste
+493,1.A.1.a,Main Activity Electricity and Heat Production
+494,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+495,1.A.2,Manufacturing Industries and Construction
+496,1.A.3.b_noRES,Road Transportation no resuspension
+497,1.A.4,Residential and other sectors
+498,1.B.1,Solid Fuels
+499,1.B.2,Oil and Natural Gas
+500,3.C.1,Emissions from biomass burning
+501,1.A.1.a,Main Activity Electricity and Heat Production
+502,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+503,1.A.2,Manufacturing Industries and Construction
+504,1.A.3.a,Civil Aviation
+505,1.A.3.b_noRES,Road Transportation no resuspension
+506,1.A.3.c,Railways
+507,1.A.3.d,Water-borne Navigation
+508,1.A.3.e,Other Transportation
+509,1.A.4,Residential and other sectors
+510,1.A.5,Non-Specified
+511,1.B.1,Solid Fuels
+512,1.B.2,Oil and Natural Gas
+513,2.A.1,Cement production
+514,2.A.2,Lime production
+515,2.A.3,Glass Production
+516,2.A.4,Other Process Uses of Carbonates
+517,2.B,Chemical Industry
+518,2.C,Metal Industry
+519,2.D,Non-Energy Products from Fuels and Solvent Use
+520,3.C.2,Liming
+521,3.C.3,Urea application
+522,4.C,Incineration and Open Burning of Waste
+523,1.A.1.a,Main Activity Electricity and Heat Production
+524,1.A.2,Manufacturing Industries and Construction
+525,1.A.4,Residential and other sectors
+526,1.A.5,Non-Specified
+527,1.B.1,Solid Fuels
+528,3.C.1,Emissions from biomass burning
+529,1.A.1.a,Main Activity Electricity and Heat Production
+530,1.A.2,Manufacturing Industries and Construction
+531,1.A.3.a,Civil Aviation
+532,1.A.3.b_noRES,Road Transportation no resuspension
+533,1.A.3.d,Water-borne Navigation
+534,1.A.3.e,Other Transportation
+535,1.A.4,Residential and other sectors
+536,1.A.5,Non-Specified
+537,1.B.2,Oil and Natural Gas
+538,2.A.2,Lime production
+539,2.A.3,Glass Production
+540,2.A.4,Other Process Uses of Carbonates
+541,2.D,Non-Energy Products from Fuels and Solvent Use
+542,3.C.3,Urea application
+543,1.A.1.a,Main Activity Electricity and Heat Production
+544,1.A.2,Manufacturing Industries and Construction
+545,1.A.4,Residential and other sectors
+546,1.A.5,Non-Specified
+547,1.B.1,Solid Fuels
+548,1.A.1.a,Main Activity Electricity and Heat Production
+549,1.A.2,Manufacturing Industries and Construction
+550,1.A.3.a,Civil Aviation
+551,1.A.3.b_noRES,Road Transportation no resuspension
+552,1.A.3.d,Water-borne Navigation
+553,1.A.3.e,Other Transportation
+554,1.A.4,Residential and other sectors
+555,1.A.5,Non-Specified
+556,1.B.2,Oil and Natural Gas
+557,2.A.3,Glass Production
+558,2.A.4,Other Process Uses of Carbonates
+559,2.D,Non-Energy Products from Fuels and Solvent Use
+560,3.C.3,Urea application
+561,1.A.1.a,Main Activity Electricity and Heat Production
+562,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+563,1.A.2,Manufacturing Industries and Construction
+564,1.A.3.b_noRES,Road Transportation no resuspension
+565,1.A.4,Residential and other sectors
+566,1.B.1,Solid Fuels
+567,1.B.2,Oil and Natural Gas
+568,3.C.1,Emissions from biomass burning
+569,1.A.1.a,Main Activity Electricity and Heat Production
+570,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+571,1.A.2,Manufacturing Industries and Construction
+572,1.A.3.a,Civil Aviation
+573,1.A.3.b_noRES,Road Transportation no resuspension
+574,1.A.3.c,Railways
+575,1.A.4,Residential and other sectors
+576,1.A.5,Non-Specified
+577,1.B.1,Solid Fuels
+578,1.B.2,Oil and Natural Gas
+579,2.A.1,Cement production
+580,2.A.2,Lime production
+581,2.A.3,Glass Production
+582,2.A.4,Other Process Uses of Carbonates
+583,2.B,Chemical Industry
+584,2.C,Metal Industry
+585,2.D,Non-Energy Products from Fuels and Solvent Use
+586,3.C.3,Urea application
+587,4.C,Incineration and Open Burning of Waste
+588,1.A.1.a,Main Activity Electricity and Heat Production
+589,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+590,1.A.2,Manufacturing Industries and Construction
+591,1.A.3.b_noRES,Road Transportation no resuspension
+592,1.A.3.c,Railways
+593,1.A.3.d,Water-borne Navigation
+594,1.A.4,Residential and other sectors
+595,1.B.1,Solid Fuels
+596,1.B.2,Oil and Natural Gas
+597,3.C.1,Emissions from biomass burning
+598,4.C,Incineration and Open Burning of Waste
+599,1.A.1.a,Main Activity Electricity and Heat Production
+600,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+601,1.A.2,Manufacturing Industries and Construction
+602,1.A.3.a,Civil Aviation
+603,1.A.3.b_noRES,Road Transportation no resuspension
+604,1.A.3.c,Railways
+605,1.A.3.d,Water-borne Navigation
+606,1.A.3.e,Other Transportation
+607,1.A.4,Residential and other sectors
+608,1.A.5,Non-Specified
+609,1.B.1,Solid Fuels
+610,1.B.2,Oil and Natural Gas
+611,2.A.1,Cement production
+612,2.A.2,Lime production
+613,2.A.3,Glass Production
+614,2.A.4,Other Process Uses of Carbonates
+615,2.B,Chemical Industry
+616,2.C,Metal Industry
+617,2.D,Non-Energy Products from Fuels and Solvent Use
+618,3.C.2,Liming
+619,3.C.3,Urea application
+620,4.C,Incineration and Open Burning of Waste
+621,1.A.1.a,Main Activity Electricity and Heat Production
+622,1.A.2,Manufacturing Industries and Construction
+623,1.A.4,Residential and other sectors
+624,1.A.5,Non-Specified
+625,1.B.1,Solid Fuels
+626,3.C.1,Emissions from biomass burning
+627,1.A.1.a,Main Activity Electricity and Heat Production
+628,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+629,1.A.2,Manufacturing Industries and Construction
+630,1.A.3.a,Civil Aviation
+631,1.A.3.b_noRES,Road Transportation no resuspension
+632,1.A.3.d,Water-borne Navigation
+633,1.A.3.e,Other Transportation
+634,1.A.4,Residential and other sectors
+635,1.A.5,Non-Specified
+636,1.B.1,Solid Fuels
+637,1.B.2,Oil and Natural Gas
+638,2.A.1,Cement production
+639,2.A.2,Lime production
+640,2.A.3,Glass Production
+641,2.A.4,Other Process Uses of Carbonates
+642,2.D,Non-Energy Products from Fuels and Solvent Use
+643,3.C.3,Urea application
+644,1.A.4,Residential and other sectors
+645,1.A.5,Non-Specified
+646,3.C.1,Emissions from biomass burning
+647,1.A.1.a,Main Activity Electricity and Heat Production
+648,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+649,1.A.2,Manufacturing Industries and Construction
+650,1.A.3.b_noRES,Road Transportation no resuspension
+651,1.A.4,Residential and other sectors
+652,1.A.5,Non-Specified
+653,1.B.2,Oil and Natural Gas
+654,2.A.1,Cement production
+655,2.A.3,Glass Production
+656,2.A.4,Other Process Uses of Carbonates
+657,2.D,Non-Energy Products from Fuels and Solvent Use
+658,4.C,Incineration and Open Burning of Waste
+659,1.A.1.a,Main Activity Electricity and Heat Production
+660,1.A.2,Manufacturing Industries and Construction
+661,1.A.4,Residential and other sectors
+662,1.A.5,Non-Specified
+663,1.B.1,Solid Fuels
+664,1.B.2,Oil and Natural Gas
+665,3.C.1,Emissions from biomass burning
+666,1.A.1.a,Main Activity Electricity and Heat Production
+667,1.A.2,Manufacturing Industries and Construction
+668,1.A.3.a,Civil Aviation
+669,1.A.3.b_noRES,Road Transportation no resuspension
+670,1.A.3.d,Water-borne Navigation
+671,1.A.3.e,Other Transportation
+672,1.A.4,Residential and other sectors
+673,1.A.5,Non-Specified
+674,1.B.1,Solid Fuels
+675,1.B.2,Oil and Natural Gas
+676,2.A.1,Cement production
+677,2.A.3,Glass Production
+678,2.A.4,Other Process Uses of Carbonates
+679,2.C,Metal Industry
+680,2.D,Non-Energy Products from Fuels and Solvent Use
+681,1.A.4,Residential and other sectors
+682,1.A.5,Non-Specified
+683,1.B.1,Solid Fuels
+684,3.C.1,Emissions from biomass burning
+685,1.A.1.a,Main Activity Electricity and Heat Production
+686,1.A.2,Manufacturing Industries and Construction
+687,1.A.3.a,Civil Aviation
+688,1.A.3.b_noRES,Road Transportation no resuspension
+689,1.A.3.c,Railways
+690,1.A.4,Residential and other sectors
+691,1.A.5,Non-Specified
+692,1.B.1,Solid Fuels
+693,2.A.1,Cement production
+694,2.A.3,Glass Production
+695,2.A.4,Other Process Uses of Carbonates
+696,2.D,Non-Energy Products from Fuels and Solvent Use
+697,3.C.3,Urea application
+698,1.A.1.a,Main Activity Electricity and Heat Production
+699,1.A.2,Manufacturing Industries and Construction
+700,1.A.4,Residential and other sectors
+701,1.B.1,Solid Fuels
+702,3.C.1,Emissions from biomass burning
+703,1.A.1.a,Main Activity Electricity and Heat Production
+704,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+705,1.A.2,Manufacturing Industries and Construction
+706,1.A.3.a,Civil Aviation
+707,1.A.3.b_noRES,Road Transportation no resuspension
+708,1.A.3.c,Railways
+709,1.A.3.d,Water-borne Navigation
+710,1.A.3.e,Other Transportation
+711,1.A.4,Residential and other sectors
+712,1.A.5,Non-Specified
+713,1.B.2,Oil and Natural Gas
+714,2.A.3,Glass Production
+715,2.A.4,Other Process Uses of Carbonates
+716,2.D,Non-Energy Products from Fuels and Solvent Use
+717,3.C.3,Urea application
+718,1.A.1.a,Main Activity Electricity and Heat Production
+719,1.A.2,Manufacturing Industries and Construction
+720,1.A.3.b_noRES,Road Transportation no resuspension
+721,1.A.4,Residential and other sectors
+722,1.B.2,Oil and Natural Gas
+723,3.C.1,Emissions from biomass burning
+724,4.C,Incineration and Open Burning of Waste
+725,1.A.1.a,Main Activity Electricity and Heat Production
+726,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+727,1.A.2,Manufacturing Industries and Construction
+728,1.A.3.a,Civil Aviation
+729,1.A.3.b_noRES,Road Transportation no resuspension
+730,1.A.3.c,Railways
+731,1.A.3.d,Water-borne Navigation
+732,1.A.3.e,Other Transportation
+733,1.A.4,Residential and other sectors
+734,1.A.5,Non-Specified
+735,1.B.1,Solid Fuels
+736,1.B.2,Oil and Natural Gas
+737,2.A.1,Cement production
+738,2.A.2,Lime production
+739,2.A.3,Glass Production
+740,2.A.4,Other Process Uses of Carbonates
+741,2.B,Chemical Industry
+742,2.C,Metal Industry
+743,2.D,Non-Energy Products from Fuels and Solvent Use
+744,3.C.2,Liming
+745,3.C.3,Urea application
+746,4.C,Incineration and Open Burning of Waste
+747,1.A.1.a,Main Activity Electricity and Heat Production
+748,1.A.2,Manufacturing Industries and Construction
+749,1.A.3.b_noRES,Road Transportation no resuspension
+750,1.A.3.c,Railways
+751,1.A.3.d,Water-borne Navigation
+752,1.A.3.e,Other Transportation
+753,1.A.4,Residential and other sectors
+754,1.A.5,Non-Specified
+755,1.B.2,Oil and Natural Gas
+756,3.C.1,Emissions from biomass burning
+757,4.C,Incineration and Open Burning of Waste
+758,1.A.1.a,Main Activity Electricity and Heat Production
+759,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+760,1.A.2,Manufacturing Industries and Construction
+761,1.A.3.a,Civil Aviation
+762,1.A.3.b_noRES,Road Transportation no resuspension
+763,1.A.3.c,Railways
+764,1.A.3.d,Water-borne Navigation
+765,1.A.3.e,Other Transportation
+766,1.A.4,Residential and other sectors
+767,1.A.5,Non-Specified
+768,1.B.1,Solid Fuels
+769,1.B.2,Oil and Natural Gas
+770,2.A.1,Cement production
+771,2.A.2,Lime production
+772,2.A.3,Glass Production
+773,2.A.4,Other Process Uses of Carbonates
+774,2.B,Chemical Industry
+775,2.C,Metal Industry
+776,2.D,Non-Energy Products from Fuels and Solvent Use
+777,3.C.2,Liming
+778,3.C.3,Urea application
+779,4.C,Incineration and Open Burning of Waste
+780,1.A.1.a,Main Activity Electricity and Heat Production
+781,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+782,1.A.2,Manufacturing Industries and Construction
+783,1.A.4,Residential and other sectors
+784,1.A.5,Non-Specified
+785,1.B.1,Solid Fuels
+786,3.C.1,Emissions from biomass burning
+787,1.A.1.a,Main Activity Electricity and Heat Production
+788,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+789,1.A.2,Manufacturing Industries and Construction
+790,1.A.3.a,Civil Aviation
+791,1.A.3.b_noRES,Road Transportation no resuspension
+792,1.A.3.c,Railways
+793,1.A.3.d,Water-borne Navigation
+794,1.A.3.e,Other Transportation
+795,1.A.4,Residential and other sectors
+796,1.A.5,Non-Specified
+797,1.B.1,Solid Fuels
+798,1.B.2,Oil and Natural Gas
+799,2.A.1,Cement production
+800,2.A.2,Lime production
+801,2.A.3,Glass Production
+802,2.A.4,Other Process Uses of Carbonates
+803,2.B,Chemical Industry
+804,2.C,Metal Industry
+805,2.D,Non-Energy Products from Fuels and Solvent Use
+806,3.C.2,Liming
+807,3.C.3,Urea application
+808,4.C,Incineration and Open Burning of Waste
+809,1.A.1.a,Main Activity Electricity and Heat Production
+810,1.A.2,Manufacturing Industries and Construction
+811,1.A.3.b_noRES,Road Transportation no resuspension
+812,1.A.4,Residential and other sectors
+813,1.B.2,Oil and Natural Gas
+814,3.C.1,Emissions from biomass burning
+815,4.C,Incineration and Open Burning of Waste
+816,1.A.1.a,Main Activity Electricity and Heat Production
+817,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+818,1.A.2,Manufacturing Industries and Construction
+819,1.A.3.a,Civil Aviation
+820,1.A.3.b_noRES,Road Transportation no resuspension
+821,1.A.3.c,Railways
+822,1.A.3.d,Water-borne Navigation
+823,1.A.3.e,Other Transportation
+824,1.A.4,Residential and other sectors
+825,1.A.5,Non-Specified
+826,1.B.1,Solid Fuels
+827,1.B.2,Oil and Natural Gas
+828,2.A.1,Cement production
+829,2.A.2,Lime production
+830,2.A.3,Glass Production
+831,2.A.4,Other Process Uses of Carbonates
+832,2.B,Chemical Industry
+833,2.C,Metal Industry
+834,2.D,Non-Energy Products from Fuels and Solvent Use
+835,3.C.2,Liming
+836,3.C.3,Urea application
+837,4.C,Incineration and Open Burning of Waste
+838,5.B,Fossil fuel fires
+839,1.A.1.a,Main Activity Electricity and Heat Production
+840,1.A.4,Residential and other sectors
+841,1.B.1,Solid Fuels
+842,3.C.1,Emissions from biomass burning
+843,1.A.1.a,Main Activity Electricity and Heat Production
+844,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+845,1.A.2,Manufacturing Industries and Construction
+846,1.A.3.a,Civil Aviation
+847,1.A.3.b_noRES,Road Transportation no resuspension
+848,1.A.3.c,Railways
+849,1.A.3.d,Water-borne Navigation
+850,1.A.4,Residential and other sectors
+851,1.A.5,Non-Specified
+852,1.B.2,Oil and Natural Gas
+853,2.A.1,Cement production
+854,2.A.3,Glass Production
+855,2.A.4,Other Process Uses of Carbonates
+856,2.D,Non-Energy Products from Fuels and Solvent Use
+857,3.C.2,Liming
+858,3.C.3,Urea application
+859,1.A.1.a,Main Activity Electricity and Heat Production
+860,1.A.2,Manufacturing Industries and Construction
+861,1.A.4,Residential and other sectors
+862,1.A.5,Non-Specified
+863,1.B.1,Solid Fuels
+864,1.B.2,Oil and Natural Gas
+865,3.C.1,Emissions from biomass burning
+866,1.A.1.a,Main Activity Electricity and Heat Production
+867,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+868,1.A.2,Manufacturing Industries and Construction
+869,1.A.3.a,Civil Aviation
+870,1.A.3.b_noRES,Road Transportation no resuspension
+871,1.A.3.c,Railways
+872,1.A.3.d,Water-borne Navigation
+873,1.A.4,Residential and other sectors
+874,1.A.5,Non-Specified
+875,1.B.2,Oil and Natural Gas
+876,2.A.1,Cement production
+877,2.A.3,Glass Production
+878,2.A.4,Other Process Uses of Carbonates
+879,2.C,Metal Industry
+880,2.D,Non-Energy Products from Fuels and Solvent Use
+881,3.C.2,Liming
+882,3.C.3,Urea application
+883,1.A.1.a,Main Activity Electricity and Heat Production
+884,1.A.2,Manufacturing Industries and Construction
+885,1.A.4,Residential and other sectors
+886,1.B.1,Solid Fuels
+887,3.C.1,Emissions from biomass burning
+888,1.A.1.a,Main Activity Electricity and Heat Production
+889,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+890,1.A.2,Manufacturing Industries and Construction
+891,1.A.3.a,Civil Aviation
+892,1.A.3.b_noRES,Road Transportation no resuspension
+893,1.A.3.d,Water-borne Navigation
+894,1.A.4,Residential and other sectors
+895,1.A.5,Non-Specified
+896,1.B.1,Solid Fuels
+897,1.B.2,Oil and Natural Gas
+898,2.A.1,Cement production
+899,2.A.2,Lime production
+900,2.A.3,Glass Production
+901,2.A.4,Other Process Uses of Carbonates
+902,2.C,Metal Industry
+903,2.D,Non-Energy Products from Fuels and Solvent Use
+904,3.C.3,Urea application
+905,1.A.2,Manufacturing Industries and Construction
+906,1.A.4,Residential and other sectors
+907,1.B.1,Solid Fuels
+908,3.C.1,Emissions from biomass burning
+909,1.A.1.a,Main Activity Electricity and Heat Production
+910,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+911,1.A.2,Manufacturing Industries and Construction
+912,1.A.3.a,Civil Aviation
+913,1.A.3.b_noRES,Road Transportation no resuspension
+914,1.A.3.c,Railways
+915,1.A.3.d,Water-borne Navigation
+916,1.A.4,Residential and other sectors
+917,1.B.2,Oil and Natural Gas
+918,2.A.1,Cement production
+919,2.A.2,Lime production
+920,2.A.3,Glass Production
+921,2.A.4,Other Process Uses of Carbonates
+922,2.D,Non-Energy Products from Fuels and Solvent Use
+923,3.C.3,Urea application
+924,4.C,Incineration and Open Burning of Waste
+925,1.A.1.a,Main Activity Electricity and Heat Production
+926,1.A.4,Residential and other sectors
+927,1.A.5,Non-Specified
+928,3.C.1,Emissions from biomass burning
+929,1.A.1.a,Main Activity Electricity and Heat Production
+930,1.A.2,Manufacturing Industries and Construction
+931,1.A.3.a,Civil Aviation
+932,1.A.3.b_noRES,Road Transportation no resuspension
+933,1.A.3.d,Water-borne Navigation
+934,1.A.3.e,Other Transportation
+935,1.A.4,Residential and other sectors
+936,1.A.5,Non-Specified
+937,1.B.2,Oil and Natural Gas
+938,2.A.3,Glass Production
+939,2.D,Non-Energy Products from Fuels and Solvent Use
+940,1.A.1.a,Main Activity Electricity and Heat Production
+941,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+942,1.A.2,Manufacturing Industries and Construction
+943,1.A.3.b_noRES,Road Transportation no resuspension
+944,1.A.4,Residential and other sectors
+945,1.A.5,Non-Specified
+946,1.B.1,Solid Fuels
+947,1.B.2,Oil and Natural Gas
+948,3.C.1,Emissions from biomass burning
+949,1.A.1.a,Main Activity Electricity and Heat Production
+950,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+951,1.A.2,Manufacturing Industries and Construction
+952,1.A.3.a,Civil Aviation
+953,1.A.3.b_noRES,Road Transportation no resuspension
+954,1.A.3.c,Railways
+955,1.A.3.d,Water-borne Navigation
+956,1.A.3.e,Other Transportation
+957,1.A.4,Residential and other sectors
+958,1.A.5,Non-Specified
+959,1.B.1,Solid Fuels
+960,1.B.2,Oil and Natural Gas
+961,2.A.1,Cement production
+962,2.A.2,Lime production
+963,2.A.3,Glass Production
+964,2.A.4,Other Process Uses of Carbonates
+965,2.B,Chemical Industry
+966,2.C,Metal Industry
+967,2.D,Non-Energy Products from Fuels and Solvent Use
+968,3.C.2,Liming
+969,3.C.3,Urea application
+970,4.C,Incineration and Open Burning of Waste
+971,1.A.1.a,Main Activity Electricity and Heat Production
+972,1.A.2,Manufacturing Industries and Construction
+973,1.A.4,Residential and other sectors
+974,1.B.1,Solid Fuels
+975,3.C.1,Emissions from biomass burning
+976,1.A.1.a,Main Activity Electricity and Heat Production
+977,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+978,1.A.2,Manufacturing Industries and Construction
+979,1.A.3.a,Civil Aviation
+980,1.A.3.b_noRES,Road Transportation no resuspension
+981,1.A.3.c,Railways
+982,1.A.3.d,Water-borne Navigation
+983,1.A.3.e,Other Transportation
+984,1.A.4,Residential and other sectors
+985,1.A.5,Non-Specified
+986,1.B.2,Oil and Natural Gas
+987,2.A.3,Glass Production
+988,2.A.4,Other Process Uses of Carbonates
+989,2.D,Non-Energy Products from Fuels and Solvent Use
+990,3.C.3,Urea application
+991,1.A.1.a,Main Activity Electricity and Heat Production
+992,1.A.2,Manufacturing Industries and Construction
+993,1.A.4,Residential and other sectors
+994,1.B.1,Solid Fuels
+995,3.C.1,Emissions from biomass burning
+996,1.A.1.a,Main Activity Electricity and Heat Production
+997,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+998,1.A.2,Manufacturing Industries and Construction
+999,1.A.3.a,Civil Aviation
+1000,1.A.3.b_noRES,Road Transportation no resuspension
+1001,1.A.3.c,Railways
+1002,1.A.3.d,Water-borne Navigation
+1003,1.A.3.e,Other Transportation
+1004,1.A.4,Residential and other sectors
+1005,1.A.5,Non-Specified
+1006,1.B.2,Oil and Natural Gas
+1007,2.A.3,Glass Production
+1008,2.A.4,Other Process Uses of Carbonates
+1009,2.D,Non-Energy Products from Fuels and Solvent Use
+1010,3.C.3,Urea application
+1011,1.A.1.a,Main Activity Electricity and Heat Production
+1012,1.A.2,Manufacturing Industries and Construction
+1013,1.A.4,Residential and other sectors
+1014,1.B.1,Solid Fuels
+1015,3.C.1,Emissions from biomass burning
+1016,1.A.1.a,Main Activity Electricity and Heat Production
+1017,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1018,1.A.2,Manufacturing Industries and Construction
+1019,1.A.3.a,Civil Aviation
+1020,1.A.3.b_noRES,Road Transportation no resuspension
+1021,1.A.3.d,Water-borne Navigation
+1022,1.A.3.e,Other Transportation
+1023,1.A.4,Residential and other sectors
+1024,1.A.5,Non-Specified
+1025,1.B.2,Oil and Natural Gas
+1026,2.A.1,Cement production
+1027,2.A.2,Lime production
+1028,2.A.3,Glass Production
+1029,2.A.4,Other Process Uses of Carbonates
+1030,2.C,Metal Industry
+1031,2.D,Non-Energy Products from Fuels and Solvent Use
+1032,3.C.2,Liming
+1033,3.C.3,Urea application
+1034,1.A.1.a,Main Activity Electricity and Heat Production
+1035,1.A.2,Manufacturing Industries and Construction
+1036,1.A.4,Residential and other sectors
+1037,1.A.5,Non-Specified
+1038,1.B.1,Solid Fuels
+1039,1.B.2,Oil and Natural Gas
+1040,3.C.1,Emissions from biomass burning
+1041,1.A.1.a,Main Activity Electricity and Heat Production
+1042,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1043,1.A.2,Manufacturing Industries and Construction
+1044,1.A.3.b_noRES,Road Transportation no resuspension
+1045,1.A.3.d,Water-borne Navigation
+1046,1.A.3.e,Other Transportation
+1047,1.A.4,Residential and other sectors
+1048,1.A.5,Non-Specified
+1049,1.B.1,Solid Fuels
+1050,1.B.2,Oil and Natural Gas
+1051,2.A.1,Cement production
+1052,2.A.2,Lime production
+1053,2.A.3,Glass Production
+1054,2.A.4,Other Process Uses of Carbonates
+1055,2.B,Chemical Industry
+1056,2.C,Metal Industry
+1057,2.D,Non-Energy Products from Fuels and Solvent Use
+1058,3.C.2,Liming
+1059,3.C.3,Urea application
+1060,4.C,Incineration and Open Burning of Waste
+1061,1.A.1.a,Main Activity Electricity and Heat Production
+1062,1.A.2,Manufacturing Industries and Construction
+1063,1.A.4,Residential and other sectors
+1064,1.A.5,Non-Specified
+1065,1.B.1,Solid Fuels
+1066,1.A.1.a,Main Activity Electricity and Heat Production
+1067,1.A.2,Manufacturing Industries and Construction
+1068,1.A.3.a,Civil Aviation
+1069,1.A.3.b_noRES,Road Transportation no resuspension
+1070,1.A.3.d,Water-borne Navigation
+1071,1.A.3.e,Other Transportation
+1072,1.A.4,Residential and other sectors
+1073,1.A.5,Non-Specified
+1074,1.B.2,Oil and Natural Gas
+1075,2.A.3,Glass Production
+1076,2.D,Non-Energy Products from Fuels and Solvent Use
+1077,1.A.1.a,Main Activity Electricity and Heat Production
+1078,1.A.2,Manufacturing Industries and Construction
+1079,1.A.3.b_noRES,Road Transportation no resuspension
+1080,1.A.4,Residential and other sectors
+1081,1.A.5,Non-Specified
+1082,1.B.1,Solid Fuels
+1083,1.B.2,Oil and Natural Gas
+1084,3.C.1,Emissions from biomass burning
+1085,1.A.1.a,Main Activity Electricity and Heat Production
+1086,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1087,1.A.2,Manufacturing Industries and Construction
+1088,1.A.3.a,Civil Aviation
+1089,1.A.3.b_noRES,Road Transportation no resuspension
+1090,1.A.3.d,Water-borne Navigation
+1091,1.A.4,Residential and other sectors
+1092,1.A.5,Non-Specified
+1093,1.B.2,Oil and Natural Gas
+1094,2.A.1,Cement production
+1095,2.A.2,Lime production
+1096,2.A.3,Glass Production
+1097,2.A.4,Other Process Uses of Carbonates
+1098,2.B,Chemical Industry
+1099,2.D,Non-Energy Products from Fuels and Solvent Use
+1100,3.C.2,Liming
+1101,3.C.3,Urea application
+1102,1.A.1.a,Main Activity Electricity and Heat Production
+1103,1.A.2,Manufacturing Industries and Construction
+1104,1.A.3.b_noRES,Road Transportation no resuspension
+1105,1.A.3.c,Railways
+1106,1.A.4,Residential and other sectors
+1107,1.B.2,Oil and Natural Gas
+1108,3.C.1,Emissions from biomass burning
+1109,4.C,Incineration and Open Burning of Waste
+1110,1.A.1.a,Main Activity Electricity and Heat Production
+1111,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1112,1.A.2,Manufacturing Industries and Construction
+1113,1.A.3.a,Civil Aviation
+1114,1.A.3.b_noRES,Road Transportation no resuspension
+1115,1.A.3.c,Railways
+1116,1.A.3.d,Water-borne Navigation
+1117,1.A.3.e,Other Transportation
+1118,1.A.4,Residential and other sectors
+1119,1.A.5,Non-Specified
+1120,1.B.1,Solid Fuels
+1121,1.B.2,Oil and Natural Gas
+1122,2.A.1,Cement production
+1123,2.A.2,Lime production
+1124,2.A.3,Glass Production
+1125,2.A.4,Other Process Uses of Carbonates
+1126,2.B,Chemical Industry
+1127,2.C,Metal Industry
+1128,2.D,Non-Energy Products from Fuels and Solvent Use
+1129,3.C.2,Liming
+1130,3.C.3,Urea application
+1131,4.C,Incineration and Open Burning of Waste
+1132,1.A.1.a,Main Activity Electricity and Heat Production
+1133,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1134,1.A.2,Manufacturing Industries and Construction
+1135,1.A.3.b_noRES,Road Transportation no resuspension
+1136,1.A.3.c,Railways
+1137,1.A.4,Residential and other sectors
+1138,1.A.5,Non-Specified
+1139,1.B.1,Solid Fuels
+1140,1.B.2,Oil and Natural Gas
+1141,3.C.1,Emissions from biomass burning
+1142,4.C,Incineration and Open Burning of Waste
+1143,1.A.1.a,Main Activity Electricity and Heat Production
+1144,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1145,1.A.2,Manufacturing Industries and Construction
+1146,1.A.3.a,Civil Aviation
+1147,1.A.3.b_noRES,Road Transportation no resuspension
+1148,1.A.3.c,Railways
+1149,1.A.3.d,Water-borne Navigation
+1150,1.A.3.e,Other Transportation
+1151,1.A.4,Residential and other sectors
+1152,1.A.5,Non-Specified
+1153,1.B.1,Solid Fuels
+1154,1.B.2,Oil and Natural Gas
+1155,2.A.1,Cement production
+1156,2.A.2,Lime production
+1157,2.A.3,Glass Production
+1158,2.A.4,Other Process Uses of Carbonates
+1159,2.B,Chemical Industry
+1160,2.C,Metal Industry
+1161,2.D,Non-Energy Products from Fuels and Solvent Use
+1162,3.C.2,Liming
+1163,3.C.3,Urea application
+1164,4.C,Incineration and Open Burning of Waste
+1165,1.A.1.a,Main Activity Electricity and Heat Production
+1166,1.A.2,Manufacturing Industries and Construction
+1167,1.A.4,Residential and other sectors
+1168,1.B.1,Solid Fuels
+1169,3.C.1,Emissions from biomass burning
+1170,1.A.1.a,Main Activity Electricity and Heat Production
+1171,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1172,1.A.2,Manufacturing Industries and Construction
+1173,1.A.3.a,Civil Aviation
+1174,1.A.3.b_noRES,Road Transportation no resuspension
+1175,1.A.3.c,Railways
+1176,1.A.3.d,Water-borne Navigation
+1177,1.A.3.e,Other Transportation
+1178,1.A.4,Residential and other sectors
+1179,1.A.5,Non-Specified
+1180,1.B.2,Oil and Natural Gas
+1181,2.A.1,Cement production
+1182,2.A.3,Glass Production
+1183,2.A.4,Other Process Uses of Carbonates
+1184,2.D,Non-Energy Products from Fuels and Solvent Use
+1185,1.A.1.a,Main Activity Electricity and Heat Production
+1186,1.A.2,Manufacturing Industries and Construction
+1187,1.A.4,Residential and other sectors
+1188,1.A.5,Non-Specified
+1189,1.B.1,Solid Fuels
+1190,3.C.1,Emissions from biomass burning
+1191,1.A.1.a,Main Activity Electricity and Heat Production
+1192,1.A.2,Manufacturing Industries and Construction
+1193,1.A.3.a,Civil Aviation
+1194,1.A.3.b_noRES,Road Transportation no resuspension
+1195,1.A.3.d,Water-borne Navigation
+1196,1.A.3.e,Other Transportation
+1197,1.A.4,Residential and other sectors
+1198,1.A.5,Non-Specified
+1199,1.B.2,Oil and Natural Gas
+1200,2.A.3,Glass Production
+1201,2.A.4,Other Process Uses of Carbonates
+1202,2.D,Non-Energy Products from Fuels and Solvent Use
+1203,3.C.3,Urea application
+1204,4.C,Incineration and Open Burning of Waste
+1205,1.A.1.a,Main Activity Electricity and Heat Production
+1206,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1207,1.A.2,Manufacturing Industries and Construction
+1208,1.A.3.b_noRES,Road Transportation no resuspension
+1209,1.A.4,Residential and other sectors
+1210,3.C.1,Emissions from biomass burning
+1211,4.C,Incineration and Open Burning of Waste
+1212,1.A.1.a,Main Activity Electricity and Heat Production
+1213,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1214,1.A.2,Manufacturing Industries and Construction
+1215,1.A.3.a,Civil Aviation
+1216,1.A.3.b_noRES,Road Transportation no resuspension
+1217,1.A.3.c,Railways
+1218,1.A.3.d,Water-borne Navigation
+1219,1.A.3.e,Other Transportation
+1220,1.A.4,Residential and other sectors
+1221,1.A.5,Non-Specified
+1222,1.B.1,Solid Fuels
+1223,1.B.2,Oil and Natural Gas
+1224,2.A.1,Cement production
+1225,2.A.2,Lime production
+1226,2.A.3,Glass Production
+1227,2.A.4,Other Process Uses of Carbonates
+1228,2.B,Chemical Industry
+1229,2.C,Metal Industry
+1230,2.D,Non-Energy Products from Fuels and Solvent Use
+1231,3.C.2,Liming
+1232,3.C.3,Urea application
+1233,4.C,Incineration and Open Burning of Waste
+1234,1.A.1.a,Main Activity Electricity and Heat Production
+1235,1.A.2,Manufacturing Industries and Construction
+1236,1.A.3.b_noRES,Road Transportation no resuspension
+1237,1.A.4,Residential and other sectors
+1238,1.B.1,Solid Fuels
+1239,3.C.1,Emissions from biomass burning
+1240,1.A.1.a,Main Activity Electricity and Heat Production
+1241,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1242,1.A.2,Manufacturing Industries and Construction
+1243,1.A.3.a,Civil Aviation
+1244,1.A.3.b_noRES,Road Transportation no resuspension
+1245,1.A.3.c,Railways
+1246,1.A.3.e,Other Transportation
+1247,1.A.4,Residential and other sectors
+1248,1.B.1,Solid Fuels
+1249,1.B.2,Oil and Natural Gas
+1250,2.A.1,Cement production
+1251,2.A.2,Lime production
+1252,2.A.3,Glass Production
+1253,2.A.4,Other Process Uses of Carbonates
+1254,2.C,Metal Industry
+1255,2.D,Non-Energy Products from Fuels and Solvent Use
+1256,3.C.2,Liming
+1257,3.C.3,Urea application
+1258,4.C,Incineration and Open Burning of Waste
+1259,1.A.2,Manufacturing Industries and Construction
+1260,1.A.4,Residential and other sectors
+1261,1.B.2,Oil and Natural Gas
+1262,3.C.1,Emissions from biomass burning
+1263,1.A.1.a,Main Activity Electricity and Heat Production
+1264,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1265,1.A.2,Manufacturing Industries and Construction
+1266,1.A.3.a,Civil Aviation
+1267,1.A.3.b_noRES,Road Transportation no resuspension
+1268,1.A.3.c,Railways
+1269,1.A.3.d,Water-borne Navigation
+1270,1.A.3.e,Other Transportation
+1271,1.A.4,Residential and other sectors
+1272,1.A.5,Non-Specified
+1273,1.B.1,Solid Fuels
+1274,1.B.2,Oil and Natural Gas
+1275,2.A.1,Cement production
+1276,2.A.2,Lime production
+1277,2.A.3,Glass Production
+1278,2.A.4,Other Process Uses of Carbonates
+1279,2.B,Chemical Industry
+1280,2.C,Metal Industry
+1281,2.D,Non-Energy Products from Fuels and Solvent Use
+1282,3.C.2,Liming
+1283,3.C.3,Urea application
+1284,4.C,Incineration and Open Burning of Waste
+1285,1.A.1.a,Main Activity Electricity and Heat Production
+1286,1.A.2,Manufacturing Industries and Construction
+1287,1.A.3.b_noRES,Road Transportation no resuspension
+1288,1.A.4,Residential and other sectors
+1289,1.B.2,Oil and Natural Gas
+1290,3.C.1,Emissions from biomass burning
+1291,1.A.1.a,Main Activity Electricity and Heat Production
+1292,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1293,1.A.2,Manufacturing Industries and Construction
+1294,1.A.3.a,Civil Aviation
+1295,1.A.3.b_noRES,Road Transportation no resuspension
+1296,1.A.3.c,Railways
+1297,1.A.3.d,Water-borne Navigation
+1298,1.A.3.e,Other Transportation
+1299,1.A.4,Residential and other sectors
+1300,1.A.5,Non-Specified
+1301,1.B.2,Oil and Natural Gas
+1302,2.A.1,Cement production
+1303,2.A.3,Glass Production
+1304,2.A.4,Other Process Uses of Carbonates
+1305,2.B,Chemical Industry
+1306,2.C,Metal Industry
+1307,2.D,Non-Energy Products from Fuels and Solvent Use
+1308,3.C.2,Liming
+1309,3.C.3,Urea application
+1310,4.C,Incineration and Open Burning of Waste
+1311,1.A.2,Manufacturing Industries and Construction
+1312,1.A.4,Residential and other sectors
+1313,1.B.1,Solid Fuels
+1314,3.C.1,Emissions from biomass burning
+1315,1.A.1.a,Main Activity Electricity and Heat Production
+1316,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1317,1.A.2,Manufacturing Industries and Construction
+1318,1.A.3.a,Civil Aviation
+1319,1.A.3.b_noRES,Road Transportation no resuspension
+1320,1.A.3.d,Water-borne Navigation
+1321,1.A.3.e,Other Transportation
+1322,1.A.4,Residential and other sectors
+1323,1.A.5,Non-Specified
+1324,1.B.1,Solid Fuels
+1325,1.B.2,Oil and Natural Gas
+1326,2.A.1,Cement production
+1327,2.A.2,Lime production
+1328,2.A.3,Glass Production
+1329,2.A.4,Other Process Uses of Carbonates
+1330,2.B,Chemical Industry
+1331,2.C,Metal Industry
+1332,2.D,Non-Energy Products from Fuels and Solvent Use
+1333,3.C.2,Liming
+1334,3.C.3,Urea application
+1335,4.C,Incineration and Open Burning of Waste
+1336,1.A.4,Residential and other sectors
+1337,1.B.1,Solid Fuels
+1338,3.C.1,Emissions from biomass burning
+1339,1.A.1.a,Main Activity Electricity and Heat Production
+1340,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1341,1.A.2,Manufacturing Industries and Construction
+1342,1.A.3.a,Civil Aviation
+1343,1.A.3.b_noRES,Road Transportation no resuspension
+1344,1.A.4,Residential and other sectors
+1345,1.B.2,Oil and Natural Gas
+1346,2.A.1,Cement production
+1347,2.A.2,Lime production
+1348,2.A.3,Glass Production
+1349,2.A.4,Other Process Uses of Carbonates
+1350,2.D,Non-Energy Products from Fuels and Solvent Use
+1351,3.C.3,Urea application
+1352,1.A.1.a,Main Activity Electricity and Heat Production
+1353,1.A.1.a,Main Activity Electricity and Heat Production
+1354,1.A.2,Manufacturing Industries and Construction
+1355,1.A.3.a,Civil Aviation
+1356,1.A.3.b_noRES,Road Transportation no resuspension
+1357,1.A.3.c,Railways
+1358,1.A.3.d,Water-borne Navigation
+1359,1.A.4,Residential and other sectors
+1360,1.A.5,Non-Specified
+1361,2.A.3,Glass Production
+1362,2.D,Non-Energy Products from Fuels and Solvent Use
+1363,1.A.1.a,Main Activity Electricity and Heat Production
+1364,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1365,1.A.2,Manufacturing Industries and Construction
+1366,1.A.3.b_noRES,Road Transportation no resuspension
+1367,1.A.3.d,Water-borne Navigation
+1368,1.A.3.e,Other Transportation
+1369,1.A.4,Residential and other sectors
+1370,1.A.5,Non-Specified
+1371,1.B.1,Solid Fuels
+1372,1.B.2,Oil and Natural Gas
+1373,3.C.1,Emissions from biomass burning
+1374,4.C,Incineration and Open Burning of Waste
+1375,1.A.1.a,Main Activity Electricity and Heat Production
+1376,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1377,1.A.2,Manufacturing Industries and Construction
+1378,1.A.3.a,Civil Aviation
+1379,1.A.3.b_noRES,Road Transportation no resuspension
+1380,1.A.3.c,Railways
+1381,1.A.3.d,Water-borne Navigation
+1382,1.A.3.e,Other Transportation
+1383,1.A.4,Residential and other sectors
+1384,1.A.5,Non-Specified
+1385,1.B.1,Solid Fuels
+1386,1.B.2,Oil and Natural Gas
+1387,2.A.1,Cement production
+1388,2.A.2,Lime production
+1389,2.A.3,Glass Production
+1390,2.A.4,Other Process Uses of Carbonates
+1391,2.B,Chemical Industry
+1392,2.C,Metal Industry
+1393,2.D,Non-Energy Products from Fuels and Solvent Use
+1394,3.C.2,Liming
+1395,3.C.3,Urea application
+1396,4.C,Incineration and Open Burning of Waste
+1397,1.A.1.a,Main Activity Electricity and Heat Production
+1398,1.A.2,Manufacturing Industries and Construction
+1399,1.A.3.b_noRES,Road Transportation no resuspension
+1400,1.A.4,Residential and other sectors
+1401,3.C.1,Emissions from biomass burning
+1402,4.C,Incineration and Open Burning of Waste
+1403,1.A.1.a,Main Activity Electricity and Heat Production
+1404,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1405,1.A.2,Manufacturing Industries and Construction
+1406,1.A.3.a,Civil Aviation
+1407,1.A.3.b_noRES,Road Transportation no resuspension
+1408,1.A.3.c,Railways
+1409,1.A.3.d,Water-borne Navigation
+1410,1.A.4,Residential and other sectors
+1411,1.A.5,Non-Specified
+1412,1.B.1,Solid Fuels
+1413,1.B.2,Oil and Natural Gas
+1414,2.A.1,Cement production
+1415,2.A.2,Lime production
+1416,2.A.3,Glass Production
+1417,2.A.4,Other Process Uses of Carbonates
+1418,2.B,Chemical Industry
+1419,2.C,Metal Industry
+1420,2.D,Non-Energy Products from Fuels and Solvent Use
+1421,3.C.2,Liming
+1422,3.C.3,Urea application
+1423,4.C,Incineration and Open Burning of Waste
+1424,1.A.2,Manufacturing Industries and Construction
+1425,1.A.3.b_noRES,Road Transportation no resuspension
+1426,1.A.4,Residential and other sectors
+1427,1.B.1,Solid Fuels
+1428,1.B.2,Oil and Natural Gas
+1429,3.C.1,Emissions from biomass burning
+1430,1.A.1.a,Main Activity Electricity and Heat Production
+1431,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1432,1.A.2,Manufacturing Industries and Construction
+1433,1.A.3.a,Civil Aviation
+1434,1.A.3.b_noRES,Road Transportation no resuspension
+1435,1.A.3.c,Railways
+1436,1.A.3.d,Water-borne Navigation
+1437,1.A.4,Residential and other sectors
+1438,1.A.5,Non-Specified
+1439,1.B.1,Solid Fuels
+1440,1.B.2,Oil and Natural Gas
+1441,2.A.1,Cement production
+1442,2.A.2,Lime production
+1443,2.A.3,Glass Production
+1444,2.A.4,Other Process Uses of Carbonates
+1445,2.C,Metal Industry
+1446,2.D,Non-Energy Products from Fuels and Solvent Use
+1447,3.C.2,Liming
+1448,3.C.3,Urea application
+1449,4.C,Incineration and Open Burning of Waste
+1450,1.A.1.a,Main Activity Electricity and Heat Production
+1451,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1452,1.A.2,Manufacturing Industries and Construction
+1453,1.A.3.b_noRES,Road Transportation no resuspension
+1454,1.A.3.d,Water-borne Navigation
+1455,1.A.3.e,Other Transportation
+1456,1.A.4,Residential and other sectors
+1457,1.A.5,Non-Specified
+1458,1.B.1,Solid Fuels
+1459,1.B.2,Oil and Natural Gas
+1460,3.C.1,Emissions from biomass burning
+1461,4.C,Incineration and Open Burning of Waste
+1462,1.A.1.a,Main Activity Electricity and Heat Production
+1463,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1464,1.A.2,Manufacturing Industries and Construction
+1465,1.A.3.a,Civil Aviation
+1466,1.A.3.b_noRES,Road Transportation no resuspension
+1467,1.A.3.c,Railways
+1468,1.A.3.d,Water-borne Navigation
+1469,1.A.3.e,Other Transportation
+1470,1.A.4,Residential and other sectors
+1471,1.A.5,Non-Specified
+1472,1.B.1,Solid Fuels
+1473,1.B.2,Oil and Natural Gas
+1474,2.A.1,Cement production
+1475,2.A.2,Lime production
+1476,2.A.3,Glass Production
+1477,2.A.4,Other Process Uses of Carbonates
+1478,2.B,Chemical Industry
+1479,2.C,Metal Industry
+1480,2.D,Non-Energy Products from Fuels and Solvent Use
+1481,3.C.2,Liming
+1482,3.C.3,Urea application
+1483,1.A.1.a,Main Activity Electricity and Heat Production
+1484,1.A.2,Manufacturing Industries and Construction
+1485,1.A.4,Residential and other sectors
+1486,1.A.5,Non-Specified
+1487,1.B.1,Solid Fuels
+1488,1.B.2,Oil and Natural Gas
+1489,3.C.1,Emissions from biomass burning
+1490,1.A.1.a,Main Activity Electricity and Heat Production
+1491,1.A.2,Manufacturing Industries and Construction
+1492,1.A.3.a,Civil Aviation
+1493,1.A.3.b_noRES,Road Transportation no resuspension
+1494,1.A.3.d,Water-borne Navigation
+1495,1.A.3.e,Other Transportation
+1496,1.A.4,Residential and other sectors
+1497,1.A.5,Non-Specified
+1498,1.B.2,Oil and Natural Gas
+1499,2.A.1,Cement production
+1500,2.A.2,Lime production
+1501,2.A.3,Glass Production
+1502,2.A.4,Other Process Uses of Carbonates
+1503,2.D,Non-Energy Products from Fuels and Solvent Use
+1504,3.C.3,Urea application
+1505,1.A.1.a,Main Activity Electricity and Heat Production
+1506,1.A.2,Manufacturing Industries and Construction
+1507,1.A.4,Residential and other sectors
+1508,1.A.5,Non-Specified
+1509,1.B.1,Solid Fuels
+1510,1.A.1.a,Main Activity Electricity and Heat Production
+1511,1.A.2,Manufacturing Industries and Construction
+1512,1.A.3.a,Civil Aviation
+1513,1.A.3.b_noRES,Road Transportation no resuspension
+1514,1.A.3.d,Water-borne Navigation
+1515,1.A.3.e,Other Transportation
+1516,1.A.4,Residential and other sectors
+1517,1.A.5,Non-Specified
+1518,1.B.2,Oil and Natural Gas
+1519,2.A.3,Glass Production
+1520,2.D,Non-Energy Products from Fuels and Solvent Use
+1521,4.C,Incineration and Open Burning of Waste
+1522,1.A.1.a,Main Activity Electricity and Heat Production
+1523,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1524,1.A.2,Manufacturing Industries and Construction
+1525,1.A.3.b_noRES,Road Transportation no resuspension
+1526,1.A.3.c,Railways
+1527,1.A.3.d,Water-borne Navigation
+1528,1.A.4,Residential and other sectors
+1529,1.A.5,Non-Specified
+1530,1.B.2,Oil and Natural Gas
+1531,3.C.1,Emissions from biomass burning
+1532,4.C,Incineration and Open Burning of Waste
+1533,1.A.1.a,Main Activity Electricity and Heat Production
+1534,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1535,1.A.2,Manufacturing Industries and Construction
+1536,1.A.3.a,Civil Aviation
+1537,1.A.3.b_noRES,Road Transportation no resuspension
+1538,1.A.3.c,Railways
+1539,1.A.3.d,Water-borne Navigation
+1540,1.A.3.e,Other Transportation
+1541,1.A.4,Residential and other sectors
+1542,1.A.5,Non-Specified
+1543,1.B.1,Solid Fuels
+1544,1.B.2,Oil and Natural Gas
+1545,2.A.1,Cement production
+1546,2.A.2,Lime production
+1547,2.A.3,Glass Production
+1548,2.A.4,Other Process Uses of Carbonates
+1549,2.B,Chemical Industry
+1550,2.C,Metal Industry
+1551,2.D,Non-Energy Products from Fuels and Solvent Use
+1552,3.C.2,Liming
+1553,3.C.3,Urea application
+1554,4.C,Incineration and Open Burning of Waste
+1555,1.A.4,Residential and other sectors
+1556,3.C.1,Emissions from biomass burning
+1557,2.A.3,Glass Production
+1558,2.A.4,Other Process Uses of Carbonates
+1559,2.D,Non-Energy Products from Fuels and Solvent Use
+1560,4.C,Incineration and Open Burning of Waste
+1561,1.A.1.a,Main Activity Electricity and Heat Production
+1562,1.A.2,Manufacturing Industries and Construction
+1563,1.A.4,Residential and other sectors
+1564,3.C.1,Emissions from biomass burning
+1565,1.A.1.a,Main Activity Electricity and Heat Production
+1566,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1567,1.A.2,Manufacturing Industries and Construction
+1568,1.A.3.a,Civil Aviation
+1569,1.A.3.b_noRES,Road Transportation no resuspension
+1570,1.A.4,Residential and other sectors
+1571,1.A.5,Non-Specified
+1572,1.B.2,Oil and Natural Gas
+1573,2.A.1,Cement production
+1574,2.A.3,Glass Production
+1575,2.A.4,Other Process Uses of Carbonates
+1576,2.D,Non-Energy Products from Fuels and Solvent Use
+1577,3.C.3,Urea application
+1578,4.C,Incineration and Open Burning of Waste
+1579,1.A.1.a,Main Activity Electricity and Heat Production
+1580,1.A.2,Manufacturing Industries and Construction
+1581,1.A.3.b_noRES,Road Transportation no resuspension
+1582,1.A.4,Residential and other sectors
+1583,1.A.5,Non-Specified
+1584,1.B.2,Oil and Natural Gas
+1585,3.C.1,Emissions from biomass burning
+1586,4.C,Incineration and Open Burning of Waste
+1587,1.A.1.a,Main Activity Electricity and Heat Production
+1588,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1589,1.A.2,Manufacturing Industries and Construction
+1590,1.A.3.a,Civil Aviation
+1591,1.A.3.b_noRES,Road Transportation no resuspension
+1592,1.A.3.c,Railways
+1593,1.A.3.d,Water-borne Navigation
+1594,1.A.4,Residential and other sectors
+1595,1.A.5,Non-Specified
+1596,1.B.1,Solid Fuels
+1597,1.B.2,Oil and Natural Gas
+1598,2.A.1,Cement production
+1599,2.A.2,Lime production
+1600,2.A.3,Glass Production
+1601,2.A.4,Other Process Uses of Carbonates
+1602,2.B,Chemical Industry
+1603,2.C,Metal Industry
+1604,2.D,Non-Energy Products from Fuels and Solvent Use
+1605,3.C.2,Liming
+1606,3.C.3,Urea application
+1607,4.C,Incineration and Open Burning of Waste
+1608,1.A.2,Manufacturing Industries and Construction
+1609,1.A.3.b_noRES,Road Transportation no resuspension
+1610,1.A.4,Residential and other sectors
+1611,1.A.5,Non-Specified
+1612,1.B.2,Oil and Natural Gas
+1613,3.C.1,Emissions from biomass burning
+1614,1.A.1.a,Main Activity Electricity and Heat Production
+1615,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1616,1.A.2,Manufacturing Industries and Construction
+1617,1.A.3.a,Civil Aviation
+1618,1.A.3.b_noRES,Road Transportation no resuspension
+1619,1.A.3.c,Railways
+1620,1.A.3.d,Water-borne Navigation
+1621,1.A.3.e,Other Transportation
+1622,1.A.4,Residential and other sectors
+1623,1.A.5,Non-Specified
+1624,1.B.1,Solid Fuels
+1625,1.B.2,Oil and Natural Gas
+1626,2.A.1,Cement production
+1627,2.A.2,Lime production
+1628,2.A.3,Glass Production
+1629,2.A.4,Other Process Uses of Carbonates
+1630,2.B,Chemical Industry
+1631,2.C,Metal Industry
+1632,2.D,Non-Energy Products from Fuels and Solvent Use
+1633,3.C.2,Liming
+1634,3.C.3,Urea application
+1635,1.A.1.a,Main Activity Electricity and Heat Production
+1636,1.A.2,Manufacturing Industries and Construction
+1637,1.A.4,Residential and other sectors
+1638,1.B.1,Solid Fuels
+1639,3.C.1,Emissions from biomass burning
+1640,4.C,Incineration and Open Burning of Waste
+1641,1.A.1.a,Main Activity Electricity and Heat Production
+1642,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1643,1.A.2,Manufacturing Industries and Construction
+1644,1.A.3.a,Civil Aviation
+1645,1.A.3.b_noRES,Road Transportation no resuspension
+1646,1.A.3.c,Railways
+1647,1.A.3.d,Water-borne Navigation
+1648,1.A.4,Residential and other sectors
+1649,1.B.2,Oil and Natural Gas
+1650,2.A.1,Cement production
+1651,2.A.3,Glass Production
+1652,2.A.4,Other Process Uses of Carbonates
+1653,2.C,Metal Industry
+1654,2.D,Non-Energy Products from Fuels and Solvent Use
+1655,3.C.3,Urea application
+1656,1.A.4,Residential and other sectors
+1657,1.A.1.a,Main Activity Electricity and Heat Production
+1658,1.A.3.b_noRES,Road Transportation no resuspension
+1659,2.A.3,Glass Production
+1660,2.D,Non-Energy Products from Fuels and Solvent Use
+1661,4.C,Incineration and Open Burning of Waste
+1662,1.A.1.a,Main Activity Electricity and Heat Production
+1663,1.A.2,Manufacturing Industries and Construction
+1664,1.A.4,Residential and other sectors
+1665,1.B.1,Solid Fuels
+1666,3.C.1,Emissions from biomass burning
+1667,1.A.1.a,Main Activity Electricity and Heat Production
+1668,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1669,1.A.2,Manufacturing Industries and Construction
+1670,1.A.3.a,Civil Aviation
+1671,1.A.3.b_noRES,Road Transportation no resuspension
+1672,1.A.3.c,Railways
+1673,1.A.3.d,Water-borne Navigation
+1674,1.A.3.e,Other Transportation
+1675,1.A.4,Residential and other sectors
+1676,1.A.5,Non-Specified
+1677,1.B.2,Oil and Natural Gas
+1678,2.A.1,Cement production
+1679,2.A.3,Glass Production
+1680,2.A.4,Other Process Uses of Carbonates
+1681,2.D,Non-Energy Products from Fuels and Solvent Use
+1682,3.C.3,Urea application
+1683,1.A.1.a,Main Activity Electricity and Heat Production
+1684,1.A.2,Manufacturing Industries and Construction
+1685,1.A.4,Residential and other sectors
+1686,1.A.5,Non-Specified
+1687,1.B.1,Solid Fuels
+1688,3.C.1,Emissions from biomass burning
+1689,1.A.1.a,Main Activity Electricity and Heat Production
+1690,1.A.2,Manufacturing Industries and Construction
+1691,1.A.3.a,Civil Aviation
+1692,1.A.3.b_noRES,Road Transportation no resuspension
+1693,1.A.3.d,Water-borne Navigation
+1694,1.A.3.e,Other Transportation
+1695,1.A.4,Residential and other sectors
+1696,1.A.5,Non-Specified
+1697,1.B.2,Oil and Natural Gas
+1698,2.A.1,Cement production
+1699,2.A.2,Lime production
+1700,2.A.3,Glass Production
+1701,2.A.4,Other Process Uses of Carbonates
+1702,2.D,Non-Energy Products from Fuels and Solvent Use
+1703,3.C.3,Urea application
+1704,1.A.1.a,Main Activity Electricity and Heat Production
+1705,1.A.2,Manufacturing Industries and Construction
+1706,1.A.4,Residential and other sectors
+1707,1.B.1,Solid Fuels
+1708,3.C.1,Emissions from biomass burning
+1709,1.A.1.a,Main Activity Electricity and Heat Production
+1710,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1711,1.A.2,Manufacturing Industries and Construction
+1712,1.A.3.a,Civil Aviation
+1713,1.A.3.b_noRES,Road Transportation no resuspension
+1714,1.A.3.c,Railways
+1715,1.A.3.d,Water-borne Navigation
+1716,1.A.3.e,Other Transportation
+1717,1.A.4,Residential and other sectors
+1718,1.A.5,Non-Specified
+1719,1.B.2,Oil and Natural Gas
+1720,2.A.3,Glass Production
+1721,2.A.4,Other Process Uses of Carbonates
+1722,2.D,Non-Energy Products from Fuels and Solvent Use
+1723,3.C.3,Urea application
+1724,1.A.1.a,Main Activity Electricity and Heat Production
+1725,1.A.2,Manufacturing Industries and Construction
+1726,1.A.4,Residential and other sectors
+1727,1.B.1,Solid Fuels
+1728,3.C.1,Emissions from biomass burning
+1729,1.A.1.a,Main Activity Electricity and Heat Production
+1730,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1731,1.A.2,Manufacturing Industries and Construction
+1732,1.A.3.a,Civil Aviation
+1733,1.A.3.b_noRES,Road Transportation no resuspension
+1734,1.A.3.c,Railways
+1735,1.A.3.d,Water-borne Navigation
+1736,1.A.3.e,Other Transportation
+1737,1.A.4,Residential and other sectors
+1738,1.A.5,Non-Specified
+1739,1.B.2,Oil and Natural Gas
+1740,2.A.3,Glass Production
+1741,2.A.4,Other Process Uses of Carbonates
+1742,2.D,Non-Energy Products from Fuels and Solvent Use
+1743,3.C.3,Urea application
+1744,1.A.4,Residential and other sectors
+1745,1.B.1,Solid Fuels
+1746,3.C.1,Emissions from biomass burning
+1747,1.A.1.a,Main Activity Electricity and Heat Production
+1748,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1749,1.A.2,Manufacturing Industries and Construction
+1750,1.A.3.a,Civil Aviation
+1751,1.A.3.b_noRES,Road Transportation no resuspension
+1752,1.A.4,Residential and other sectors
+1753,1.A.5,Non-Specified
+1754,1.B.2,Oil and Natural Gas
+1755,2.A.3,Glass Production
+1756,2.B,Chemical Industry
+1757,2.D,Non-Energy Products from Fuels and Solvent Use
+1758,1.A.1.a,Main Activity Electricity and Heat Production
+1759,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1760,1.A.2,Manufacturing Industries and Construction
+1761,1.A.3.b_noRES,Road Transportation no resuspension
+1762,1.A.3.c,Railways
+1763,1.A.3.d,Water-borne Navigation
+1764,1.A.3.e,Other Transportation
+1765,1.A.4,Residential and other sectors
+1766,1.A.5,Non-Specified
+1767,1.B.1,Solid Fuels
+1768,1.B.2,Oil and Natural Gas
+1769,3.C.1,Emissions from biomass burning
+1770,1.A.1.a,Main Activity Electricity and Heat Production
+1771,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1772,1.A.2,Manufacturing Industries and Construction
+1773,1.A.3.a,Civil Aviation
+1774,1.A.3.b_noRES,Road Transportation no resuspension
+1775,1.A.3.c,Railways
+1776,1.A.3.d,Water-borne Navigation
+1777,1.A.3.e,Other Transportation
+1778,1.A.4,Residential and other sectors
+1779,1.A.5,Non-Specified
+1780,1.B.1,Solid Fuels
+1781,1.B.2,Oil and Natural Gas
+1782,2.A.1,Cement production
+1783,2.A.2,Lime production
+1784,2.A.3,Glass Production
+1785,2.A.4,Other Process Uses of Carbonates
+1786,2.B,Chemical Industry
+1787,2.C,Metal Industry
+1788,2.D,Non-Energy Products from Fuels and Solvent Use
+1789,3.C.2,Liming
+1790,3.C.3,Urea application
+1791,4.C,Incineration and Open Burning of Waste
+1792,1.A.2,Manufacturing Industries and Construction
+1793,1.A.4,Residential and other sectors
+1794,1.A.5,Non-Specified
+1795,3.C.1,Emissions from biomass burning
+1796,1.A.1.a,Main Activity Electricity and Heat Production
+1797,1.A.2,Manufacturing Industries and Construction
+1798,1.A.3.a,Civil Aviation
+1799,1.A.3.b_noRES,Road Transportation no resuspension
+1800,1.A.3.d,Water-borne Navigation
+1801,1.A.3.e,Other Transportation
+1802,1.A.4,Residential and other sectors
+1803,1.A.5,Non-Specified
+1804,1.B.2,Oil and Natural Gas
+1805,2.A.3,Glass Production
+1806,2.A.4,Other Process Uses of Carbonates
+1807,2.D,Non-Energy Products from Fuels and Solvent Use
+1808,1.A.1.a,Main Activity Electricity and Heat Production
+1809,1.A.1.a,Main Activity Electricity and Heat Production
+1810,1.A.2,Manufacturing Industries and Construction
+1811,1.A.3.a,Civil Aviation
+1812,1.A.3.b_noRES,Road Transportation no resuspension
+1813,1.A.3.d,Water-borne Navigation
+1814,1.A.3.e,Other Transportation
+1815,1.A.4,Residential and other sectors
+1816,2.A.3,Glass Production
+1817,2.A.4,Other Process Uses of Carbonates
+1818,2.D,Non-Energy Products from Fuels and Solvent Use
+1819,4.C,Incineration and Open Burning of Waste
+1820,1.A.1.a,Main Activity Electricity and Heat Production
+1821,1.A.2,Manufacturing Industries and Construction
+1822,1.A.4,Residential and other sectors
+1823,1.B.1,Solid Fuels
+1824,1.B.2,Oil and Natural Gas
+1825,3.C.1,Emissions from biomass burning
+1826,1.A.1.a,Main Activity Electricity and Heat Production
+1827,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1828,1.A.2,Manufacturing Industries and Construction
+1829,1.A.3.a,Civil Aviation
+1830,1.A.3.b_noRES,Road Transportation no resuspension
+1831,1.A.3.e,Other Transportation
+1832,1.A.4,Residential and other sectors
+1833,1.B.2,Oil and Natural Gas
+1834,2.A.1,Cement production
+1835,2.A.2,Lime production
+1836,2.A.3,Glass Production
+1837,2.A.4,Other Process Uses of Carbonates
+1838,2.C,Metal Industry
+1839,2.D,Non-Energy Products from Fuels and Solvent Use
+1840,3.C.2,Liming
+1841,3.C.3,Urea application
+1842,1.A.1.a,Main Activity Electricity and Heat Production
+1843,1.A.2,Manufacturing Industries and Construction
+1844,1.A.4,Residential and other sectors
+1845,1.A.5,Non-Specified
+1846,1.B.1,Solid Fuels
+1847,3.C.1,Emissions from biomass burning
+1848,1.A.1.a,Main Activity Electricity and Heat Production
+1849,1.A.2,Manufacturing Industries and Construction
+1850,1.A.3.a,Civil Aviation
+1851,1.A.3.b_noRES,Road Transportation no resuspension
+1852,1.A.3.d,Water-borne Navigation
+1853,1.A.3.e,Other Transportation
+1854,1.A.4,Residential and other sectors
+1855,1.A.5,Non-Specified
+1856,1.B.2,Oil and Natural Gas
+1857,2.A.1,Cement production
+1858,2.A.3,Glass Production
+1859,2.A.4,Other Process Uses of Carbonates
+1860,2.D,Non-Energy Products from Fuels and Solvent Use
+1861,3.C.3,Urea application
+1862,4.C,Incineration and Open Burning of Waste
+1863,1.A.1.a,Main Activity Electricity and Heat Production
+1864,1.A.2,Manufacturing Industries and Construction
+1865,1.A.4,Residential and other sectors
+1866,1.B.1,Solid Fuels
+1867,3.C.1,Emissions from biomass burning
+1868,1.A.1.a,Main Activity Electricity and Heat Production
+1869,1.A.2,Manufacturing Industries and Construction
+1870,1.A.3.a,Civil Aviation
+1871,1.A.3.b_noRES,Road Transportation no resuspension
+1872,1.A.4,Residential and other sectors
+1873,2.A.1,Cement production
+1874,2.A.3,Glass Production
+1875,2.A.4,Other Process Uses of Carbonates
+1876,2.D,Non-Energy Products from Fuels and Solvent Use
+1877,3.C.3,Urea application
+1878,4.C,Incineration and Open Burning of Waste
+1879,1.A.1.a,Main Activity Electricity and Heat Production
+1880,1.A.3.b_noRES,Road Transportation no resuspension
+1881,1.A.4,Residential and other sectors
+1882,1.B.2,Oil and Natural Gas
+1883,3.C.1,Emissions from biomass burning
+1884,4.C,Incineration and Open Burning of Waste
+1885,1.A.1.a,Main Activity Electricity and Heat Production
+1886,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1887,1.A.2,Manufacturing Industries and Construction
+1888,1.A.3.a,Civil Aviation
+1889,1.A.3.b_noRES,Road Transportation no resuspension
+1890,1.A.3.d,Water-borne Navigation
+1891,1.A.4,Residential and other sectors
+1892,1.B.1,Solid Fuels
+1893,2.A.1,Cement production
+1894,2.A.3,Glass Production
+1895,2.A.4,Other Process Uses of Carbonates
+1896,2.C,Metal Industry
+1897,2.D,Non-Energy Products from Fuels and Solvent Use
+1898,4.C,Incineration and Open Burning of Waste
+1899,1.A.1.a,Main Activity Electricity and Heat Production
+1900,1.A.2,Manufacturing Industries and Construction
+1901,1.A.4,Residential and other sectors
+1902,1.B.1,Solid Fuels
+1903,3.C.1,Emissions from biomass burning
+1904,1.A.1.a,Main Activity Electricity and Heat Production
+1905,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1906,1.A.2,Manufacturing Industries and Construction
+1907,1.A.3.a,Civil Aviation
+1908,1.A.3.b_noRES,Road Transportation no resuspension
+1909,1.A.3.e,Other Transportation
+1910,1.A.4,Residential and other sectors
+1911,1.A.5,Non-Specified
+1912,1.B.1,Solid Fuels
+1913,1.B.2,Oil and Natural Gas
+1914,2.A.1,Cement production
+1915,2.A.3,Glass Production
+1916,2.A.4,Other Process Uses of Carbonates
+1917,2.C,Metal Industry
+1918,2.D,Non-Energy Products from Fuels and Solvent Use
+1919,3.C.3,Urea application
+1920,4.C,Incineration and Open Burning of Waste
+1921,1.A.1.a,Main Activity Electricity and Heat Production
+1922,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1923,1.A.2,Manufacturing Industries and Construction
+1924,1.A.3.b_noRES,Road Transportation no resuspension
+1925,1.A.4,Residential and other sectors
+1926,1.B.1,Solid Fuels
+1927,1.B.2,Oil and Natural Gas
+1928,3.C.1,Emissions from biomass burning
+1929,1.A.1.a,Main Activity Electricity and Heat Production
+1930,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1931,1.A.2,Manufacturing Industries and Construction
+1932,1.A.3.a,Civil Aviation
+1933,1.A.3.b_noRES,Road Transportation no resuspension
+1934,1.A.3.c,Railways
+1935,1.A.3.d,Water-borne Navigation
+1936,1.A.3.e,Other Transportation
+1937,1.A.4,Residential and other sectors
+1938,1.B.1,Solid Fuels
+1939,1.B.2,Oil and Natural Gas
+1940,2.A.1,Cement production
+1941,2.A.2,Lime production
+1942,2.A.3,Glass Production
+1943,2.A.4,Other Process Uses of Carbonates
+1944,2.B,Chemical Industry
+1945,2.C,Metal Industry
+1946,2.D,Non-Energy Products from Fuels and Solvent Use
+1947,3.C.2,Liming
+1948,3.C.3,Urea application
+1949,4.C,Incineration and Open Burning of Waste
+1950,1.A.1.a,Main Activity Electricity and Heat Production
+1951,1.A.2,Manufacturing Industries and Construction
+1952,1.A.4,Residential and other sectors
+1953,1.B.1,Solid Fuels
+1954,1.B.2,Oil and Natural Gas
+1955,3.C.1,Emissions from biomass burning
+1956,1.A.1.a,Main Activity Electricity and Heat Production
+1957,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1958,1.A.2,Manufacturing Industries and Construction
+1959,1.A.3.b_noRES,Road Transportation no resuspension
+1960,1.A.3.e,Other Transportation
+1961,1.A.4,Residential and other sectors
+1962,1.B.2,Oil and Natural Gas
+1963,2.A.1,Cement production
+1964,2.A.2,Lime production
+1965,2.A.3,Glass Production
+1966,2.A.4,Other Process Uses of Carbonates
+1967,2.D,Non-Energy Products from Fuels and Solvent Use
+1968,3.C.3,Urea application
+1969,1.A.1.a,Main Activity Electricity and Heat Production
+1970,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1971,1.A.2,Manufacturing Industries and Construction
+1972,1.A.3.b_noRES,Road Transportation no resuspension
+1973,1.A.3.c,Railways
+1974,1.A.4,Residential and other sectors
+1975,1.A.5,Non-Specified
+1976,1.B.1,Solid Fuels
+1977,1.B.2,Oil and Natural Gas
+1978,3.C.1,Emissions from biomass burning
+1979,4.C,Incineration and Open Burning of Waste
+1980,1.A.1.a,Main Activity Electricity and Heat Production
+1981,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+1982,1.A.2,Manufacturing Industries and Construction
+1983,1.A.3.a,Civil Aviation
+1984,1.A.3.b_noRES,Road Transportation no resuspension
+1985,1.A.3.c,Railways
+1986,1.A.3.d,Water-borne Navigation
+1987,1.A.3.e,Other Transportation
+1988,1.A.4,Residential and other sectors
+1989,1.A.5,Non-Specified
+1990,1.B.1,Solid Fuels
+1991,1.B.2,Oil and Natural Gas
+1992,2.A.1,Cement production
+1993,2.A.2,Lime production
+1994,2.A.3,Glass Production
+1995,2.A.4,Other Process Uses of Carbonates
+1996,2.B,Chemical Industry
+1997,2.C,Metal Industry
+1998,2.D,Non-Energy Products from Fuels and Solvent Use
+1999,3.C.2,Liming
+2000,3.C.3,Urea application
+2001,4.C,Incineration and Open Burning of Waste
+2002,1.A.1.a,Main Activity Electricity and Heat Production
+2003,1.A.2,Manufacturing Industries and Construction
+2004,1.A.3.b_noRES,Road Transportation no resuspension
+2005,1.A.4,Residential and other sectors
+2006,1.A.5,Non-Specified
+2007,1.B.1,Solid Fuels
+2008,1.B.2,Oil and Natural Gas
+2009,3.C.1,Emissions from biomass burning
+2010,1.A.1.a,Main Activity Electricity and Heat Production
+2011,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2012,1.A.2,Manufacturing Industries and Construction
+2013,1.A.3.a,Civil Aviation
+2014,1.A.3.b_noRES,Road Transportation no resuspension
+2015,1.A.3.c,Railways
+2016,1.A.3.d,Water-borne Navigation
+2017,1.A.4,Residential and other sectors
+2018,1.A.5,Non-Specified
+2019,1.B.1,Solid Fuels
+2020,1.B.2,Oil and Natural Gas
+2021,2.A.1,Cement production
+2022,2.A.2,Lime production
+2023,2.A.3,Glass Production
+2024,2.A.4,Other Process Uses of Carbonates
+2025,2.B,Chemical Industry
+2026,2.C,Metal Industry
+2027,2.D,Non-Energy Products from Fuels and Solvent Use
+2028,3.C.2,Liming
+2029,3.C.3,Urea application
+2030,4.C,Incineration and Open Burning of Waste
+2031,1.A.1.a,Main Activity Electricity and Heat Production
+2032,1.A.2,Manufacturing Industries and Construction
+2033,1.A.3.b_noRES,Road Transportation no resuspension
+2034,1.A.4,Residential and other sectors
+2035,1.B.1,Solid Fuels
+2036,1.B.2,Oil and Natural Gas
+2037,3.C.1,Emissions from biomass burning
+2038,1.A.1.a,Main Activity Electricity and Heat Production
+2039,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2040,1.A.2,Manufacturing Industries and Construction
+2041,1.A.3.a,Civil Aviation
+2042,1.A.3.b_noRES,Road Transportation no resuspension
+2043,1.A.3.c,Railways
+2044,1.A.3.d,Water-borne Navigation
+2045,1.A.3.e,Other Transportation
+2046,1.A.4,Residential and other sectors
+2047,1.A.5,Non-Specified
+2048,1.B.1,Solid Fuels
+2049,1.B.2,Oil and Natural Gas
+2050,2.A.1,Cement production
+2051,2.A.2,Lime production
+2052,2.A.3,Glass Production
+2053,2.A.4,Other Process Uses of Carbonates
+2054,2.B,Chemical Industry
+2055,2.C,Metal Industry
+2056,2.D,Non-Energy Products from Fuels and Solvent Use
+2057,3.C.2,Liming
+2058,3.C.3,Urea application
+2059,5.B,Fossil fuel fires
+2060,1.A.1.a,Main Activity Electricity and Heat Production
+2061,1.A.2,Manufacturing Industries and Construction
+2062,1.A.3.b_noRES,Road Transportation no resuspension
+2063,1.A.4,Residential and other sectors
+2064,1.B.2,Oil and Natural Gas
+2065,3.C.1,Emissions from biomass burning
+2066,4.C,Incineration and Open Burning of Waste
+2067,1.A.1.a,Main Activity Electricity and Heat Production
+2068,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2069,1.A.2,Manufacturing Industries and Construction
+2070,1.A.3.a,Civil Aviation
+2071,1.A.3.b_noRES,Road Transportation no resuspension
+2072,1.A.3.c,Railways
+2073,1.A.3.d,Water-borne Navigation
+2074,1.A.3.e,Other Transportation
+2075,1.A.4,Residential and other sectors
+2076,1.A.5,Non-Specified
+2077,1.B.1,Solid Fuels
+2078,1.B.2,Oil and Natural Gas
+2079,2.A.1,Cement production
+2080,2.A.2,Lime production
+2081,2.A.3,Glass Production
+2082,2.A.4,Other Process Uses of Carbonates
+2083,2.B,Chemical Industry
+2084,2.C,Metal Industry
+2085,2.D,Non-Energy Products from Fuels and Solvent Use
+2086,3.C.2,Liming
+2087,3.C.3,Urea application
+2088,4.C,Incineration and Open Burning of Waste
+2089,1.A.1.a,Main Activity Electricity and Heat Production
+2090,1.A.2,Manufacturing Industries and Construction
+2091,1.A.4,Residential and other sectors
+2092,1.A.5,Non-Specified
+2093,1.B.1,Solid Fuels
+2094,3.C.1,Emissions from biomass burning
+2095,1.A.1.a,Main Activity Electricity and Heat Production
+2096,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2097,1.A.2,Manufacturing Industries and Construction
+2098,1.A.3.a,Civil Aviation
+2099,1.A.3.b_noRES,Road Transportation no resuspension
+2100,1.A.3.e,Other Transportation
+2101,1.A.4,Residential and other sectors
+2102,1.A.5,Non-Specified
+2103,1.B.1,Solid Fuels
+2104,1.B.2,Oil and Natural Gas
+2105,2.A.1,Cement production
+2106,2.A.2,Lime production
+2107,2.A.3,Glass Production
+2108,2.A.4,Other Process Uses of Carbonates
+2109,2.B,Chemical Industry
+2110,2.C,Metal Industry
+2111,2.D,Non-Energy Products from Fuels and Solvent Use
+2112,3.C.2,Liming
+2113,3.C.3,Urea application
+2114,1.A.5,Non-Specified
+2115,1.B.1,Solid Fuels
+2116,3.C.1,Emissions from biomass burning
+2117,1.A.1.a,Main Activity Electricity and Heat Production
+2118,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2119,1.A.2,Manufacturing Industries and Construction
+2120,1.A.3.a,Civil Aviation
+2121,1.A.3.b_noRES,Road Transportation no resuspension
+2122,1.A.4,Residential and other sectors
+2123,1.B.2,Oil and Natural Gas
+2124,2.A.1,Cement production
+2125,2.A.2,Lime production
+2126,2.A.3,Glass Production
+2127,2.A.4,Other Process Uses of Carbonates
+2128,2.B,Chemical Industry
+2129,2.D,Non-Energy Products from Fuels and Solvent Use
+2130,3.C.2,Liming
+2131,3.C.3,Urea application
+2132,1.A.1.a,Main Activity Electricity and Heat Production
+2133,1.A.2,Manufacturing Industries and Construction
+2134,1.A.3.b_noRES,Road Transportation no resuspension
+2135,1.A.3.d,Water-borne Navigation
+2136,1.A.4,Residential and other sectors
+2137,1.A.5,Non-Specified
+2138,1.B.2,Oil and Natural Gas
+2139,3.C.1,Emissions from biomass burning
+2140,4.C,Incineration and Open Burning of Waste
+2141,1.A.1.a,Main Activity Electricity and Heat Production
+2142,1.A.2,Manufacturing Industries and Construction
+2143,1.A.3.a,Civil Aviation
+2144,1.A.3.b_noRES,Road Transportation no resuspension
+2145,1.A.3.d,Water-borne Navigation
+2146,1.A.3.e,Other Transportation
+2147,1.A.4,Residential and other sectors
+2148,1.A.5,Non-Specified
+2149,2.A.1,Cement production
+2150,2.A.3,Glass Production
+2151,2.A.4,Other Process Uses of Carbonates
+2152,2.B,Chemical Industry
+2153,2.C,Metal Industry
+2154,2.D,Non-Energy Products from Fuels and Solvent Use
+2155,3.C.2,Liming
+2156,3.C.3,Urea application
+2157,4.C,Incineration and Open Burning of Waste
+2158,1.A.1.a,Main Activity Electricity and Heat Production
+2159,1.A.4,Residential and other sectors
+2160,1.A.5,Non-Specified
+2161,3.C.1,Emissions from biomass burning
+2162,1.A.1.a,Main Activity Electricity and Heat Production
+2163,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2164,1.A.2,Manufacturing Industries and Construction
+2165,1.A.3.a,Civil Aviation
+2166,1.A.3.b_noRES,Road Transportation no resuspension
+2167,1.A.3.c,Railways
+2168,1.A.4,Residential and other sectors
+2169,1.A.5,Non-Specified
+2170,1.B.1,Solid Fuels
+2171,1.B.2,Oil and Natural Gas
+2172,2.A.1,Cement production
+2173,2.A.2,Lime production
+2174,2.A.3,Glass Production
+2175,2.A.4,Other Process Uses of Carbonates
+2176,2.B,Chemical Industry
+2177,2.C,Metal Industry
+2178,2.D,Non-Energy Products from Fuels and Solvent Use
+2179,3.C.2,Liming
+2180,3.C.3,Urea application
+2181,1.A.1.a,Main Activity Electricity and Heat Production
+2182,1.A.2,Manufacturing Industries and Construction
+2183,1.A.3.b_noRES,Road Transportation no resuspension
+2184,1.A.4,Residential and other sectors
+2185,1.A.5,Non-Specified
+2186,1.B.1,Solid Fuels
+2187,1.B.2,Oil and Natural Gas
+2188,3.C.1,Emissions from biomass burning
+2189,4.C,Incineration and Open Burning of Waste
+2190,1.A.1.a,Main Activity Electricity and Heat Production
+2191,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2192,1.A.2,Manufacturing Industries and Construction
+2193,1.A.3.a,Civil Aviation
+2194,1.A.3.b_noRES,Road Transportation no resuspension
+2195,1.A.3.c,Railways
+2196,1.A.3.d,Water-borne Navigation
+2197,1.A.3.e,Other Transportation
+2198,1.A.4,Residential and other sectors
+2199,1.A.5,Non-Specified
+2200,1.B.1,Solid Fuels
+2201,1.B.2,Oil and Natural Gas
+2202,2.A.1,Cement production
+2203,2.A.2,Lime production
+2204,2.A.3,Glass Production
+2205,2.A.4,Other Process Uses of Carbonates
+2206,2.B,Chemical Industry
+2207,2.C,Metal Industry
+2208,2.D,Non-Energy Products from Fuels and Solvent Use
+2209,3.C.2,Liming
+2210,3.C.3,Urea application
+2211,4.C,Incineration and Open Burning of Waste
+2212,1.A.1.a,Main Activity Electricity and Heat Production
+2213,1.A.2,Manufacturing Industries and Construction
+2214,1.A.3.b_noRES,Road Transportation no resuspension
+2215,1.A.4,Residential and other sectors
+2216,1.B.1,Solid Fuels
+2217,3.C.1,Emissions from biomass burning
+2218,1.A.1.a,Main Activity Electricity and Heat Production
+2219,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2220,1.A.2,Manufacturing Industries and Construction
+2221,1.A.3.a,Civil Aviation
+2222,1.A.3.b_noRES,Road Transportation no resuspension
+2223,1.A.3.c,Railways
+2224,1.A.3.d,Water-borne Navigation
+2225,1.A.4,Residential and other sectors
+2226,1.A.5,Non-Specified
+2227,1.B.2,Oil and Natural Gas
+2228,2.A.1,Cement production
+2229,2.A.2,Lime production
+2230,2.A.3,Glass Production
+2231,2.A.4,Other Process Uses of Carbonates
+2232,2.C,Metal Industry
+2233,2.D,Non-Energy Products from Fuels and Solvent Use
+2234,3.C.3,Urea application
+2235,4.C,Incineration and Open Burning of Waste
+2236,1.A.1.a,Main Activity Electricity and Heat Production
+2237,1.A.4,Residential and other sectors
+2238,1.A.5,Non-Specified
+2239,1.B.1,Solid Fuels
+2240,3.C.1,Emissions from biomass burning
+2241,1.A.1.a,Main Activity Electricity and Heat Production
+2242,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2243,1.A.2,Manufacturing Industries and Construction
+2244,1.A.3.a,Civil Aviation
+2245,1.A.3.b_noRES,Road Transportation no resuspension
+2246,1.A.3.e,Other Transportation
+2247,1.A.4,Residential and other sectors
+2248,1.A.5,Non-Specified
+2249,1.B.2,Oil and Natural Gas
+2250,2.A.1,Cement production
+2251,2.A.2,Lime production
+2252,2.A.3,Glass Production
+2253,2.A.4,Other Process Uses of Carbonates
+2254,2.C,Metal Industry
+2255,2.D,Non-Energy Products from Fuels and Solvent Use
+2256,3.C.2,Liming
+2257,3.C.3,Urea application
+2258,4.C,Incineration and Open Burning of Waste
+2259,1.A.1.a,Main Activity Electricity and Heat Production
+2260,1.A.2,Manufacturing Industries and Construction
+2261,1.A.3.b_noRES,Road Transportation no resuspension
+2262,1.A.4,Residential and other sectors
+2263,1.A.5,Non-Specified
+2264,1.B.1,Solid Fuels
+2265,1.B.2,Oil and Natural Gas
+2266,3.C.1,Emissions from biomass burning
+2267,4.C,Incineration and Open Burning of Waste
+2268,1.A.1.a,Main Activity Electricity and Heat Production
+2269,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2270,1.A.2,Manufacturing Industries and Construction
+2271,1.A.3.a,Civil Aviation
+2272,1.A.3.b_noRES,Road Transportation no resuspension
+2273,1.A.3.c,Railways
+2274,1.A.3.d,Water-borne Navigation
+2275,1.A.3.e,Other Transportation
+2276,1.A.4,Residential and other sectors
+2277,1.A.5,Non-Specified
+2278,1.B.1,Solid Fuels
+2279,1.B.2,Oil and Natural Gas
+2280,2.A.1,Cement production
+2281,2.A.2,Lime production
+2282,2.A.3,Glass Production
+2283,2.A.4,Other Process Uses of Carbonates
+2284,2.B,Chemical Industry
+2285,2.C,Metal Industry
+2286,2.D,Non-Energy Products from Fuels and Solvent Use
+2287,3.C.2,Liming
+2288,3.C.3,Urea application
+2289,4.C,Incineration and Open Burning of Waste
+2290,1.A.1.a,Main Activity Electricity and Heat Production
+2291,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2292,1.A.4,Residential and other sectors
+2293,1.A.5,Non-Specified
+2294,1.B.1,Solid Fuels
+2295,3.C.1,Emissions from biomass burning
+2296,1.A.1.a,Main Activity Electricity and Heat Production
+2297,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2298,1.A.2,Manufacturing Industries and Construction
+2299,1.A.3.a,Civil Aviation
+2300,1.A.3.b_noRES,Road Transportation no resuspension
+2301,1.A.3.c,Railways
+2302,1.A.3.d,Water-borne Navigation
+2303,1.A.3.e,Other Transportation
+2304,1.A.4,Residential and other sectors
+2305,1.A.5,Non-Specified
+2306,1.B.1,Solid Fuels
+2307,1.B.2,Oil and Natural Gas
+2308,2.A.1,Cement production
+2309,2.A.2,Lime production
+2310,2.A.3,Glass Production
+2311,2.A.4,Other Process Uses of Carbonates
+2312,2.B,Chemical Industry
+2313,2.C,Metal Industry
+2314,2.D,Non-Energy Products from Fuels and Solvent Use
+2315,3.C.2,Liming
+2316,3.C.3,Urea application
+2317,1.A.1.a,Main Activity Electricity and Heat Production
+2318,1.A.2,Manufacturing Industries and Construction
+2319,1.A.4,Residential and other sectors
+2320,1.B.1,Solid Fuels
+2321,3.C.1,Emissions from biomass burning
+2322,1.A.1.a,Main Activity Electricity and Heat Production
+2323,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2324,1.A.2,Manufacturing Industries and Construction
+2325,1.A.3.a,Civil Aviation
+2326,1.A.3.b_noRES,Road Transportation no resuspension
+2327,1.A.3.c,Railways
+2328,1.A.3.d,Water-borne Navigation
+2329,1.A.4,Residential and other sectors
+2330,1.A.5,Non-Specified
+2331,1.B.2,Oil and Natural Gas
+2332,2.A.1,Cement production
+2333,2.A.2,Lime production
+2334,2.A.3,Glass Production
+2335,2.A.4,Other Process Uses of Carbonates
+2336,2.C,Metal Industry
+2337,2.D,Non-Energy Products from Fuels and Solvent Use
+2338,3.C.2,Liming
+2339,3.C.3,Urea application
+2340,4.C,Incineration and Open Burning of Waste
+2341,1.A.4,Residential and other sectors
+2342,1.A.5,Non-Specified
+2343,3.C.1,Emissions from biomass burning
+2344,1.A.1.a,Main Activity Electricity and Heat Production
+2345,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2346,1.A.2,Manufacturing Industries and Construction
+2347,1.A.3.a,Civil Aviation
+2348,1.A.3.b_noRES,Road Transportation no resuspension
+2349,1.A.3.c,Railways
+2350,1.A.3.e,Other Transportation
+2351,1.A.4,Residential and other sectors
+2352,1.A.5,Non-Specified
+2353,1.B.1,Solid Fuels
+2354,1.B.2,Oil and Natural Gas
+2355,2.A.1,Cement production
+2356,2.A.2,Lime production
+2357,2.A.3,Glass Production
+2358,2.A.4,Other Process Uses of Carbonates
+2359,2.B,Chemical Industry
+2360,2.D,Non-Energy Products from Fuels and Solvent Use
+2361,3.C.2,Liming
+2362,3.C.3,Urea application
+2363,1.A.1.a,Main Activity Electricity and Heat Production
+2364,1.A.2,Manufacturing Industries and Construction
+2365,1.A.4,Residential and other sectors
+2366,1.A.5,Non-Specified
+2367,1.B.1,Solid Fuels
+2368,1.B.2,Oil and Natural Gas
+2369,3.C.1,Emissions from biomass burning
+2370,1.A.1.a,Main Activity Electricity and Heat Production
+2371,1.A.2,Manufacturing Industries and Construction
+2372,1.A.3.a,Civil Aviation
+2373,1.A.3.b_noRES,Road Transportation no resuspension
+2374,1.A.3.c,Railways
+2375,1.A.3.d,Water-borne Navigation
+2376,1.A.3.e,Other Transportation
+2377,1.A.4,Residential and other sectors
+2378,1.A.5,Non-Specified
+2379,1.B.1,Solid Fuels
+2380,1.B.2,Oil and Natural Gas
+2381,2.A.1,Cement production
+2382,2.A.3,Glass Production
+2383,2.A.4,Other Process Uses of Carbonates
+2384,2.D,Non-Energy Products from Fuels and Solvent Use
+2385,4.C,Incineration and Open Burning of Waste
+2386,1.A.1.a,Main Activity Electricity and Heat Production
+2387,1.A.2,Manufacturing Industries and Construction
+2388,1.A.4,Residential and other sectors
+2389,1.A.5,Non-Specified
+2390,1.B.1,Solid Fuels
+2391,1.B.2,Oil and Natural Gas
+2392,3.C.1,Emissions from biomass burning
+2393,1.A.1.a,Main Activity Electricity and Heat Production
+2394,1.A.2,Manufacturing Industries and Construction
+2395,1.A.3.a,Civil Aviation
+2396,1.A.3.b_noRES,Road Transportation no resuspension
+2397,1.A.3.d,Water-borne Navigation
+2398,1.A.3.e,Other Transportation
+2399,1.A.4,Residential and other sectors
+2400,1.A.5,Non-Specified
+2401,1.B.2,Oil and Natural Gas
+2402,2.A.3,Glass Production
+2403,2.D,Non-Energy Products from Fuels and Solvent Use
+2404,1.A.2,Manufacturing Industries and Construction
+2405,1.A.4,Residential and other sectors
+2406,1.A.5,Non-Specified
+2407,3.C.1,Emissions from biomass burning
+2408,1.A.1.a,Main Activity Electricity and Heat Production
+2409,1.A.2,Manufacturing Industries and Construction
+2410,1.A.3.a,Civil Aviation
+2411,1.A.3.b_noRES,Road Transportation no resuspension
+2412,1.A.3.d,Water-borne Navigation
+2413,1.A.3.e,Other Transportation
+2414,1.A.4,Residential and other sectors
+2415,1.A.5,Non-Specified
+2416,1.B.2,Oil and Natural Gas
+2417,2.A.3,Glass Production
+2418,2.A.4,Other Process Uses of Carbonates
+2419,2.D,Non-Energy Products from Fuels and Solvent Use
+2420,3.C.3,Urea application
+2421,1.A.1.a,Main Activity Electricity and Heat Production
+2422,1.A.2,Manufacturing Industries and Construction
+2423,1.A.3.b_noRES,Road Transportation no resuspension
+2424,1.A.4,Residential and other sectors
+2425,1.A.5,Non-Specified
+2426,1.B.2,Oil and Natural Gas
+2427,3.C.1,Emissions from biomass burning
+2428,4.C,Incineration and Open Burning of Waste
+2429,1.A.1.a,Main Activity Electricity and Heat Production
+2430,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2431,1.A.2,Manufacturing Industries and Construction
+2432,1.A.3.a,Civil Aviation
+2433,1.A.3.b_noRES,Road Transportation no resuspension
+2434,1.A.3.c,Railways
+2435,1.A.3.d,Water-borne Navigation
+2436,1.A.3.e,Other Transportation
+2437,1.A.4,Residential and other sectors
+2438,1.A.5,Non-Specified
+2439,1.B.1,Solid Fuels
+2440,1.B.2,Oil and Natural Gas
+2441,2.A.1,Cement production
+2442,2.A.2,Lime production
+2443,2.A.3,Glass Production
+2444,2.A.4,Other Process Uses of Carbonates
+2445,2.B,Chemical Industry
+2446,2.C,Metal Industry
+2447,2.D,Non-Energy Products from Fuels and Solvent Use
+2448,3.C.2,Liming
+2449,3.C.3,Urea application
+2450,4.C,Incineration and Open Burning of Waste
+2451,1.A.4,Residential and other sectors
+2452,3.C.1,Emissions from biomass burning
+2453,1.A.1.a,Main Activity Electricity and Heat Production
+2454,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2455,1.A.2,Manufacturing Industries and Construction
+2456,1.A.3.b_noRES,Road Transportation no resuspension
+2457,1.A.4,Residential and other sectors
+2458,1.A.5,Non-Specified
+2459,1.B.2,Oil and Natural Gas
+2460,2.A.1,Cement production
+2461,2.A.2,Lime production
+2462,2.A.3,Glass Production
+2463,2.A.4,Other Process Uses of Carbonates
+2464,2.B,Chemical Industry
+2465,2.D,Non-Energy Products from Fuels and Solvent Use
+2466,3.C.3,Urea application
+2467,4.C,Incineration and Open Burning of Waste
+2468,5.B,Fossil fuel fires
+2469,1.A.1.a,Main Activity Electricity and Heat Production
+2470,1.A.2,Manufacturing Industries and Construction
+2471,1.A.4,Residential and other sectors
+2472,1.A.5,Non-Specified
+2473,1.B.1,Solid Fuels
+2474,1.B.2,Oil and Natural Gas
+2475,3.C.1,Emissions from biomass burning
+2476,1.A.1.a,Main Activity Electricity and Heat Production
+2477,1.A.2,Manufacturing Industries and Construction
+2478,1.A.3.a,Civil Aviation
+2479,1.A.3.b_noRES,Road Transportation no resuspension
+2480,1.A.3.d,Water-borne Navigation
+2481,1.A.3.e,Other Transportation
+2482,1.A.4,Residential and other sectors
+2483,1.A.5,Non-Specified
+2484,1.B.1,Solid Fuels
+2485,1.B.2,Oil and Natural Gas
+2486,2.A.1,Cement production
+2487,2.A.3,Glass Production
+2488,2.A.4,Other Process Uses of Carbonates
+2489,2.D,Non-Energy Products from Fuels and Solvent Use
+2490,3.C.3,Urea application
+2491,4.C,Incineration and Open Burning of Waste
+2492,1.A.1.a,Main Activity Electricity and Heat Production
+2493,1.A.4,Residential and other sectors
+2494,1.A.5,Non-Specified
+2495,1.B.1,Solid Fuels
+2496,3.C.1,Emissions from biomass burning
+2497,1.A.1.a,Main Activity Electricity and Heat Production
+2498,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2499,1.A.2,Manufacturing Industries and Construction
+2500,1.A.3.b_noRES,Road Transportation no resuspension
+2501,1.A.4,Residential and other sectors
+2502,1.A.5,Non-Specified
+2503,1.B.2,Oil and Natural Gas
+2504,2.A.1,Cement production
+2505,2.A.2,Lime production
+2506,2.A.3,Glass Production
+2507,2.A.4,Other Process Uses of Carbonates
+2508,2.C,Metal Industry
+2509,2.D,Non-Energy Products from Fuels and Solvent Use
+2510,3.C.2,Liming
+2511,3.C.3,Urea application
+2512,4.C,Incineration and Open Burning of Waste
+2513,1.A.1.a,Main Activity Electricity and Heat Production
+2514,1.A.2,Manufacturing Industries and Construction
+2515,1.A.4,Residential and other sectors
+2516,1.B.1,Solid Fuels
+2517,3.C.1,Emissions from biomass burning
+2518,1.A.1.a,Main Activity Electricity and Heat Production
+2519,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2520,1.A.2,Manufacturing Industries and Construction
+2521,1.A.3.a,Civil Aviation
+2522,1.A.3.b_noRES,Road Transportation no resuspension
+2523,1.A.3.c,Railways
+2524,1.A.3.d,Water-borne Navigation
+2525,1.A.3.e,Other Transportation
+2526,1.A.4,Residential and other sectors
+2527,1.A.5,Non-Specified
+2528,1.B.2,Oil and Natural Gas
+2529,2.A.1,Cement production
+2530,2.A.3,Glass Production
+2531,2.A.4,Other Process Uses of Carbonates
+2532,2.D,Non-Energy Products from Fuels and Solvent Use
+2533,1.A.4,Residential and other sectors
+2534,1.B.1,Solid Fuels
+2535,3.C.1,Emissions from biomass burning
+2536,1.A.1.a,Main Activity Electricity and Heat Production
+2537,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2538,1.A.2,Manufacturing Industries and Construction
+2539,1.A.3.a,Civil Aviation
+2540,1.A.3.b_noRES,Road Transportation no resuspension
+2541,1.A.4,Residential and other sectors
+2542,1.B.2,Oil and Natural Gas
+2543,2.A.1,Cement production
+2544,2.A.2,Lime production
+2545,2.A.3,Glass Production
+2546,2.A.4,Other Process Uses of Carbonates
+2547,2.B,Chemical Industry
+2548,2.C,Metal Industry
+2549,2.D,Non-Energy Products from Fuels and Solvent Use
+2550,3.C.2,Liming
+2551,3.C.3,Urea application
+2552,1.A.1.a,Main Activity Electricity and Heat Production
+2553,1.A.2,Manufacturing Industries and Construction
+2554,1.A.4,Residential and other sectors
+2555,1.A.5,Non-Specified
+2556,1.B.1,Solid Fuels
+2557,3.C.1,Emissions from biomass burning
+2558,1.A.1.a,Main Activity Electricity and Heat Production
+2559,1.A.2,Manufacturing Industries and Construction
+2560,1.A.3.a,Civil Aviation
+2561,1.A.3.b_noRES,Road Transportation no resuspension
+2562,1.A.3.d,Water-borne Navigation
+2563,1.A.3.e,Other Transportation
+2564,1.A.4,Residential and other sectors
+2565,1.A.5,Non-Specified
+2566,1.B.2,Oil and Natural Gas
+2567,2.A.3,Glass Production
+2568,2.A.4,Other Process Uses of Carbonates
+2569,2.D,Non-Energy Products from Fuels and Solvent Use
+2570,3.C.3,Urea application
+2571,4.C,Incineration and Open Burning of Waste
+2572,1.A.1.a,Main Activity Electricity and Heat Production
+2573,1.A.2,Manufacturing Industries and Construction
+2574,1.A.4,Residential and other sectors
+2575,1.B.1,Solid Fuels
+2576,3.C.1,Emissions from biomass burning
+2577,1.A.1.a,Main Activity Electricity and Heat Production
+2578,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2579,1.A.2,Manufacturing Industries and Construction
+2580,1.A.3.a,Civil Aviation
+2581,1.A.3.b_noRES,Road Transportation no resuspension
+2582,1.A.3.c,Railways
+2583,1.A.3.d,Water-borne Navigation
+2584,1.A.4,Residential and other sectors
+2585,1.A.5,Non-Specified
+2586,1.B.2,Oil and Natural Gas
+2587,2.A.1,Cement production
+2588,2.A.3,Glass Production
+2589,2.A.4,Other Process Uses of Carbonates
+2590,2.B,Chemical Industry
+2591,2.C,Metal Industry
+2592,2.D,Non-Energy Products from Fuels and Solvent Use
+2593,3.C.2,Liming
+2594,3.C.3,Urea application
+2595,1.A.1.a,Main Activity Electricity and Heat Production
+2596,1.A.2,Manufacturing Industries and Construction
+2597,1.A.4,Residential and other sectors
+2598,1.B.1,Solid Fuels
+2599,3.C.1,Emissions from biomass burning
+2600,1.A.1.a,Main Activity Electricity and Heat Production
+2601,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2602,1.A.2,Manufacturing Industries and Construction
+2603,1.A.3.a,Civil Aviation
+2604,1.A.3.b_noRES,Road Transportation no resuspension
+2605,1.A.3.c,Railways
+2606,1.A.3.d,Water-borne Navigation
+2607,1.A.3.e,Other Transportation
+2608,1.A.4,Residential and other sectors
+2609,1.A.5,Non-Specified
+2610,1.B.2,Oil and Natural Gas
+2611,2.A.3,Glass Production
+2612,2.A.4,Other Process Uses of Carbonates
+2613,2.D,Non-Energy Products from Fuels and Solvent Use
+2614,1.A.1.a,Main Activity Electricity and Heat Production
+2615,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2616,1.A.2,Manufacturing Industries and Construction
+2617,1.A.3.b_noRES,Road Transportation no resuspension
+2618,1.A.3.c,Railways
+2619,1.A.4,Residential and other sectors
+2620,1.B.1,Solid Fuels
+2621,1.B.2,Oil and Natural Gas
+2622,3.C.1,Emissions from biomass burning
+2623,1.A.1.a,Main Activity Electricity and Heat Production
+2624,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2625,1.A.2,Manufacturing Industries and Construction
+2626,1.A.3.a,Civil Aviation
+2627,1.A.3.b_noRES,Road Transportation no resuspension
+2628,1.A.3.c,Railways
+2629,1.A.3.d,Water-borne Navigation
+2630,1.A.3.e,Other Transportation
+2631,1.A.4,Residential and other sectors
+2632,1.A.5,Non-Specified
+2633,1.B.1,Solid Fuels
+2634,1.B.2,Oil and Natural Gas
+2635,2.A.1,Cement production
+2636,2.A.2,Lime production
+2637,2.A.3,Glass Production
+2638,2.A.4,Other Process Uses of Carbonates
+2639,2.B,Chemical Industry
+2640,2.D,Non-Energy Products from Fuels and Solvent Use
+2641,3.C.2,Liming
+2642,3.C.3,Urea application
+2643,4.C,Incineration and Open Burning of Waste
+2644,1.A.1.a,Main Activity Electricity and Heat Production
+2645,1.A.2,Manufacturing Industries and Construction
+2646,1.A.3.b_noRES,Road Transportation no resuspension
+2647,1.A.4,Residential and other sectors
+2648,3.C.1,Emissions from biomass burning
+2649,4.C,Incineration and Open Burning of Waste
+2650,1.A.1.a,Main Activity Electricity and Heat Production
+2651,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2652,1.A.2,Manufacturing Industries and Construction
+2653,1.A.3.a,Civil Aviation
+2654,1.A.3.b_noRES,Road Transportation no resuspension
+2655,1.A.3.c,Railways
+2656,1.A.3.d,Water-borne Navigation
+2657,1.A.3.e,Other Transportation
+2658,1.A.4,Residential and other sectors
+2659,1.A.5,Non-Specified
+2660,1.B.1,Solid Fuels
+2661,2.A.1,Cement production
+2662,2.A.2,Lime production
+2663,2.A.3,Glass Production
+2664,2.A.4,Other Process Uses of Carbonates
+2665,2.B,Chemical Industry
+2666,2.C,Metal Industry
+2667,2.D,Non-Energy Products from Fuels and Solvent Use
+2668,3.C.2,Liming
+2669,1.A.1.a,Main Activity Electricity and Heat Production
+2670,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2671,1.A.2,Manufacturing Industries and Construction
+2672,1.A.3.b_noRES,Road Transportation no resuspension
+2673,1.A.3.c,Railways
+2674,1.A.4,Residential and other sectors
+2675,1.B.1,Solid Fuels
+2676,1.B.2,Oil and Natural Gas
+2677,3.C.1,Emissions from biomass burning
+2678,1.A.1.a,Main Activity Electricity and Heat Production
+2679,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2680,1.A.2,Manufacturing Industries and Construction
+2681,1.A.3.a,Civil Aviation
+2682,1.A.3.b_noRES,Road Transportation no resuspension
+2683,1.A.3.c,Railways
+2684,1.A.3.d,Water-borne Navigation
+2685,1.A.3.e,Other Transportation
+2686,1.A.4,Residential and other sectors
+2687,1.A.5,Non-Specified
+2688,1.B.1,Solid Fuels
+2689,2.A.1,Cement production
+2690,2.A.2,Lime production
+2691,2.A.3,Glass Production
+2692,2.A.4,Other Process Uses of Carbonates
+2693,2.B,Chemical Industry
+2694,2.C,Metal Industry
+2695,2.D,Non-Energy Products from Fuels and Solvent Use
+2696,3.C.2,Liming
+2697,3.C.3,Urea application
+2698,1.A.1.a,Main Activity Electricity and Heat Production
+2699,1.A.2,Manufacturing Industries and Construction
+2700,1.A.4,Residential and other sectors
+2701,1.A.5,Non-Specified
+2702,1.B.1,Solid Fuels
+2703,1.B.2,Oil and Natural Gas
+2704,1.A.1.a,Main Activity Electricity and Heat Production
+2705,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2706,1.A.2,Manufacturing Industries and Construction
+2707,1.A.3.a,Civil Aviation
+2708,1.A.3.b_noRES,Road Transportation no resuspension
+2709,1.A.3.d,Water-borne Navigation
+2710,1.A.3.e,Other Transportation
+2711,1.A.4,Residential and other sectors
+2712,1.A.5,Non-Specified
+2713,1.B.2,Oil and Natural Gas
+2714,2.A.1,Cement production
+2715,2.A.3,Glass Production
+2716,2.A.4,Other Process Uses of Carbonates
+2717,2.D,Non-Energy Products from Fuels and Solvent Use
+2718,4.C,Incineration and Open Burning of Waste
+2719,1.A.2,Manufacturing Industries and Construction
+2720,1.A.4,Residential and other sectors
+2721,1.B.1,Solid Fuels
+2722,3.C.1,Emissions from biomass burning
+2723,1.A.1.a,Main Activity Electricity and Heat Production
+2724,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2725,1.A.2,Manufacturing Industries and Construction
+2726,1.A.3.a,Civil Aviation
+2727,1.A.3.b_noRES,Road Transportation no resuspension
+2728,1.A.3.c,Railways
+2729,1.A.3.d,Water-borne Navigation
+2730,1.A.4,Residential and other sectors
+2731,1.A.5,Non-Specified
+2732,1.B.1,Solid Fuels
+2733,1.B.2,Oil and Natural Gas
+2734,2.A.1,Cement production
+2735,2.A.3,Glass Production
+2736,2.A.4,Other Process Uses of Carbonates
+2737,2.B,Chemical Industry
+2738,2.C,Metal Industry
+2739,2.D,Non-Energy Products from Fuels and Solvent Use
+2740,3.C.2,Liming
+2741,3.C.3,Urea application
+2742,1.A.1.a,Main Activity Electricity and Heat Production
+2743,1.A.2,Manufacturing Industries and Construction
+2744,1.A.4,Residential and other sectors
+2745,1.A.5,Non-Specified
+2746,1.B.1,Solid Fuels
+2747,3.C.1,Emissions from biomass burning
+2748,1.A.1.a,Main Activity Electricity and Heat Production
+2749,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2750,1.A.2,Manufacturing Industries and Construction
+2751,1.A.3.b_noRES,Road Transportation no resuspension
+2752,1.A.3.c,Railways
+2753,1.A.3.d,Water-borne Navigation
+2754,1.A.3.e,Other Transportation
+2755,1.A.4,Residential and other sectors
+2756,1.A.5,Non-Specified
+2757,1.B.2,Oil and Natural Gas
+2758,2.A.1,Cement production
+2759,2.A.2,Lime production
+2760,2.A.3,Glass Production
+2761,2.A.4,Other Process Uses of Carbonates
+2762,2.B,Chemical Industry
+2763,2.C,Metal Industry
+2764,2.D,Non-Energy Products from Fuels and Solvent Use
+2765,3.C.2,Liming
+2766,3.C.3,Urea application
+2767,4.C,Incineration and Open Burning of Waste
+2768,1.A.1.a,Main Activity Electricity and Heat Production
+2769,1.A.2,Manufacturing Industries and Construction
+2770,1.A.4,Residential and other sectors
+2771,1.B.1,Solid Fuels
+2772,3.C.1,Emissions from biomass burning
+2773,1.A.1.a,Main Activity Electricity and Heat Production
+2774,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2775,1.A.2,Manufacturing Industries and Construction
+2776,1.A.3.a,Civil Aviation
+2777,1.A.3.b_noRES,Road Transportation no resuspension
+2778,1.A.3.c,Railways
+2779,1.A.3.d,Water-borne Navigation
+2780,1.A.3.e,Other Transportation
+2781,1.A.4,Residential and other sectors
+2782,1.A.5,Non-Specified
+2783,1.B.2,Oil and Natural Gas
+2784,2.A.1,Cement production
+2785,2.A.3,Glass Production
+2786,2.A.4,Other Process Uses of Carbonates
+2787,2.D,Non-Energy Products from Fuels and Solvent Use
+2788,3.C.3,Urea application
+2789,1.A.1.a,Main Activity Electricity and Heat Production
+2790,1.A.2,Manufacturing Industries and Construction
+2791,1.A.4,Residential and other sectors
+2792,1.A.5,Non-Specified
+2793,1.B.1,Solid Fuels
+2794,1.B.2,Oil and Natural Gas
+2795,3.C.1,Emissions from biomass burning
+2796,1.A.1.a,Main Activity Electricity and Heat Production
+2797,1.A.2,Manufacturing Industries and Construction
+2798,1.A.3.a,Civil Aviation
+2799,1.A.3.b_noRES,Road Transportation no resuspension
+2800,1.A.3.d,Water-borne Navigation
+2801,1.A.3.e,Other Transportation
+2802,1.A.4,Residential and other sectors
+2803,1.A.5,Non-Specified
+2804,1.B.2,Oil and Natural Gas
+2805,2.A.3,Glass Production
+2806,2.A.4,Other Process Uses of Carbonates
+2807,2.D,Non-Energy Products from Fuels and Solvent Use
+2808,4.C,Incineration and Open Burning of Waste
+2809,1.A.1.a,Main Activity Electricity and Heat Production
+2810,1.A.2,Manufacturing Industries and Construction
+2811,1.A.4,Residential and other sectors
+2812,3.C.1,Emissions from biomass burning
+2813,1.A.1.a,Main Activity Electricity and Heat Production
+2814,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2815,1.A.2,Manufacturing Industries and Construction
+2816,1.A.3.a,Civil Aviation
+2817,1.A.3.b_noRES,Road Transportation no resuspension
+2818,1.A.3.c,Railways
+2819,1.A.3.d,Water-borne Navigation
+2820,1.A.3.e,Other Transportation
+2821,1.A.4,Residential and other sectors
+2822,1.B.1,Solid Fuels
+2823,1.B.2,Oil and Natural Gas
+2824,2.A.1,Cement production
+2825,2.A.2,Lime production
+2826,2.A.3,Glass Production
+2827,2.A.4,Other Process Uses of Carbonates
+2828,2.B,Chemical Industry
+2829,2.C,Metal Industry
+2830,2.D,Non-Energy Products from Fuels and Solvent Use
+2831,3.C.2,Liming
+2832,3.C.3,Urea application
+2833,4.C,Incineration and Open Burning of Waste
+2834,1.A.1.a,Main Activity Electricity and Heat Production
+2835,1.A.2,Manufacturing Industries and Construction
+2836,1.A.3.b_noRES,Road Transportation no resuspension
+2837,1.A.4,Residential and other sectors
+2838,1.A.5,Non-Specified
+2839,1.B.2,Oil and Natural Gas
+2840,3.C.1,Emissions from biomass burning
+2841,1.A.1.a,Main Activity Electricity and Heat Production
+2842,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2843,1.A.2,Manufacturing Industries and Construction
+2844,1.A.3.b_noRES,Road Transportation no resuspension
+2845,1.A.3.c,Railways
+2846,1.A.4,Residential and other sectors
+2847,1.A.5,Non-Specified
+2848,1.B.1,Solid Fuels
+2849,1.B.2,Oil and Natural Gas
+2850,2.A.1,Cement production
+2851,2.A.2,Lime production
+2852,2.A.3,Glass Production
+2853,2.A.4,Other Process Uses of Carbonates
+2854,2.B,Chemical Industry
+2855,2.C,Metal Industry
+2856,2.D,Non-Energy Products from Fuels and Solvent Use
+2857,3.C.2,Liming
+2858,3.C.3,Urea application
+2859,4.C,Incineration and Open Burning of Waste
+2860,1.A.1.a,Main Activity Electricity and Heat Production
+2861,1.A.2,Manufacturing Industries and Construction
+2862,1.A.4,Residential and other sectors
+2863,1.B.1,Solid Fuels
+2864,3.C.1,Emissions from biomass burning
+2865,1.A.1.a,Main Activity Electricity and Heat Production
+2866,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2867,1.A.2,Manufacturing Industries and Construction
+2868,1.A.3.a,Civil Aviation
+2869,1.A.3.b_noRES,Road Transportation no resuspension
+2870,1.A.3.c,Railways
+2871,1.A.3.d,Water-borne Navigation
+2872,1.A.3.e,Other Transportation
+2873,1.A.4,Residential and other sectors
+2874,1.A.5,Non-Specified
+2875,1.B.2,Oil and Natural Gas
+2876,2.A.1,Cement production
+2877,2.A.3,Glass Production
+2878,2.A.4,Other Process Uses of Carbonates
+2879,2.D,Non-Energy Products from Fuels and Solvent Use
+2880,3.C.3,Urea application
+2881,4.C,Incineration and Open Burning of Waste
+2882,1.A.1.a,Main Activity Electricity and Heat Production
+2883,1.A.2,Manufacturing Industries and Construction
+2884,1.A.3.b_noRES,Road Transportation no resuspension
+2885,1.A.3.d,Water-borne Navigation
+2886,1.A.4,Residential and other sectors
+2887,1.B.2,Oil and Natural Gas
+2888,3.C.1,Emissions from biomass burning
+2889,4.C,Incineration and Open Burning of Waste
+2890,1.A.1.a,Main Activity Electricity and Heat Production
+2891,1.A.2,Manufacturing Industries and Construction
+2892,1.A.3.a,Civil Aviation
+2893,1.A.3.b_noRES,Road Transportation no resuspension
+2894,1.A.3.d,Water-borne Navigation
+2895,1.A.4,Residential and other sectors
+2896,1.A.5,Non-Specified
+2897,2.A.2,Lime production
+2898,2.A.3,Glass Production
+2899,2.A.4,Other Process Uses of Carbonates
+2900,2.B,Chemical Industry
+2901,2.D,Non-Energy Products from Fuels and Solvent Use
+2902,3.C.3,Urea application
+2903,4.C,Incineration and Open Burning of Waste
+2904,1.A.1.a,Main Activity Electricity and Heat Production
+2905,1.A.2,Manufacturing Industries and Construction
+2906,1.A.4,Residential and other sectors
+2907,1.B.1,Solid Fuels
+2908,3.C.1,Emissions from biomass burning
+2909,1.A.1.a,Main Activity Electricity and Heat Production
+2910,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2911,1.A.2,Manufacturing Industries and Construction
+2912,1.A.3.a,Civil Aviation
+2913,1.A.3.b_noRES,Road Transportation no resuspension
+2914,1.A.3.c,Railways
+2915,1.A.3.d,Water-borne Navigation
+2916,1.A.4,Residential and other sectors
+2917,1.A.5,Non-Specified
+2918,1.B.1,Solid Fuels
+2919,1.B.2,Oil and Natural Gas
+2920,2.A.1,Cement production
+2921,2.A.3,Glass Production
+2922,2.A.4,Other Process Uses of Carbonates
+2923,2.B,Chemical Industry
+2924,2.C,Metal Industry
+2925,2.D,Non-Energy Products from Fuels and Solvent Use
+2926,3.C.3,Urea application
+2927,4.C,Incineration and Open Burning of Waste
+2928,1.A.1.a,Main Activity Electricity and Heat Production
+2929,1.A.2,Manufacturing Industries and Construction
+2930,1.A.4,Residential and other sectors
+2931,1.A.5,Non-Specified
+2932,1.B.1,Solid Fuels
+2933,1.B.2,Oil and Natural Gas
+2934,3.C.1,Emissions from biomass burning
+2935,4.C,Incineration and Open Burning of Waste
+2936,1.A.1.a,Main Activity Electricity and Heat Production
+2937,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2938,1.A.2,Manufacturing Industries and Construction
+2939,1.A.3.a,Civil Aviation
+2940,1.A.3.b_noRES,Road Transportation no resuspension
+2941,1.A.3.c,Railways
+2942,1.A.3.d,Water-borne Navigation
+2943,1.A.3.e,Other Transportation
+2944,1.A.4,Residential and other sectors
+2945,1.A.5,Non-Specified
+2946,1.B.1,Solid Fuels
+2947,1.B.2,Oil and Natural Gas
+2948,2.A.1,Cement production
+2949,2.A.2,Lime production
+2950,2.A.3,Glass Production
+2951,2.A.4,Other Process Uses of Carbonates
+2952,2.C,Metal Industry
+2953,2.D,Non-Energy Products from Fuels and Solvent Use
+2954,3.C.3,Urea application
+2955,4.C,Incineration and Open Burning of Waste
+2956,1.A.1.a,Main Activity Electricity and Heat Production
+2957,1.A.2,Manufacturing Industries and Construction
+2958,1.A.4,Residential and other sectors
+2959,1.B.1,Solid Fuels
+2960,3.C.1,Emissions from biomass burning
+2961,1.A.1.a,Main Activity Electricity and Heat Production
+2962,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2963,1.A.2,Manufacturing Industries and Construction
+2964,1.A.3.a,Civil Aviation
+2965,1.A.3.b_noRES,Road Transportation no resuspension
+2966,1.A.3.d,Water-borne Navigation
+2967,1.A.4,Residential and other sectors
+2968,1.A.5,Non-Specified
+2969,1.B.1,Solid Fuels
+2970,1.B.2,Oil and Natural Gas
+2971,2.A.1,Cement production
+2972,2.A.2,Lime production
+2973,2.A.3,Glass Production
+2974,2.A.4,Other Process Uses of Carbonates
+2975,2.C,Metal Industry
+2976,2.D,Non-Energy Products from Fuels and Solvent Use
+2977,3.C.3,Urea application
+2978,1.A.1.a,Main Activity Electricity and Heat Production
+2979,1.A.2,Manufacturing Industries and Construction
+2980,1.A.4,Residential and other sectors
+2981,1.B.1,Solid Fuels
+2982,3.C.1,Emissions from biomass burning
+2983,1.A.1.a,Main Activity Electricity and Heat Production
+2984,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+2985,1.A.2,Manufacturing Industries and Construction
+2986,1.A.3.a,Civil Aviation
+2987,1.A.3.b_noRES,Road Transportation no resuspension
+2988,1.A.3.c,Railways
+2989,1.A.3.d,Water-borne Navigation
+2990,1.A.3.e,Other Transportation
+2991,1.A.4,Residential and other sectors
+2992,1.A.5,Non-Specified
+2993,1.B.2,Oil and Natural Gas
+2994,2.A.1,Cement production
+2995,2.A.3,Glass Production
+2996,2.A.4,Other Process Uses of Carbonates
+2997,2.C,Metal Industry
+2998,2.D,Non-Energy Products from Fuels and Solvent Use
+2999,3.C.3,Urea application
+3000,1.A.1.a,Main Activity Electricity and Heat Production
+3001,1.A.2,Manufacturing Industries and Construction
+3002,1.A.4,Residential and other sectors
+3003,1.A.5,Non-Specified
+3004,1.B.1,Solid Fuels
+3005,3.C.1,Emissions from biomass burning
+3006,1.A.1.a,Main Activity Electricity and Heat Production
+3007,1.A.2,Manufacturing Industries and Construction
+3008,1.A.3.a,Civil Aviation
+3009,1.A.3.b_noRES,Road Transportation no resuspension
+3010,1.A.3.d,Water-borne Navigation
+3011,1.A.3.e,Other Transportation
+3012,1.A.4,Residential and other sectors
+3013,1.A.5,Non-Specified
+3014,1.B.2,Oil and Natural Gas
+3015,2.A.1,Cement production
+3016,2.A.2,Lime production
+3017,2.A.3,Glass Production
+3018,2.A.4,Other Process Uses of Carbonates
+3019,2.D,Non-Energy Products from Fuels and Solvent Use
+3020,3.C.3,Urea application
+3021,1.A.1.a,Main Activity Electricity and Heat Production
+3022,1.A.2,Manufacturing Industries and Construction
+3023,1.A.4,Residential and other sectors
+3024,1.B.1,Solid Fuels
+3025,3.C.1,Emissions from biomass burning
+3026,1.A.1.a,Main Activity Electricity and Heat Production
+3027,1.A.2,Manufacturing Industries and Construction
+3028,1.A.3.a,Civil Aviation
+3029,1.A.3.b_noRES,Road Transportation no resuspension
+3030,1.A.3.d,Water-borne Navigation
+3031,1.A.3.e,Other Transportation
+3032,1.A.4,Residential and other sectors
+3033,1.A.5,Non-Specified
+3034,2.A.2,Lime production
+3035,2.A.3,Glass Production
+3036,2.A.4,Other Process Uses of Carbonates
+3037,2.D,Non-Energy Products from Fuels and Solvent Use
+3038,3.C.2,Liming
+3039,3.C.3,Urea application
+3040,4.C,Incineration and Open Burning of Waste
+3041,1.A.1.a,Main Activity Electricity and Heat Production
+3042,1.A.2,Manufacturing Industries and Construction
+3043,1.A.4,Residential and other sectors
+3044,1.B.1,Solid Fuels
+3045,3.C.1,Emissions from biomass burning
+3046,1.A.1.a,Main Activity Electricity and Heat Production
+3047,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3048,1.A.2,Manufacturing Industries and Construction
+3049,1.A.3.a,Civil Aviation
+3050,1.A.3.b_noRES,Road Transportation no resuspension
+3051,1.A.3.c,Railways
+3052,1.A.3.d,Water-borne Navigation
+3053,1.A.3.e,Other Transportation
+3054,1.A.4,Residential and other sectors
+3055,1.A.5,Non-Specified
+3056,1.B.1,Solid Fuels
+3057,1.B.2,Oil and Natural Gas
+3058,2.A.1,Cement production
+3059,2.A.2,Lime production
+3060,2.A.3,Glass Production
+3061,2.A.4,Other Process Uses of Carbonates
+3062,2.D,Non-Energy Products from Fuels and Solvent Use
+3063,3.C.3,Urea application
+3064,1.A.1.a,Main Activity Electricity and Heat Production
+3065,1.A.2,Manufacturing Industries and Construction
+3066,1.A.3.b_noRES,Road Transportation no resuspension
+3067,1.A.4,Residential and other sectors
+3068,1.B.1,Solid Fuels
+3069,1.B.2,Oil and Natural Gas
+3070,3.C.1,Emissions from biomass burning
+3071,1.A.1.a,Main Activity Electricity and Heat Production
+3072,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3073,1.A.2,Manufacturing Industries and Construction
+3074,1.A.3.a,Civil Aviation
+3075,1.A.3.b_noRES,Road Transportation no resuspension
+3076,1.A.3.d,Water-borne Navigation
+3077,1.A.4,Residential and other sectors
+3078,1.A.5,Non-Specified
+3079,1.B.1,Solid Fuels
+3080,1.B.2,Oil and Natural Gas
+3081,2.A.1,Cement production
+3082,2.A.2,Lime production
+3083,2.A.3,Glass Production
+3084,2.A.4,Other Process Uses of Carbonates
+3085,2.B,Chemical Industry
+3086,2.C,Metal Industry
+3087,2.D,Non-Energy Products from Fuels and Solvent Use
+3088,3.C.2,Liming
+3089,3.C.3,Urea application
+3090,4.C,Incineration and Open Burning of Waste
+3091,1.A.1.a,Main Activity Electricity and Heat Production
+3092,1.A.2,Manufacturing Industries and Construction
+3093,1.A.4,Residential and other sectors
+3094,1.B.1,Solid Fuels
+3095,3.C.1,Emissions from biomass burning
+3096,4.C,Incineration and Open Burning of Waste
+3097,1.A.1.a,Main Activity Electricity and Heat Production
+3098,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3099,1.A.2,Manufacturing Industries and Construction
+3100,1.A.3.a,Civil Aviation
+3101,1.A.3.b_noRES,Road Transportation no resuspension
+3102,1.A.3.c,Railways
+3103,1.A.3.d,Water-borne Navigation
+3104,1.A.3.e,Other Transportation
+3105,1.A.4,Residential and other sectors
+3106,1.A.5,Non-Specified
+3107,1.B.2,Oil and Natural Gas
+3108,2.A.1,Cement production
+3109,2.A.2,Lime production
+3110,2.A.3,Glass Production
+3111,2.A.4,Other Process Uses of Carbonates
+3112,2.C,Metal Industry
+3113,2.D,Non-Energy Products from Fuels and Solvent Use
+3114,3.C.3,Urea application
+3115,1.A.1.a,Main Activity Electricity and Heat Production
+3116,1.A.2,Manufacturing Industries and Construction
+3117,1.A.4,Residential and other sectors
+3118,1.A.5,Non-Specified
+3119,1.B.1,Solid Fuels
+3120,1.B.2,Oil and Natural Gas
+3121,3.C.1,Emissions from biomass burning
+3122,1.A.1.a,Main Activity Electricity and Heat Production
+3123,1.A.2,Manufacturing Industries and Construction
+3124,1.A.3.a,Civil Aviation
+3125,1.A.3.b_noRES,Road Transportation no resuspension
+3126,1.A.3.d,Water-borne Navigation
+3127,1.A.3.e,Other Transportation
+3128,1.A.4,Residential and other sectors
+3129,1.A.5,Non-Specified
+3130,1.B.2,Oil and Natural Gas
+3131,2.A.1,Cement production
+3132,2.A.3,Glass Production
+3133,2.A.4,Other Process Uses of Carbonates
+3134,2.D,Non-Energy Products from Fuels and Solvent Use
+3135,3.C.3,Urea application
+3136,1.A.4,Residential and other sectors
+3137,1.B.1,Solid Fuels
+3138,3.C.1,Emissions from biomass burning
+3139,1.A.1.a,Main Activity Electricity and Heat Production
+3140,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3141,1.A.2,Manufacturing Industries and Construction
+3142,1.A.3.a,Civil Aviation
+3143,1.A.3.b_noRES,Road Transportation no resuspension
+3144,1.A.4,Residential and other sectors
+3145,1.A.5,Non-Specified
+3146,1.B.1,Solid Fuels
+3147,1.B.2,Oil and Natural Gas
+3148,2.A.1,Cement production
+3149,2.A.3,Glass Production
+3150,2.A.4,Other Process Uses of Carbonates
+3151,2.D,Non-Energy Products from Fuels and Solvent Use
+3152,3.C.3,Urea application
+3153,1.A.2,Manufacturing Industries and Construction
+3154,1.A.4,Residential and other sectors
+3155,1.B.1,Solid Fuels
+3156,3.C.1,Emissions from biomass burning
+3157,1.A.1.a,Main Activity Electricity and Heat Production
+3158,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3159,1.A.2,Manufacturing Industries and Construction
+3160,1.A.3.a,Civil Aviation
+3161,1.A.3.b_noRES,Road Transportation no resuspension
+3162,1.A.3.c,Railways
+3163,1.A.3.d,Water-borne Navigation
+3164,1.A.3.e,Other Transportation
+3165,1.A.4,Residential and other sectors
+3166,1.A.5,Non-Specified
+3167,1.B.1,Solid Fuels
+3168,1.B.2,Oil and Natural Gas
+3169,2.A.1,Cement production
+3170,2.A.3,Glass Production
+3171,2.A.4,Other Process Uses of Carbonates
+3172,2.B,Chemical Industry
+3173,2.C,Metal Industry
+3174,2.D,Non-Energy Products from Fuels and Solvent Use
+3175,3.C.2,Liming
+3176,3.C.3,Urea application
+3177,1.A.1.a,Main Activity Electricity and Heat Production
+3178,1.A.2,Manufacturing Industries and Construction
+3179,1.A.4,Residential and other sectors
+3180,1.B.1,Solid Fuels
+3181,3.C.1,Emissions from biomass burning
+3182,1.A.1.a,Main Activity Electricity and Heat Production
+3183,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3184,1.A.2,Manufacturing Industries and Construction
+3185,1.A.3.a,Civil Aviation
+3186,1.A.3.b_noRES,Road Transportation no resuspension
+3187,1.A.3.d,Water-borne Navigation
+3188,1.A.4,Residential and other sectors
+3189,1.B.2,Oil and Natural Gas
+3190,2.A.1,Cement production
+3191,2.A.2,Lime production
+3192,2.A.3,Glass Production
+3193,2.A.4,Other Process Uses of Carbonates
+3194,2.D,Non-Energy Products from Fuels and Solvent Use
+3195,3.C.2,Liming
+3196,3.C.3,Urea application
+3197,1.A.1.a,Main Activity Electricity and Heat Production
+3198,1.A.2,Manufacturing Industries and Construction
+3199,1.A.3.b_noRES,Road Transportation no resuspension
+3200,1.A.3.c,Railways
+3201,1.A.3.d,Water-borne Navigation
+3202,1.A.4,Residential and other sectors
+3203,1.A.5,Non-Specified
+3204,1.B.1,Solid Fuels
+3205,1.B.2,Oil and Natural Gas
+3206,3.C.1,Emissions from biomass burning
+3207,4.C,Incineration and Open Burning of Waste
+3208,1.A.1.a,Main Activity Electricity and Heat Production
+3209,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3210,1.A.2,Manufacturing Industries and Construction
+3211,1.A.3.a,Civil Aviation
+3212,1.A.3.b_noRES,Road Transportation no resuspension
+3213,1.A.3.c,Railways
+3214,1.A.3.d,Water-borne Navigation
+3215,1.A.4,Residential and other sectors
+3216,1.A.5,Non-Specified
+3217,1.B.1,Solid Fuels
+3218,1.B.2,Oil and Natural Gas
+3219,2.A.1,Cement production
+3220,2.A.3,Glass Production
+3221,2.A.4,Other Process Uses of Carbonates
+3222,2.B,Chemical Industry
+3223,2.C,Metal Industry
+3224,2.D,Non-Energy Products from Fuels and Solvent Use
+3225,3.C.2,Liming
+3226,3.C.3,Urea application
+3227,4.C,Incineration and Open Burning of Waste
+3228,1.A.1.a,Main Activity Electricity and Heat Production
+3229,1.A.2,Manufacturing Industries and Construction
+3230,1.A.3.b_noRES,Road Transportation no resuspension
+3231,1.A.3.d,Water-borne Navigation
+3232,1.A.4,Residential and other sectors
+3233,1.A.5,Non-Specified
+3234,1.B.2,Oil and Natural Gas
+3235,3.C.1,Emissions from biomass burning
+3236,4.C,Incineration and Open Burning of Waste
+3237,1.A.1.a,Main Activity Electricity and Heat Production
+3238,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3239,1.A.2,Manufacturing Industries and Construction
+3240,1.A.3.a,Civil Aviation
+3241,1.A.3.b_noRES,Road Transportation no resuspension
+3242,1.A.3.c,Railways
+3243,1.A.3.d,Water-borne Navigation
+3244,1.A.4,Residential and other sectors
+3245,1.A.5,Non-Specified
+3246,1.B.1,Solid Fuels
+3247,1.B.2,Oil and Natural Gas
+3248,2.A.1,Cement production
+3249,2.A.2,Lime production
+3250,2.A.3,Glass Production
+3251,2.A.4,Other Process Uses of Carbonates
+3252,2.B,Chemical Industry
+3253,2.C,Metal Industry
+3254,2.D,Non-Energy Products from Fuels and Solvent Use
+3255,3.C.2,Liming
+3256,3.C.3,Urea application
+3257,4.C,Incineration and Open Burning of Waste
+3258,1.A.2,Manufacturing Industries and Construction
+3259,1.A.4,Residential and other sectors
+3260,1.A.5,Non-Specified
+3261,1.B.1,Solid Fuels
+3262,3.C.1,Emissions from biomass burning
+3263,1.A.1.a,Main Activity Electricity and Heat Production
+3264,1.A.2,Manufacturing Industries and Construction
+3265,1.A.3.a,Civil Aviation
+3266,1.A.3.b_noRES,Road Transportation no resuspension
+3267,1.A.4,Residential and other sectors
+3268,1.B.1,Solid Fuels
+3269,2.A.1,Cement production
+3270,2.A.2,Lime production
+3271,2.A.3,Glass Production
+3272,2.A.4,Other Process Uses of Carbonates
+3273,2.B,Chemical Industry
+3274,2.D,Non-Energy Products from Fuels and Solvent Use
+3275,3.C.2,Liming
+3276,3.C.3,Urea application
+3277,1.A.1.a,Main Activity Electricity and Heat Production
+3278,1.A.2,Manufacturing Industries and Construction
+3279,1.A.3.b_noRES,Road Transportation no resuspension
+3280,1.A.4,Residential and other sectors
+3281,1.B.2,Oil and Natural Gas
+3282,3.C.1,Emissions from biomass burning
+3283,4.C,Incineration and Open Burning of Waste
+3284,1.A.1.a,Main Activity Electricity and Heat Production
+3285,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3286,1.A.2,Manufacturing Industries and Construction
+3287,1.A.3.a,Civil Aviation
+3288,1.A.3.b_noRES,Road Transportation no resuspension
+3289,1.A.3.c,Railways
+3290,1.A.3.d,Water-borne Navigation
+3291,1.A.3.e,Other Transportation
+3292,1.A.4,Residential and other sectors
+3293,1.A.5,Non-Specified
+3294,1.B.1,Solid Fuels
+3295,1.B.2,Oil and Natural Gas
+3296,2.A.1,Cement production
+3297,2.A.2,Lime production
+3298,2.A.3,Glass Production
+3299,2.A.4,Other Process Uses of Carbonates
+3300,2.B,Chemical Industry
+3301,2.C,Metal Industry
+3302,2.D,Non-Energy Products from Fuels and Solvent Use
+3303,3.C.2,Liming
+3304,3.C.3,Urea application
+3305,4.C,Incineration and Open Burning of Waste
+3306,1.A.4,Residential and other sectors
+3307,3.C.1,Emissions from biomass burning
+3308,1.A.1.a,Main Activity Electricity and Heat Production
+3309,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3310,1.A.2,Manufacturing Industries and Construction
+3311,1.A.3.a,Civil Aviation
+3312,1.A.3.b_noRES,Road Transportation no resuspension
+3313,1.A.4,Residential and other sectors
+3314,1.A.5,Non-Specified
+3315,1.B.2,Oil and Natural Gas
+3316,2.A.1,Cement production
+3317,2.A.2,Lime production
+3318,2.A.3,Glass Production
+3319,2.A.4,Other Process Uses of Carbonates
+3320,2.B,Chemical Industry
+3321,2.C,Metal Industry
+3322,2.D,Non-Energy Products from Fuels and Solvent Use
+3323,3.C.3,Urea application
+3324,1.A.1.a,Main Activity Electricity and Heat Production
+3325,1.A.2,Manufacturing Industries and Construction
+3326,1.A.4,Residential and other sectors
+3327,1.B.1,Solid Fuels
+3328,3.C.1,Emissions from biomass burning
+3329,1.A.1.a,Main Activity Electricity and Heat Production
+3330,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3331,1.A.2,Manufacturing Industries and Construction
+3332,1.A.3.a,Civil Aviation
+3333,1.A.3.b_noRES,Road Transportation no resuspension
+3334,1.A.3.c,Railways
+3335,1.A.3.e,Other Transportation
+3336,1.A.4,Residential and other sectors
+3337,1.A.5,Non-Specified
+3338,1.B.1,Solid Fuels
+3339,1.B.2,Oil and Natural Gas
+3340,2.A.1,Cement production
+3341,2.A.3,Glass Production
+3342,2.A.4,Other Process Uses of Carbonates
+3343,2.B,Chemical Industry
+3344,2.C,Metal Industry
+3345,2.D,Non-Energy Products from Fuels and Solvent Use
+3346,3.C.2,Liming
+3347,3.C.3,Urea application
+3348,1.A.1.a,Main Activity Electricity and Heat Production
+3349,1.A.2,Manufacturing Industries and Construction
+3350,1.A.3.b_noRES,Road Transportation no resuspension
+3351,1.A.4,Residential and other sectors
+3352,1.B.1,Solid Fuels
+3353,1.B.2,Oil and Natural Gas
+3354,3.C.1,Emissions from biomass burning
+3355,1.A.1.a,Main Activity Electricity and Heat Production
+3356,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3357,1.A.2,Manufacturing Industries and Construction
+3358,1.A.3.a,Civil Aviation
+3359,1.A.3.b_noRES,Road Transportation no resuspension
+3360,1.A.3.e,Other Transportation
+3361,1.A.4,Residential and other sectors
+3362,1.B.2,Oil and Natural Gas
+3363,2.A.1,Cement production
+3364,2.A.2,Lime production
+3365,2.A.3,Glass Production
+3366,2.A.4,Other Process Uses of Carbonates
+3367,2.D,Non-Energy Products from Fuels and Solvent Use
+3368,3.C.3,Urea application
+3369,1.A.1.a,Main Activity Electricity and Heat Production
+3370,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3371,1.A.2,Manufacturing Industries and Construction
+3372,1.A.3.b_noRES,Road Transportation no resuspension
+3373,1.A.4,Residential and other sectors
+3374,1.B.1,Solid Fuels
+3375,1.B.2,Oil and Natural Gas
+3376,3.C.1,Emissions from biomass burning
+3377,1.A.1.a,Main Activity Electricity and Heat Production
+3378,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3379,1.A.2,Manufacturing Industries and Construction
+3380,1.A.3.a,Civil Aviation
+3381,1.A.3.b_noRES,Road Transportation no resuspension
+3382,1.A.3.d,Water-borne Navigation
+3383,1.A.4,Residential and other sectors
+3384,1.A.5,Non-Specified
+3385,1.B.1,Solid Fuels
+3386,1.B.2,Oil and Natural Gas
+3387,2.A.1,Cement production
+3388,2.A.2,Lime production
+3389,2.A.3,Glass Production
+3390,2.A.4,Other Process Uses of Carbonates
+3391,2.B,Chemical Industry
+3392,2.C,Metal Industry
+3393,2.D,Non-Energy Products from Fuels and Solvent Use
+3394,3.C.2,Liming
+3395,3.C.3,Urea application
+3396,4.C,Incineration and Open Burning of Waste
+3397,1.A.1.a,Main Activity Electricity and Heat Production
+3398,1.A.2,Manufacturing Industries and Construction
+3399,1.A.3.b_noRES,Road Transportation no resuspension
+3400,1.A.3.c,Railways
+3401,1.A.3.d,Water-borne Navigation
+3402,1.A.4,Residential and other sectors
+3403,1.B.1,Solid Fuels
+3404,1.B.2,Oil and Natural Gas
+3405,3.C.1,Emissions from biomass burning
+3406,1.A.1.a,Main Activity Electricity and Heat Production
+3407,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3408,1.A.2,Manufacturing Industries and Construction
+3409,1.A.3.a,Civil Aviation
+3410,1.A.3.b_noRES,Road Transportation no resuspension
+3411,1.A.3.c,Railways
+3412,1.A.3.d,Water-borne Navigation
+3413,1.A.4,Residential and other sectors
+3414,1.A.5,Non-Specified
+3415,1.B.1,Solid Fuels
+3416,1.B.2,Oil and Natural Gas
+3417,2.A.1,Cement production
+3418,2.A.2,Lime production
+3419,2.A.3,Glass Production
+3420,2.A.4,Other Process Uses of Carbonates
+3421,2.B,Chemical Industry
+3422,2.C,Metal Industry
+3423,2.D,Non-Energy Products from Fuels and Solvent Use
+3424,3.C.2,Liming
+3425,3.C.3,Urea application
+3426,4.C,Incineration and Open Burning of Waste
+3427,1.A.4,Residential and other sectors
+3428,1.A.1.a,Main Activity Electricity and Heat Production
+3429,1.A.2,Manufacturing Industries and Construction
+3430,1.A.3.a,Civil Aviation
+3431,1.A.3.b_noRES,Road Transportation no resuspension
+3432,1.A.3.d,Water-borne Navigation
+3433,1.A.3.e,Other Transportation
+3434,1.A.4,Residential and other sectors
+3435,1.A.5,Non-Specified
+3436,1.B.1,Solid Fuels
+3437,1.B.2,Oil and Natural Gas
+3438,2.A.3,Glass Production
+3439,2.A.4,Other Process Uses of Carbonates
+3440,2.D,Non-Energy Products from Fuels and Solvent Use
+3441,4.C,Incineration and Open Burning of Waste
+3442,1.A.1.a,Main Activity Electricity and Heat Production
+3443,1.A.2,Manufacturing Industries and Construction
+3444,1.A.4,Residential and other sectors
+3445,1.A.5,Non-Specified
+3446,1.B.1,Solid Fuels
+3447,1.B.2,Oil and Natural Gas
+3448,3.C.1,Emissions from biomass burning
+3449,1.A.1.a,Main Activity Electricity and Heat Production
+3450,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3451,1.A.2,Manufacturing Industries and Construction
+3452,1.A.3.a,Civil Aviation
+3453,1.A.3.b_noRES,Road Transportation no resuspension
+3454,1.A.3.d,Water-borne Navigation
+3455,1.A.3.e,Other Transportation
+3456,1.A.4,Residential and other sectors
+3457,1.A.5,Non-Specified
+3458,1.B.2,Oil and Natural Gas
+3459,2.A.1,Cement production
+3460,2.A.2,Lime production
+3461,2.A.3,Glass Production
+3462,2.A.4,Other Process Uses of Carbonates
+3463,2.D,Non-Energy Products from Fuels and Solvent Use
+3464,4.C,Incineration and Open Burning of Waste
+3465,1.A.1.a,Main Activity Electricity and Heat Production
+3466,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3467,1.A.2,Manufacturing Industries and Construction
+3468,1.A.3.b_noRES,Road Transportation no resuspension
+3469,1.A.3.c,Railways
+3470,1.A.4,Residential and other sectors
+3471,1.A.5,Non-Specified
+3472,1.B.2,Oil and Natural Gas
+3473,3.C.1,Emissions from biomass burning
+3474,4.C,Incineration and Open Burning of Waste
+3475,1.A.1.a,Main Activity Electricity and Heat Production
+3476,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3477,1.A.2,Manufacturing Industries and Construction
+3478,1.A.3.a,Civil Aviation
+3479,1.A.3.b_noRES,Road Transportation no resuspension
+3480,1.A.3.c,Railways
+3481,1.A.3.d,Water-borne Navigation
+3482,1.A.3.e,Other Transportation
+3483,1.A.4,Residential and other sectors
+3484,1.A.5,Non-Specified
+3485,1.B.1,Solid Fuels
+3486,1.B.2,Oil and Natural Gas
+3487,2.A.1,Cement production
+3488,2.A.2,Lime production
+3489,2.A.3,Glass Production
+3490,2.A.4,Other Process Uses of Carbonates
+3491,2.B,Chemical Industry
+3492,2.C,Metal Industry
+3493,2.D,Non-Energy Products from Fuels and Solvent Use
+3494,3.C.2,Liming
+3495,3.C.3,Urea application
+3496,4.C,Incineration and Open Burning of Waste
+3497,3.C.1,Emissions from biomass burning
+3498,1.A.1.a,Main Activity Electricity and Heat Production
+3499,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3500,1.A.2,Manufacturing Industries and Construction
+3501,1.A.3.b_noRES,Road Transportation no resuspension
+3502,1.A.4,Residential and other sectors
+3503,1.A.5,Non-Specified
+3504,2.A.1,Cement production
+3505,2.A.3,Glass Production
+3506,2.D,Non-Energy Products from Fuels and Solvent Use
+3507,1.A.4,Residential and other sectors
+3508,1.A.5,Non-Specified
+3509,1.B.1,Solid Fuels
+3510,3.C.1,Emissions from biomass burning
+3511,1.A.1.a,Main Activity Electricity and Heat Production
+3512,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3513,1.A.2,Manufacturing Industries and Construction
+3514,1.A.3.b_noRES,Road Transportation no resuspension
+3515,1.A.3.e,Other Transportation
+3516,1.A.4,Residential and other sectors
+3517,1.A.5,Non-Specified
+3518,1.B.1,Solid Fuels
+3519,1.B.2,Oil and Natural Gas
+3520,2.A.1,Cement production
+3521,2.A.3,Glass Production
+3522,2.B,Chemical Industry
+3523,2.C,Metal Industry
+3524,2.D,Non-Energy Products from Fuels and Solvent Use
+3525,3.C.2,Liming
+3526,3.C.3,Urea application
+3527,4.C,Incineration and Open Burning of Waste
+3528,1.A.1.a,Main Activity Electricity and Heat Production
+3529,1.A.2,Manufacturing Industries and Construction
+3530,1.A.3.b_noRES,Road Transportation no resuspension
+3531,1.A.3.c,Railways
+3532,1.A.3.d,Water-borne Navigation
+3533,1.A.4,Residential and other sectors
+3534,1.A.5,Non-Specified
+3535,1.B.1,Solid Fuels
+3536,1.B.2,Oil and Natural Gas
+3537,3.C.1,Emissions from biomass burning
+3538,4.C,Incineration and Open Burning of Waste
+3539,1.A.1.a,Main Activity Electricity and Heat Production
+3540,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3541,1.A.2,Manufacturing Industries and Construction
+3542,1.A.3.a,Civil Aviation
+3543,1.A.3.b_noRES,Road Transportation no resuspension
+3544,1.A.3.c,Railways
+3545,1.A.3.d,Water-borne Navigation
+3546,1.A.3.e,Other Transportation
+3547,1.A.4,Residential and other sectors
+3548,1.A.5,Non-Specified
+3549,1.B.1,Solid Fuels
+3550,1.B.2,Oil and Natural Gas
+3551,2.A.1,Cement production
+3552,2.A.2,Lime production
+3553,2.A.3,Glass Production
+3554,2.A.4,Other Process Uses of Carbonates
+3555,2.B,Chemical Industry
+3556,2.C,Metal Industry
+3557,2.D,Non-Energy Products from Fuels and Solvent Use
+3558,3.C.2,Liming
+3559,3.C.3,Urea application
+3560,4.C,Incineration and Open Burning of Waste
+3561,1.A.1.a,Main Activity Electricity and Heat Production
+3562,1.A.2,Manufacturing Industries and Construction
+3563,1.A.3.b_noRES,Road Transportation no resuspension
+3564,1.A.3.c,Railways
+3565,1.A.4,Residential and other sectors
+3566,1.B.1,Solid Fuels
+3567,1.B.2,Oil and Natural Gas
+3568,3.C.1,Emissions from biomass burning
+3569,1.A.1.a,Main Activity Electricity and Heat Production
+3570,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3571,1.A.2,Manufacturing Industries and Construction
+3572,1.A.3.a,Civil Aviation
+3573,1.A.3.b_noRES,Road Transportation no resuspension
+3574,1.A.3.d,Water-borne Navigation
+3575,1.A.3.e,Other Transportation
+3576,1.A.4,Residential and other sectors
+3577,1.B.2,Oil and Natural Gas
+3578,2.A.1,Cement production
+3579,2.A.2,Lime production
+3580,2.A.3,Glass Production
+3581,2.A.4,Other Process Uses of Carbonates
+3582,2.C,Metal Industry
+3583,2.D,Non-Energy Products from Fuels and Solvent Use
+3584,3.C.3,Urea application
+3585,4.C,Incineration and Open Burning of Waste
+3586,1.A.1.a,Main Activity Electricity and Heat Production
+3587,1.A.2,Manufacturing Industries and Construction
+3588,1.A.4,Residential and other sectors
+3589,1.A.5,Non-Specified
+3590,1.B.1,Solid Fuels
+3591,1.B.2,Oil and Natural Gas
+3592,3.C.1,Emissions from biomass burning
+3593,1.A.1.a,Main Activity Electricity and Heat Production
+3594,1.A.2,Manufacturing Industries and Construction
+3595,1.A.3.a,Civil Aviation
+3596,1.A.3.b_noRES,Road Transportation no resuspension
+3597,1.A.3.d,Water-borne Navigation
+3598,1.A.3.e,Other Transportation
+3599,1.A.4,Residential and other sectors
+3600,1.A.5,Non-Specified
+3601,1.B.2,Oil and Natural Gas
+3602,2.A.3,Glass Production
+3603,2.A.4,Other Process Uses of Carbonates
+3604,2.D,Non-Energy Products from Fuels and Solvent Use
+3605,3.C.3,Urea application
+3606,1.A.4,Residential and other sectors
+3607,1.B.1,Solid Fuels
+3608,3.C.1,Emissions from biomass burning
+3609,1.A.1.a,Main Activity Electricity and Heat Production
+3610,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3611,1.A.2,Manufacturing Industries and Construction
+3612,1.A.3.b_noRES,Road Transportation no resuspension
+3613,1.A.4,Residential and other sectors
+3614,1.B.2,Oil and Natural Gas
+3615,2.A.1,Cement production
+3616,2.A.3,Glass Production
+3617,2.A.4,Other Process Uses of Carbonates
+3618,2.B,Chemical Industry
+3619,2.C,Metal Industry
+3620,2.D,Non-Energy Products from Fuels and Solvent Use
+3621,3.C.3,Urea application
+3622,4.C,Incineration and Open Burning of Waste
+3623,1.A.1.a,Main Activity Electricity and Heat Production
+3624,1.A.2,Manufacturing Industries and Construction
+3625,1.A.4,Residential and other sectors
+3626,1.B.1,Solid Fuels
+3627,3.C.1,Emissions from biomass burning
+3628,1.A.1.a,Main Activity Electricity and Heat Production
+3629,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3630,1.A.2,Manufacturing Industries and Construction
+3631,1.A.3.a,Civil Aviation
+3632,1.A.3.b_noRES,Road Transportation no resuspension
+3633,1.A.3.c,Railways
+3634,1.A.3.d,Water-borne Navigation
+3635,1.A.3.e,Other Transportation
+3636,1.A.4,Residential and other sectors
+3637,1.A.5,Non-Specified
+3638,1.B.2,Oil and Natural Gas
+3639,2.A.1,Cement production
+3640,2.A.3,Glass Production
+3641,2.A.4,Other Process Uses of Carbonates
+3642,2.D,Non-Energy Products from Fuels and Solvent Use
+3643,3.C.3,Urea application
+3644,1.A.1.a,Main Activity Electricity and Heat Production
+3645,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3646,1.A.2,Manufacturing Industries and Construction
+3647,1.A.3.b_noRES,Road Transportation no resuspension
+3648,1.A.3.c,Railways
+3649,1.A.3.d,Water-borne Navigation
+3650,1.A.3.e,Other Transportation
+3651,1.A.4,Residential and other sectors
+3652,1.A.5,Non-Specified
+3653,1.B.2,Oil and Natural Gas
+3654,3.C.1,Emissions from biomass burning
+3655,1.A.1.a,Main Activity Electricity and Heat Production
+3656,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3657,1.A.2,Manufacturing Industries and Construction
+3658,1.A.3.a,Civil Aviation
+3659,1.A.3.b_noRES,Road Transportation no resuspension
+3660,1.A.3.c,Railways
+3661,1.A.3.d,Water-borne Navigation
+3662,1.A.3.e,Other Transportation
+3663,1.A.4,Residential and other sectors
+3664,1.A.5,Non-Specified
+3665,1.B.1,Solid Fuels
+3666,1.B.2,Oil and Natural Gas
+3667,2.A.1,Cement production
+3668,2.A.2,Lime production
+3669,2.A.3,Glass Production
+3670,2.A.4,Other Process Uses of Carbonates
+3671,2.B,Chemical Industry
+3672,2.C,Metal Industry
+3673,2.D,Non-Energy Products from Fuels and Solvent Use
+3674,3.C.2,Liming
+3675,3.C.3,Urea application
+3676,4.C,Incineration and Open Burning of Waste
+3677,1.A.1.a,Main Activity Electricity and Heat Production
+3678,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3679,1.A.2,Manufacturing Industries and Construction
+3680,1.A.4,Residential and other sectors
+3681,1.A.5,Non-Specified
+3682,1.B.1,Solid Fuels
+3683,1.B.2,Oil and Natural Gas
+3684,3.C.1,Emissions from biomass burning
+3685,4.C,Incineration and Open Burning of Waste
+3686,1.A.1.a,Main Activity Electricity and Heat Production
+3687,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3688,1.A.2,Manufacturing Industries and Construction
+3689,1.A.3.a,Civil Aviation
+3690,1.A.3.b_noRES,Road Transportation no resuspension
+3691,1.A.3.c,Railways
+3692,1.A.3.d,Water-borne Navigation
+3693,1.A.3.e,Other Transportation
+3694,1.A.4,Residential and other sectors
+3695,1.A.5,Non-Specified
+3696,1.B.1,Solid Fuels
+3697,1.B.2,Oil and Natural Gas
+3698,2.A.1,Cement production
+3699,2.A.2,Lime production
+3700,2.A.3,Glass Production
+3701,2.A.4,Other Process Uses of Carbonates
+3702,2.B,Chemical Industry
+3703,2.C,Metal Industry
+3704,2.D,Non-Energy Products from Fuels and Solvent Use
+3705,3.C.2,Liming
+3706,3.C.3,Urea application
+3707,1.A.1.a,Main Activity Electricity and Heat Production
+3708,1.A.2,Manufacturing Industries and Construction
+3709,1.A.4,Residential and other sectors
+3710,1.B.1,Solid Fuels
+3711,3.C.1,Emissions from biomass burning
+3712,1.A.1.a,Main Activity Electricity and Heat Production
+3713,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3714,1.A.2,Manufacturing Industries and Construction
+3715,1.A.3.a,Civil Aviation
+3716,1.A.3.b_noRES,Road Transportation no resuspension
+3717,1.A.3.c,Railways
+3718,1.A.3.d,Water-borne Navigation
+3719,1.A.3.e,Other Transportation
+3720,1.A.4,Residential and other sectors
+3721,1.A.5,Non-Specified
+3722,1.B.2,Oil and Natural Gas
+3723,2.A.1,Cement production
+3724,2.A.3,Glass Production
+3725,2.A.4,Other Process Uses of Carbonates
+3726,2.D,Non-Energy Products from Fuels and Solvent Use
+3727,3.C.3,Urea application
+3728,1.A.4,Residential and other sectors
+3729,3.C.1,Emissions from biomass burning
+3730,1.A.1.a,Main Activity Electricity and Heat Production
+3731,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3732,1.A.2,Manufacturing Industries and Construction
+3733,1.A.3.a,Civil Aviation
+3734,1.A.3.b_noRES,Road Transportation no resuspension
+3735,1.A.4,Residential and other sectors
+3736,1.B.2,Oil and Natural Gas
+3737,2.A.1,Cement production
+3738,2.A.2,Lime production
+3739,2.A.3,Glass Production
+3740,2.A.4,Other Process Uses of Carbonates
+3741,2.B,Chemical Industry
+3742,2.C,Metal Industry
+3743,2.D,Non-Energy Products from Fuels and Solvent Use
+3744,3.C.2,Liming
+3745,3.C.3,Urea application
+3746,1.A.1.a,Main Activity Electricity and Heat Production
+3747,1.A.2,Manufacturing Industries and Construction
+3748,1.A.4,Residential and other sectors
+3749,1.A.5,Non-Specified
+3750,1.B.1,Solid Fuels
+3751,3.C.1,Emissions from biomass burning
+3752,4.C,Incineration and Open Burning of Waste
+3753,1.A.1.a,Main Activity Electricity and Heat Production
+3754,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3755,1.A.2,Manufacturing Industries and Construction
+3756,1.A.3.b_noRES,Road Transportation no resuspension
+3757,1.A.3.c,Railways
+3758,1.A.3.d,Water-borne Navigation
+3759,1.A.3.e,Other Transportation
+3760,1.A.4,Residential and other sectors
+3761,1.A.5,Non-Specified
+3762,1.B.1,Solid Fuels
+3763,1.B.2,Oil and Natural Gas
+3764,2.A.1,Cement production
+3765,2.A.2,Lime production
+3766,2.A.3,Glass Production
+3767,2.A.4,Other Process Uses of Carbonates
+3768,2.B,Chemical Industry
+3769,2.C,Metal Industry
+3770,2.D,Non-Energy Products from Fuels and Solvent Use
+3771,3.C.2,Liming
+3772,3.C.3,Urea application
+3773,4.C,Incineration and Open Burning of Waste
+3774,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3775,1.A.2,Manufacturing Industries and Construction
+3776,1.A.4,Residential and other sectors
+3777,1.B.1,Solid Fuels
+3778,3.C.1,Emissions from biomass burning
+3779,1.A.1.a,Main Activity Electricity and Heat Production
+3780,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3781,1.A.2,Manufacturing Industries and Construction
+3782,1.A.3.a,Civil Aviation
+3783,1.A.3.b_noRES,Road Transportation no resuspension
+3784,1.A.3.c,Railways
+3785,1.A.3.d,Water-borne Navigation
+3786,1.A.4,Residential and other sectors
+3787,1.A.5,Non-Specified
+3788,1.B.2,Oil and Natural Gas
+3789,2.A.1,Cement production
+3790,2.A.3,Glass Production
+3791,2.A.4,Other Process Uses of Carbonates
+3792,2.D,Non-Energy Products from Fuels and Solvent Use
+3793,3.C.2,Liming
+3794,3.C.3,Urea application
+3795,1.A.3.d,Water-borne Navigation
+3796,1.A.3.d,Water-borne Navigation
+3797,1.A.1.a,Main Activity Electricity and Heat Production
+3798,1.A.2,Manufacturing Industries and Construction
+3799,1.A.4,Residential and other sectors
+3800,1.B.1,Solid Fuels
+3801,3.C.1,Emissions from biomass burning
+3802,1.A.1.a,Main Activity Electricity and Heat Production
+3803,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3804,1.A.2,Manufacturing Industries and Construction
+3805,1.A.3.a,Civil Aviation
+3806,1.A.3.b_noRES,Road Transportation no resuspension
+3807,1.A.3.c,Railways
+3808,1.A.3.d,Water-borne Navigation
+3809,1.A.4,Residential and other sectors
+3810,1.A.5,Non-Specified
+3811,1.B.2,Oil and Natural Gas
+3812,2.A.1,Cement production
+3813,2.A.3,Glass Production
+3814,2.A.4,Other Process Uses of Carbonates
+3815,2.C,Metal Industry
+3816,2.D,Non-Energy Products from Fuels and Solvent Use
+3817,3.C.2,Liming
+3818,3.C.3,Urea application
+3819,1.A.1.a,Main Activity Electricity and Heat Production
+3820,1.A.4,Residential and other sectors
+3821,3.C.1,Emissions from biomass burning
+3822,4.C,Incineration and Open Burning of Waste
+3823,1.A.1.a,Main Activity Electricity and Heat Production
+3824,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3825,1.A.2,Manufacturing Industries and Construction
+3826,1.A.3.b_noRES,Road Transportation no resuspension
+3827,1.A.3.d,Water-borne Navigation
+3828,1.A.4,Residential and other sectors
+3829,1.A.5,Non-Specified
+3830,1.B.2,Oil and Natural Gas
+3831,2.A.1,Cement production
+3832,2.A.2,Lime production
+3833,2.A.3,Glass Production
+3834,2.A.4,Other Process Uses of Carbonates
+3835,2.B,Chemical Industry
+3836,2.C,Metal Industry
+3837,2.D,Non-Energy Products from Fuels and Solvent Use
+3838,3.C.3,Urea application
+3839,4.C,Incineration and Open Burning of Waste
+3840,1.A.1.a,Main Activity Electricity and Heat Production
+3841,1.A.2,Manufacturing Industries and Construction
+3842,1.A.3.a,Civil Aviation
+3843,1.A.3.b_noRES,Road Transportation no resuspension
+3844,1.A.3.c,Railways
+3845,1.A.3.d,Water-borne Navigation
+3846,1.A.4,Residential and other sectors
+3847,1.A.5,Non-Specified
+3848,1.B.1,Solid Fuels
+3849,1.B.2,Oil and Natural Gas
+3850,2.A.3,Glass Production
+3851,1.A.1.a,Main Activity Electricity and Heat Production
+3852,1.A.2,Manufacturing Industries and Construction
+3853,1.A.4,Residential and other sectors
+3854,1.A.5,Non-Specified
+3855,1.B.1,Solid Fuels
+3856,1.B.2,Oil and Natural Gas
+3857,3.C.1,Emissions from biomass burning
+3858,1.A.1.a,Main Activity Electricity and Heat Production
+3859,1.A.2,Manufacturing Industries and Construction
+3860,1.A.3.a,Civil Aviation
+3861,1.A.3.b_noRES,Road Transportation no resuspension
+3862,1.A.3.d,Water-borne Navigation
+3863,1.A.3.e,Other Transportation
+3864,1.A.4,Residential and other sectors
+3865,1.A.5,Non-Specified
+3866,1.B.2,Oil and Natural Gas
+3867,2.A.3,Glass Production
+3868,2.D,Non-Energy Products from Fuels and Solvent Use
+3869,1.A.1.a,Main Activity Electricity and Heat Production
+3870,1.A.2,Manufacturing Industries and Construction
+3871,1.A.4,Residential and other sectors
+3872,1.B.1,Solid Fuels
+3873,3.C.1,Emissions from biomass burning
+3874,1.A.1.a,Main Activity Electricity and Heat Production
+3875,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3876,1.A.2,Manufacturing Industries and Construction
+3877,1.A.3.a,Civil Aviation
+3878,1.A.3.b_noRES,Road Transportation no resuspension
+3879,1.A.3.c,Railways
+3880,1.A.3.d,Water-borne Navigation
+3881,1.A.3.e,Other Transportation
+3882,1.A.4,Residential and other sectors
+3883,1.A.5,Non-Specified
+3884,1.B.2,Oil and Natural Gas
+3885,2.A.1,Cement production
+3886,2.A.3,Glass Production
+3887,2.A.4,Other Process Uses of Carbonates
+3888,2.D,Non-Energy Products from Fuels and Solvent Use
+3889,3.C.3,Urea application
+3890,1.A.1.a,Main Activity Electricity and Heat Production
+3891,1.A.2,Manufacturing Industries and Construction
+3892,1.A.4,Residential and other sectors
+3893,1.B.1,Solid Fuels
+3894,3.C.1,Emissions from biomass burning
+3895,1.A.1.a,Main Activity Electricity and Heat Production
+3896,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3897,1.A.2,Manufacturing Industries and Construction
+3898,1.A.3.b_noRES,Road Transportation no resuspension
+3899,1.A.3.e,Other Transportation
+3900,1.A.4,Residential and other sectors
+3901,1.B.2,Oil and Natural Gas
+3902,2.A.1,Cement production
+3903,2.A.3,Glass Production
+3904,2.A.4,Other Process Uses of Carbonates
+3905,2.C,Metal Industry
+3906,2.D,Non-Energy Products from Fuels and Solvent Use
+3907,3.C.2,Liming
+3908,3.C.3,Urea application
+3909,1.A.1.a,Main Activity Electricity and Heat Production
+3910,1.A.2,Manufacturing Industries and Construction
+3911,1.A.4,Residential and other sectors
+3912,1.B.1,Solid Fuels
+3913,3.C.1,Emissions from biomass burning
+3914,1.A.1.a,Main Activity Electricity and Heat Production
+3915,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3916,1.A.2,Manufacturing Industries and Construction
+3917,1.A.3.a,Civil Aviation
+3918,1.A.3.b_noRES,Road Transportation no resuspension
+3919,1.A.3.c,Railways
+3920,1.A.3.d,Water-borne Navigation
+3921,1.A.3.e,Other Transportation
+3922,1.A.4,Residential and other sectors
+3923,1.A.5,Non-Specified
+3924,1.B.2,Oil and Natural Gas
+3925,2.A.3,Glass Production
+3926,2.B,Chemical Industry
+3927,2.D,Non-Energy Products from Fuels and Solvent Use
+3928,3.C.3,Urea application
+3929,1.A.1.a,Main Activity Electricity and Heat Production
+3930,1.A.2,Manufacturing Industries and Construction
+3931,1.A.4,Residential and other sectors
+3932,1.A.5,Non-Specified
+3933,1.B.1,Solid Fuels
+3934,1.A.1.a,Main Activity Electricity and Heat Production
+3935,1.A.2,Manufacturing Industries and Construction
+3936,1.A.3.a,Civil Aviation
+3937,1.A.3.b_noRES,Road Transportation no resuspension
+3938,1.A.3.d,Water-borne Navigation
+3939,1.A.3.e,Other Transportation
+3940,1.A.4,Residential and other sectors
+3941,1.A.5,Non-Specified
+3942,1.B.2,Oil and Natural Gas
+3943,2.A.3,Glass Production
+3944,2.D,Non-Energy Products from Fuels and Solvent Use
+3945,4.C,Incineration and Open Burning of Waste
+3946,1.A.1.a,Main Activity Electricity and Heat Production
+3947,1.A.2,Manufacturing Industries and Construction
+3948,1.A.4,Residential and other sectors
+3949,1.B.1,Solid Fuels
+3950,3.C.1,Emissions from biomass burning
+3951,1.A.1.a,Main Activity Electricity and Heat Production
+3952,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3953,1.A.2,Manufacturing Industries and Construction
+3954,1.A.3.a,Civil Aviation
+3955,1.A.3.b_noRES,Road Transportation no resuspension
+3956,1.A.3.c,Railways
+3957,1.A.3.d,Water-borne Navigation
+3958,1.A.3.e,Other Transportation
+3959,1.A.4,Residential and other sectors
+3960,1.A.5,Non-Specified
+3961,1.B.2,Oil and Natural Gas
+3962,2.A.3,Glass Production
+3963,2.A.4,Other Process Uses of Carbonates
+3964,2.D,Non-Energy Products from Fuels and Solvent Use
+3965,1.A.1.a,Main Activity Electricity and Heat Production
+3966,1.A.2,Manufacturing Industries and Construction
+3967,1.A.4,Residential and other sectors
+3968,1.A.5,Non-Specified
+3969,1.B.1,Solid Fuels
+3970,3.C.1,Emissions from biomass burning
+3971,1.A.1.a,Main Activity Electricity and Heat Production
+3972,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3973,1.A.2,Manufacturing Industries and Construction
+3974,1.A.3.a,Civil Aviation
+3975,1.A.3.b_noRES,Road Transportation no resuspension
+3976,1.A.3.d,Water-borne Navigation
+3977,1.A.3.e,Other Transportation
+3978,1.A.4,Residential and other sectors
+3979,1.A.5,Non-Specified
+3980,1.B.2,Oil and Natural Gas
+3981,2.A.1,Cement production
+3982,2.A.3,Glass Production
+3983,2.A.4,Other Process Uses of Carbonates
+3984,2.C,Metal Industry
+3985,2.D,Non-Energy Products from Fuels and Solvent Use
+3986,3.C.3,Urea application
+3987,4.C,Incineration and Open Burning of Waste
+3988,1.A.1.a,Main Activity Electricity and Heat Production
+3989,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3990,1.A.2,Manufacturing Industries and Construction
+3991,1.A.3.b_noRES,Road Transportation no resuspension
+3992,1.A.4,Residential and other sectors
+3993,1.B.2,Oil and Natural Gas
+3994,3.C.1,Emissions from biomass burning
+3995,4.C,Incineration and Open Burning of Waste
+3996,1.A.1.a,Main Activity Electricity and Heat Production
+3997,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+3998,1.A.2,Manufacturing Industries and Construction
+3999,1.A.3.a,Civil Aviation
+4000,1.A.3.b_noRES,Road Transportation no resuspension
+4001,1.A.3.e,Other Transportation
+4002,1.A.4,Residential and other sectors
+4003,1.A.5,Non-Specified
+4004,1.B.1,Solid Fuels
+4005,1.B.2,Oil and Natural Gas
+4006,2.A.1,Cement production
+4007,2.A.2,Lime production
+4008,2.A.3,Glass Production
+4009,2.A.4,Other Process Uses of Carbonates
+4010,2.B,Chemical Industry
+4011,2.C,Metal Industry
+4012,2.D,Non-Energy Products from Fuels and Solvent Use
+4013,3.C.2,Liming
+4014,3.C.3,Urea application
+4015,4.C,Incineration and Open Burning of Waste
+4016,1.A.1.a,Main Activity Electricity and Heat Production
+4017,1.A.2,Manufacturing Industries and Construction
+4018,1.A.3.b_noRES,Road Transportation no resuspension
+4019,1.A.4,Residential and other sectors
+4020,1.B.2,Oil and Natural Gas
+4021,3.C.1,Emissions from biomass burning
+4022,4.C,Incineration and Open Burning of Waste
+4023,1.A.1.a,Main Activity Electricity and Heat Production
+4024,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4025,1.A.2,Manufacturing Industries and Construction
+4026,1.A.3.a,Civil Aviation
+4027,1.A.3.b_noRES,Road Transportation no resuspension
+4028,1.A.3.c,Railways
+4029,1.A.4,Residential and other sectors
+4030,1.A.5,Non-Specified
+4031,1.B.1,Solid Fuels
+4032,1.B.2,Oil and Natural Gas
+4033,2.A.1,Cement production
+4034,2.A.2,Lime production
+4035,2.A.3,Glass Production
+4036,2.A.4,Other Process Uses of Carbonates
+4037,2.B,Chemical Industry
+4038,2.C,Metal Industry
+4039,2.D,Non-Energy Products from Fuels and Solvent Use
+4040,3.C.2,Liming
+4041,3.C.3,Urea application
+4042,4.C,Incineration and Open Burning of Waste
+4043,1.A.1.a,Main Activity Electricity and Heat Production
+4044,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4045,1.A.2,Manufacturing Industries and Construction
+4046,1.A.3.b_noRES,Road Transportation no resuspension
+4047,1.A.3.d,Water-borne Navigation
+4048,1.A.4,Residential and other sectors
+4049,1.A.5,Non-Specified
+4050,1.B.2,Oil and Natural Gas
+4051,3.C.1,Emissions from biomass burning
+4052,4.C,Incineration and Open Burning of Waste
+4053,1.A.1.a,Main Activity Electricity and Heat Production
+4054,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4055,1.A.2,Manufacturing Industries and Construction
+4056,1.A.3.a,Civil Aviation
+4057,1.A.3.b_noRES,Road Transportation no resuspension
+4058,1.A.3.c,Railways
+4059,1.A.3.d,Water-borne Navigation
+4060,1.A.3.e,Other Transportation
+4061,1.A.4,Residential and other sectors
+4062,1.A.5,Non-Specified
+4063,1.B.1,Solid Fuels
+4064,1.B.2,Oil and Natural Gas
+4065,2.A.1,Cement production
+4066,2.A.2,Lime production
+4067,2.A.3,Glass Production
+4068,2.A.4,Other Process Uses of Carbonates
+4069,2.B,Chemical Industry
+4070,2.C,Metal Industry
+4071,2.D,Non-Energy Products from Fuels and Solvent Use
+4072,3.C.2,Liming
+4073,3.C.3,Urea application
+4074,4.C,Incineration and Open Burning of Waste
+4075,1.A.1.a,Main Activity Electricity and Heat Production
+4076,1.A.2,Manufacturing Industries and Construction
+4077,1.A.4,Residential and other sectors
+4078,1.B.1,Solid Fuels
+4079,3.C.1,Emissions from biomass burning
+4080,1.A.1.a,Main Activity Electricity and Heat Production
+4081,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4082,1.A.2,Manufacturing Industries and Construction
+4083,1.A.3.a,Civil Aviation
+4084,1.A.3.b_noRES,Road Transportation no resuspension
+4085,1.A.3.c,Railways
+4086,1.A.3.d,Water-borne Navigation
+4087,1.A.3.e,Other Transportation
+4088,1.A.4,Residential and other sectors
+4089,1.A.5,Non-Specified
+4090,1.B.1,Solid Fuels
+4091,1.B.2,Oil and Natural Gas
+4092,2.A.3,Glass Production
+4093,2.A.4,Other Process Uses of Carbonates
+4094,2.D,Non-Energy Products from Fuels and Solvent Use
+4095,3.C.3,Urea application
+4096,1.A.1.a,Main Activity Electricity and Heat Production
+4097,1.A.2,Manufacturing Industries and Construction
+4098,1.A.4,Residential and other sectors
+4099,1.B.1,Solid Fuels
+4100,3.C.1,Emissions from biomass burning
+4101,1.A.1.a,Main Activity Electricity and Heat Production
+4102,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4103,1.A.2,Manufacturing Industries and Construction
+4104,1.A.3.a,Civil Aviation
+4105,1.A.3.b_noRES,Road Transportation no resuspension
+4106,1.A.3.c,Railways
+4107,1.A.3.d,Water-borne Navigation
+4108,1.A.3.e,Other Transportation
+4109,1.A.4,Residential and other sectors
+4110,1.A.5,Non-Specified
+4111,1.B.2,Oil and Natural Gas
+4112,2.A.3,Glass Production
+4113,2.A.4,Other Process Uses of Carbonates
+4114,2.D,Non-Energy Products from Fuels and Solvent Use
+4115,3.C.3,Urea application
+4116,1.A.5,Non-Specified
+4117,1.B.1,Solid Fuels
+4118,3.C.1,Emissions from biomass burning
+4119,1.A.1.a,Main Activity Electricity and Heat Production
+4120,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4121,1.A.2,Manufacturing Industries and Construction
+4122,1.A.3.a,Civil Aviation
+4123,1.A.3.b_noRES,Road Transportation no resuspension
+4124,1.A.4,Residential and other sectors
+4125,1.A.5,Non-Specified
+4126,1.B.1,Solid Fuels
+4127,1.B.2,Oil and Natural Gas
+4128,2.A.1,Cement production
+4129,2.A.3,Glass Production
+4130,2.A.4,Other Process Uses of Carbonates
+4131,2.B,Chemical Industry
+4132,2.C,Metal Industry
+4133,2.D,Non-Energy Products from Fuels and Solvent Use
+4134,3.C.2,Liming
+4135,3.C.3,Urea application
+4136,1.A.1.a,Main Activity Electricity and Heat Production
+4137,1.A.2,Manufacturing Industries and Construction
+4138,1.A.4,Residential and other sectors
+4139,1.A.5,Non-Specified
+4140,1.B.1,Solid Fuels
+4141,1.A.1.a,Main Activity Electricity and Heat Production
+4142,1.A.2,Manufacturing Industries and Construction
+4143,1.A.3.a,Civil Aviation
+4144,1.A.3.b_noRES,Road Transportation no resuspension
+4145,1.A.3.d,Water-borne Navigation
+4146,1.A.3.e,Other Transportation
+4147,1.A.4,Residential and other sectors
+4148,1.A.5,Non-Specified
+4149,1.B.2,Oil and Natural Gas
+4150,2.A.3,Glass Production
+4151,2.D,Non-Energy Products from Fuels and Solvent Use
+4152,1.A.1.a,Main Activity Electricity and Heat Production
+4153,1.A.2,Manufacturing Industries and Construction
+4154,1.A.4,Residential and other sectors
+4155,1.B.1,Solid Fuels
+4156,3.C.1,Emissions from biomass burning
+4157,1.A.1.a,Main Activity Electricity and Heat Production
+4158,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4159,1.A.2,Manufacturing Industries and Construction
+4160,1.A.3.a,Civil Aviation
+4161,1.A.3.b_noRES,Road Transportation no resuspension
+4162,1.A.3.c,Railways
+4163,1.A.3.d,Water-borne Navigation
+4164,1.A.3.e,Other Transportation
+4165,1.A.4,Residential and other sectors
+4166,1.A.5,Non-Specified
+4167,1.B.2,Oil and Natural Gas
+4168,2.A.1,Cement production
+4169,2.A.3,Glass Production
+4170,2.A.4,Other Process Uses of Carbonates
+4171,2.D,Non-Energy Products from Fuels and Solvent Use
+4172,3.C.3,Urea application
+4173,1.A.1.a,Main Activity Electricity and Heat Production
+4174,1.A.2,Manufacturing Industries and Construction
+4175,1.A.4,Residential and other sectors
+4176,1.B.1,Solid Fuels
+4177,3.C.1,Emissions from biomass burning
+4178,1.A.1.a,Main Activity Electricity and Heat Production
+4179,1.A.2,Manufacturing Industries and Construction
+4180,1.A.3.b_noRES,Road Transportation no resuspension
+4181,1.A.4,Residential and other sectors
+4182,1.B.2,Oil and Natural Gas
+4183,2.A.1,Cement production
+4184,2.A.3,Glass Production
+4185,2.A.4,Other Process Uses of Carbonates
+4186,2.D,Non-Energy Products from Fuels and Solvent Use
+4187,3.C.3,Urea application
+4188,4.C,Incineration and Open Burning of Waste
+4189,1.A.1.a,Main Activity Electricity and Heat Production
+4190,1.A.2,Manufacturing Industries and Construction
+4191,1.A.3.b_noRES,Road Transportation no resuspension
+4192,1.A.4,Residential and other sectors
+4193,1.B.1,Solid Fuels
+4194,1.B.2,Oil and Natural Gas
+4195,3.C.1,Emissions from biomass burning
+4196,4.C,Incineration and Open Burning of Waste
+4197,1.A.1.a,Main Activity Electricity and Heat Production
+4198,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4199,1.A.2,Manufacturing Industries and Construction
+4200,1.A.3.a,Civil Aviation
+4201,1.A.3.b_noRES,Road Transportation no resuspension
+4202,1.A.3.c,Railways
+4203,1.A.3.d,Water-borne Navigation
+4204,1.A.4,Residential and other sectors
+4205,1.A.5,Non-Specified
+4206,1.B.1,Solid Fuels
+4207,1.B.2,Oil and Natural Gas
+4208,2.A.1,Cement production
+4209,2.A.2,Lime production
+4210,2.A.3,Glass Production
+4211,2.A.4,Other Process Uses of Carbonates
+4212,2.B,Chemical Industry
+4213,2.C,Metal Industry
+4214,2.D,Non-Energy Products from Fuels and Solvent Use
+4215,3.C.2,Liming
+4216,3.C.3,Urea application
+4217,4.C,Incineration and Open Burning of Waste
+4218,1.A.4,Residential and other sectors
+4219,3.C.1,Emissions from biomass burning
+4220,1.A.1.a,Main Activity Electricity and Heat Production
+4221,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4222,1.A.2,Manufacturing Industries and Construction
+4223,1.A.3.b_noRES,Road Transportation no resuspension
+4224,1.A.3.c,Railways
+4225,1.A.4,Residential and other sectors
+4226,1.A.5,Non-Specified
+4227,1.B.1,Solid Fuels
+4228,1.B.2,Oil and Natural Gas
+4229,2.A.1,Cement production
+4230,2.A.2,Lime production
+4231,2.A.3,Glass Production
+4232,2.B,Chemical Industry
+4233,2.C,Metal Industry
+4234,2.D,Non-Energy Products from Fuels and Solvent Use
+4235,3.C.2,Liming
+4236,3.C.3,Urea application
+4237,1.A.4,Residential and other sectors
+4238,3.C.1,Emissions from biomass burning
+4239,1.A.1.a,Main Activity Electricity and Heat Production
+4240,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4241,1.A.2,Manufacturing Industries and Construction
+4242,1.A.3.b_noRES,Road Transportation no resuspension
+4243,1.A.3.e,Other Transportation
+4244,1.A.4,Residential and other sectors
+4245,1.A.5,Non-Specified
+4246,1.B.2,Oil and Natural Gas
+4247,2.A.1,Cement production
+4248,2.A.2,Lime production
+4249,2.A.3,Glass Production
+4250,2.A.4,Other Process Uses of Carbonates
+4251,2.B,Chemical Industry
+4252,2.D,Non-Energy Products from Fuels and Solvent Use
+4253,3.C.2,Liming
+4254,3.C.3,Urea application
+4255,1.A.1.a,Main Activity Electricity and Heat Production
+4256,1.A.2,Manufacturing Industries and Construction
+4257,1.A.4,Residential and other sectors
+4258,1.A.5,Non-Specified
+4259,1.B.1,Solid Fuels
+4260,1.B.2,Oil and Natural Gas
+4261,3.C.1,Emissions from biomass burning
+4262,1.A.1.a,Main Activity Electricity and Heat Production
+4263,1.A.2,Manufacturing Industries and Construction
+4264,1.A.3.a,Civil Aviation
+4265,1.A.3.b_noRES,Road Transportation no resuspension
+4266,1.A.3.d,Water-borne Navigation
+4267,1.A.3.e,Other Transportation
+4268,1.A.4,Residential and other sectors
+4269,1.A.5,Non-Specified
+4270,1.B.2,Oil and Natural Gas
+4271,2.A.3,Glass Production
+4272,2.D,Non-Energy Products from Fuels and Solvent Use
+4273,4.C,Incineration and Open Burning of Waste
+4274,1.A.1.a,Main Activity Electricity and Heat Production
+4275,1.A.2,Manufacturing Industries and Construction
+4276,1.A.4,Residential and other sectors
+4277,1.A.5,Non-Specified
+4278,1.B.1,Solid Fuels
+4279,1.B.2,Oil and Natural Gas
+4280,3.C.1,Emissions from biomass burning
+4281,1.A.1.a,Main Activity Electricity and Heat Production
+4282,1.A.2,Manufacturing Industries and Construction
+4283,1.A.3.a,Civil Aviation
+4284,1.A.3.b_noRES,Road Transportation no resuspension
+4285,1.A.3.d,Water-borne Navigation
+4286,1.A.3.e,Other Transportation
+4287,1.A.4,Residential and other sectors
+4288,1.A.5,Non-Specified
+4289,1.B.2,Oil and Natural Gas
+4290,2.A.3,Glass Production
+4291,2.D,Non-Energy Products from Fuels and Solvent Use
+4292,1.A.1.a,Main Activity Electricity and Heat Production
+4293,1.A.4,Residential and other sectors
+4294,1.B.1,Solid Fuels
+4295,3.C.1,Emissions from biomass burning
+4296,1.A.1.a,Main Activity Electricity and Heat Production
+4297,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4298,1.A.2,Manufacturing Industries and Construction
+4299,1.A.3.a,Civil Aviation
+4300,1.A.3.b_noRES,Road Transportation no resuspension
+4301,1.A.3.e,Other Transportation
+4302,1.A.4,Residential and other sectors
+4303,1.A.5,Non-Specified
+4304,1.B.2,Oil and Natural Gas
+4305,2.A.1,Cement production
+4306,2.A.2,Lime production
+4307,2.A.3,Glass Production
+4308,2.A.4,Other Process Uses of Carbonates
+4309,2.B,Chemical Industry
+4310,2.C,Metal Industry
+4311,2.D,Non-Energy Products from Fuels and Solvent Use
+4312,3.C.2,Liming
+4313,3.C.3,Urea application
+4314,1.A.2,Manufacturing Industries and Construction
+4315,1.A.4,Residential and other sectors
+4316,1.B.1,Solid Fuels
+4317,3.C.1,Emissions from biomass burning
+4318,1.A.1.a,Main Activity Electricity and Heat Production
+4319,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4320,1.A.2,Manufacturing Industries and Construction
+4321,1.A.3.a,Civil Aviation
+4322,1.A.3.b_noRES,Road Transportation no resuspension
+4323,1.A.3.c,Railways
+4324,1.A.3.d,Water-borne Navigation
+4325,1.A.3.e,Other Transportation
+4326,1.A.4,Residential and other sectors
+4327,1.B.1,Solid Fuels
+4328,1.B.2,Oil and Natural Gas
+4329,2.A.1,Cement production
+4330,2.A.2,Lime production
+4331,2.A.3,Glass Production
+4332,2.A.4,Other Process Uses of Carbonates
+4333,2.C,Metal Industry
+4334,2.D,Non-Energy Products from Fuels and Solvent Use
+4335,3.C.2,Liming
+4336,3.C.3,Urea application
+4337,1.A.1.a,Main Activity Electricity and Heat Production
+4338,1.A.3.b_noRES,Road Transportation no resuspension
+4339,1.A.4,Residential and other sectors
+4340,1.B.2,Oil and Natural Gas
+4341,3.C.1,Emissions from biomass burning
+4342,4.C,Incineration and Open Burning of Waste
+4343,1.A.1.a,Main Activity Electricity and Heat Production
+4344,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4345,1.A.2,Manufacturing Industries and Construction
+4346,1.A.3.a,Civil Aviation
+4347,1.A.3.b_noRES,Road Transportation no resuspension
+4348,1.A.3.c,Railways
+4349,1.A.3.d,Water-borne Navigation
+4350,1.A.3.e,Other Transportation
+4351,1.A.4,Residential and other sectors
+4352,1.B.1,Solid Fuels
+4353,1.B.2,Oil and Natural Gas
+4354,2.A.1,Cement production
+4355,2.A.2,Lime production
+4356,2.A.3,Glass Production
+4357,2.A.4,Other Process Uses of Carbonates
+4358,2.B,Chemical Industry
+4359,2.C,Metal Industry
+4360,2.D,Non-Energy Products from Fuels and Solvent Use
+4361,3.C.2,Liming
+4362,3.C.3,Urea application
+4363,4.C,Incineration and Open Burning of Waste
+4364,1.A.1.a,Main Activity Electricity and Heat Production
+4365,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4366,1.A.2,Manufacturing Industries and Construction
+4367,1.A.3.b_noRES,Road Transportation no resuspension
+4368,1.A.4,Residential and other sectors
+4369,1.B.2,Oil and Natural Gas
+4370,3.C.1,Emissions from biomass burning
+4371,4.C,Incineration and Open Burning of Waste
+4372,1.A.1.a,Main Activity Electricity and Heat Production
+4373,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4374,1.A.2,Manufacturing Industries and Construction
+4375,1.A.3.a,Civil Aviation
+4376,1.A.3.b_noRES,Road Transportation no resuspension
+4377,1.A.3.c,Railways
+4378,1.A.3.d,Water-borne Navigation
+4379,1.A.4,Residential and other sectors
+4380,1.A.5,Non-Specified
+4381,1.B.1,Solid Fuels
+4382,1.B.2,Oil and Natural Gas
+4383,2.A.1,Cement production
+4384,2.A.2,Lime production
+4385,2.A.3,Glass Production
+4386,2.A.4,Other Process Uses of Carbonates
+4387,2.B,Chemical Industry
+4388,2.C,Metal Industry
+4389,2.D,Non-Energy Products from Fuels and Solvent Use
+4390,3.C.2,Liming
+4391,3.C.3,Urea application
+4392,4.C,Incineration and Open Burning of Waste
+4393,1.A.1.a,Main Activity Electricity and Heat Production
+4394,1.A.2,Manufacturing Industries and Construction
+4395,1.A.4,Residential and other sectors
+4396,1.A.5,Non-Specified
+4397,1.B.1,Solid Fuels
+4398,3.C.1,Emissions from biomass burning
+4399,1.A.1.a,Main Activity Electricity and Heat Production
+4400,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4401,1.A.2,Manufacturing Industries and Construction
+4402,1.A.3.a,Civil Aviation
+4403,1.A.3.b_noRES,Road Transportation no resuspension
+4404,1.A.3.d,Water-borne Navigation
+4405,1.A.4,Residential and other sectors
+4406,1.B.1,Solid Fuels
+4407,1.B.2,Oil and Natural Gas
+4408,2.A.1,Cement production
+4409,2.A.2,Lime production
+4410,2.A.3,Glass Production
+4411,2.A.4,Other Process Uses of Carbonates
+4412,2.D,Non-Energy Products from Fuels and Solvent Use
+4413,3.C.2,Liming
+4414,3.C.3,Urea application
+4415,1.A.1.a,Main Activity Electricity and Heat Production
+4416,1.A.2,Manufacturing Industries and Construction
+4417,1.A.4,Residential and other sectors
+4418,1.B.1,Solid Fuels
+4419,3.C.1,Emissions from biomass burning
+4420,1.A.1.a,Main Activity Electricity and Heat Production
+4421,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4422,1.A.2,Manufacturing Industries and Construction
+4423,1.A.3.a,Civil Aviation
+4424,1.A.3.b_noRES,Road Transportation no resuspension
+4425,1.A.3.c,Railways
+4426,1.A.3.d,Water-borne Navigation
+4427,1.A.3.e,Other Transportation
+4428,1.A.4,Residential and other sectors
+4429,1.A.5,Non-Specified
+4430,1.B.2,Oil and Natural Gas
+4431,2.A.1,Cement production
+4432,2.A.2,Lime production
+4433,2.A.3,Glass Production
+4434,2.A.4,Other Process Uses of Carbonates
+4435,2.C,Metal Industry
+4436,2.D,Non-Energy Products from Fuels and Solvent Use
+4437,3.C.3,Urea application
+4438,1.A.1.a,Main Activity Electricity and Heat Production
+4439,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4440,1.A.2,Manufacturing Industries and Construction
+4441,1.A.3.b_noRES,Road Transportation no resuspension
+4442,1.A.3.c,Railways
+4443,1.A.3.e,Other Transportation
+4444,1.A.4,Residential and other sectors
+4445,1.A.5,Non-Specified
+4446,1.B.1,Solid Fuels
+4447,1.B.2,Oil and Natural Gas
+4448,3.C.1,Emissions from biomass burning
+4449,4.C,Incineration and Open Burning of Waste
+4450,1.A.1.a,Main Activity Electricity and Heat Production
+4451,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4452,1.A.2,Manufacturing Industries and Construction
+4453,1.A.3.a,Civil Aviation
+4454,1.A.3.b_noRES,Road Transportation no resuspension
+4455,1.A.3.c,Railways
+4456,1.A.3.d,Water-borne Navigation
+4457,1.A.3.e,Other Transportation
+4458,1.A.4,Residential and other sectors
+4459,1.A.5,Non-Specified
+4460,1.B.1,Solid Fuels
+4461,1.B.2,Oil and Natural Gas
+4462,2.A.1,Cement production
+4463,2.A.2,Lime production
+4464,2.A.3,Glass Production
+4465,2.A.4,Other Process Uses of Carbonates
+4466,2.B,Chemical Industry
+4467,2.C,Metal Industry
+4468,2.D,Non-Energy Products from Fuels and Solvent Use
+4469,3.C.2,Liming
+4470,3.C.3,Urea application
+4471,4.C,Incineration and Open Burning of Waste
+4472,1.A.1.a,Main Activity Electricity and Heat Production
+4473,1.A.2,Manufacturing Industries and Construction
+4474,1.A.3.b_noRES,Road Transportation no resuspension
+4475,1.A.4,Residential and other sectors
+4476,1.A.5,Non-Specified
+4477,1.B.1,Solid Fuels
+4478,1.B.2,Oil and Natural Gas
+4479,3.C.1,Emissions from biomass burning
+4480,1.A.1.a,Main Activity Electricity and Heat Production
+4481,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4482,1.A.2,Manufacturing Industries and Construction
+4483,1.A.3.a,Civil Aviation
+4484,1.A.3.b_noRES,Road Transportation no resuspension
+4485,1.A.3.c,Railways
+4486,1.A.3.d,Water-borne Navigation
+4487,1.A.3.e,Other Transportation
+4488,1.A.4,Residential and other sectors
+4489,1.A.5,Non-Specified
+4490,1.B.1,Solid Fuels
+4491,1.B.2,Oil and Natural Gas
+4492,2.A.1,Cement production
+4493,2.A.2,Lime production
+4494,2.A.3,Glass Production
+4495,2.A.4,Other Process Uses of Carbonates
+4496,2.C,Metal Industry
+4497,2.D,Non-Energy Products from Fuels and Solvent Use
+4498,3.C.2,Liming
+4499,3.C.3,Urea application
+4500,4.C,Incineration and Open Burning of Waste
+4501,1.A.1.a,Main Activity Electricity and Heat Production
+4502,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4503,1.A.2,Manufacturing Industries and Construction
+4504,1.A.3.b_noRES,Road Transportation no resuspension
+4505,1.A.3.c,Railways
+4506,1.A.3.d,Water-borne Navigation
+4507,1.A.3.e,Other Transportation
+4508,1.A.4,Residential and other sectors
+4509,1.A.5,Non-Specified
+4510,1.B.2,Oil and Natural Gas
+4511,3.C.1,Emissions from biomass burning
+4512,4.C,Incineration and Open Burning of Waste
+4513,1.A.1.a,Main Activity Electricity and Heat Production
+4514,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4515,1.A.2,Manufacturing Industries and Construction
+4516,1.A.3.a,Civil Aviation
+4517,1.A.3.b_noRES,Road Transportation no resuspension
+4518,1.A.3.c,Railways
+4519,1.A.3.d,Water-borne Navigation
+4520,1.A.3.e,Other Transportation
+4521,1.A.4,Residential and other sectors
+4522,1.A.5,Non-Specified
+4523,1.B.1,Solid Fuels
+4524,1.B.2,Oil and Natural Gas
+4525,2.A.1,Cement production
+4526,2.A.2,Lime production
+4527,2.A.3,Glass Production
+4528,2.A.4,Other Process Uses of Carbonates
+4529,2.B,Chemical Industry
+4530,2.C,Metal Industry
+4531,2.D,Non-Energy Products from Fuels and Solvent Use
+4532,3.C.2,Liming
+4533,3.C.3,Urea application
+4534,5.B,Fossil fuel fires
+4535,1.A.5,Non-Specified
+4536,3.C.1,Emissions from biomass burning
+4537,1.A.1.a,Main Activity Electricity and Heat Production
+4538,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4539,1.A.2,Manufacturing Industries and Construction
+4540,1.A.3.a,Civil Aviation
+4541,1.A.3.b_noRES,Road Transportation no resuspension
+4542,1.A.3.c,Railways
+4543,1.A.3.e,Other Transportation
+4544,1.A.4,Residential and other sectors
+4545,1.A.5,Non-Specified
+4546,1.B.1,Solid Fuels
+4547,1.B.2,Oil and Natural Gas
+4548,2.A.1,Cement production
+4549,2.A.2,Lime production
+4550,2.A.3,Glass Production
+4551,2.A.4,Other Process Uses of Carbonates
+4552,2.B,Chemical Industry
+4553,2.C,Metal Industry
+4554,2.D,Non-Energy Products from Fuels and Solvent Use
+4555,3.C.2,Liming
+4556,3.C.3,Urea application
+4557,1.A.1.a,Main Activity Electricity and Heat Production
+4558,1.A.2,Manufacturing Industries and Construction
+4559,1.A.4,Residential and other sectors
+4560,1.A.5,Non-Specified
+4561,1.B.1,Solid Fuels
+4562,3.C.1,Emissions from biomass burning
+4563,1.A.1.a,Main Activity Electricity and Heat Production
+4564,1.A.2,Manufacturing Industries and Construction
+4565,1.A.3.a,Civil Aviation
+4566,1.A.3.b_noRES,Road Transportation no resuspension
+4567,1.A.3.d,Water-borne Navigation
+4568,1.A.3.e,Other Transportation
+4569,1.A.4,Residential and other sectors
+4570,1.A.5,Non-Specified
+4571,1.B.2,Oil and Natural Gas
+4572,2.A.3,Glass Production
+4573,2.A.4,Other Process Uses of Carbonates
+4574,2.D,Non-Energy Products from Fuels and Solvent Use
+4575,3.C.3,Urea application
+4576,4.C,Incineration and Open Burning of Waste
+4577,1.A.2,Manufacturing Industries and Construction
+4578,1.A.4,Residential and other sectors
+4579,1.B.1,Solid Fuels
+4580,3.C.1,Emissions from biomass burning
+4581,1.A.1.a,Main Activity Electricity and Heat Production
+4582,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4583,1.A.2,Manufacturing Industries and Construction
+4584,1.A.3.a,Civil Aviation
+4585,1.A.3.b_noRES,Road Transportation no resuspension
+4586,1.A.3.c,Railways
+4587,1.A.3.e,Other Transportation
+4588,1.A.4,Residential and other sectors
+4589,1.A.5,Non-Specified
+4590,1.B.1,Solid Fuels
+4591,1.B.2,Oil and Natural Gas
+4592,2.A.1,Cement production
+4593,2.A.2,Lime production
+4594,2.A.3,Glass Production
+4595,2.A.4,Other Process Uses of Carbonates
+4596,2.B,Chemical Industry
+4597,2.C,Metal Industry
+4598,2.D,Non-Energy Products from Fuels and Solvent Use
+4599,3.C.2,Liming
+4600,3.C.3,Urea application
+4601,4.C,Incineration and Open Burning of Waste
+4602,1.A.1.a,Main Activity Electricity and Heat Production
+4603,1.A.2,Manufacturing Industries and Construction
+4604,1.A.4,Residential and other sectors
+4605,1.A.5,Non-Specified
+4606,1.B.1,Solid Fuels
+4607,1.A.1.a,Main Activity Electricity and Heat Production
+4608,1.A.2,Manufacturing Industries and Construction
+4609,1.A.3.a,Civil Aviation
+4610,1.A.3.b_noRES,Road Transportation no resuspension
+4611,1.A.3.d,Water-borne Navigation
+4612,1.A.3.e,Other Transportation
+4613,1.A.4,Residential and other sectors
+4614,1.A.5,Non-Specified
+4615,1.B.2,Oil and Natural Gas
+4616,2.A.3,Glass Production
+4617,2.D,Non-Energy Products from Fuels and Solvent Use
+4618,1.A.1.a,Main Activity Electricity and Heat Production
+4619,1.A.2,Manufacturing Industries and Construction
+4620,1.A.3.b_noRES,Road Transportation no resuspension
+4621,1.A.4,Residential and other sectors
+4622,1.B.1,Solid Fuels
+4623,1.B.2,Oil and Natural Gas
+4624,3.C.1,Emissions from biomass burning
+4625,1.A.1.a,Main Activity Electricity and Heat Production
+4626,1.A.2,Manufacturing Industries and Construction
+4627,1.A.3.a,Civil Aviation
+4628,1.A.3.b_noRES,Road Transportation no resuspension
+4629,1.A.3.c,Railways
+4630,1.A.3.d,Water-borne Navigation
+4631,1.A.3.e,Other Transportation
+4632,1.A.4,Residential and other sectors
+4633,1.A.5,Non-Specified
+4634,1.B.1,Solid Fuels
+4635,1.B.2,Oil and Natural Gas
+4636,2.A.1,Cement production
+4637,2.A.2,Lime production
+4638,2.A.3,Glass Production
+4639,2.A.4,Other Process Uses of Carbonates
+4640,2.B,Chemical Industry
+4641,2.C,Metal Industry
+4642,2.D,Non-Energy Products from Fuels and Solvent Use
+4643,3.C.2,Liming
+4644,3.C.3,Urea application
+4645,4.C,Incineration and Open Burning of Waste
+4646,1.A.1.a,Main Activity Electricity and Heat Production
+4647,1.A.2,Manufacturing Industries and Construction
+4648,1.A.4,Residential and other sectors
+4649,1.A.5,Non-Specified
+4650,1.B.1,Solid Fuels
+4651,1.B.2,Oil and Natural Gas
+4652,3.C.1,Emissions from biomass burning
+4653,1.A.1.a,Main Activity Electricity and Heat Production
+4654,1.A.2,Manufacturing Industries and Construction
+4655,1.A.3.a,Civil Aviation
+4656,1.A.3.b_noRES,Road Transportation no resuspension
+4657,1.A.3.d,Water-borne Navigation
+4658,1.A.3.e,Other Transportation
+4659,1.A.4,Residential and other sectors
+4660,1.A.5,Non-Specified
+4661,1.B.2,Oil and Natural Gas
+4662,2.A.3,Glass Production
+4663,2.A.4,Other Process Uses of Carbonates
+4664,2.D,Non-Energy Products from Fuels and Solvent Use
+4665,1.A.1.a,Main Activity Electricity and Heat Production
+4666,1.A.2,Manufacturing Industries and Construction
+4667,1.A.4,Residential and other sectors
+4668,1.A.5,Non-Specified
+4669,1.B.1,Solid Fuels
+4670,1.B.2,Oil and Natural Gas
+4671,3.C.1,Emissions from biomass burning
+4672,1.A.1.a,Main Activity Electricity and Heat Production
+4673,1.A.2,Manufacturing Industries and Construction
+4674,1.A.3.a,Civil Aviation
+4675,1.A.3.b_noRES,Road Transportation no resuspension
+4676,1.A.3.d,Water-borne Navigation
+4677,1.A.3.e,Other Transportation
+4678,1.A.4,Residential and other sectors
+4679,1.A.5,Non-Specified
+4680,1.B.2,Oil and Natural Gas
+4681,2.A.3,Glass Production
+4682,2.A.4,Other Process Uses of Carbonates
+4683,2.D,Non-Energy Products from Fuels and Solvent Use
+4684,1.A.5,Non-Specified
+4685,1.B.1,Solid Fuels
+4686,3.C.1,Emissions from biomass burning
+4687,1.A.1.a,Main Activity Electricity and Heat Production
+4688,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4689,1.A.2,Manufacturing Industries and Construction
+4690,1.A.3.b_noRES,Road Transportation no resuspension
+4691,1.A.4,Residential and other sectors
+4692,1.A.5,Non-Specified
+4693,1.B.2,Oil and Natural Gas
+4694,2.A.1,Cement production
+4695,2.A.3,Glass Production
+4696,2.A.4,Other Process Uses of Carbonates
+4697,2.B,Chemical Industry
+4698,2.D,Non-Energy Products from Fuels and Solvent Use
+4699,3.C.3,Urea application
+4700,1.A.1.a,Main Activity Electricity and Heat Production
+4701,1.A.2,Manufacturing Industries and Construction
+4702,1.A.4,Residential and other sectors
+4703,1.B.1,Solid Fuels
+4704,3.C.1,Emissions from biomass burning
+4705,4.C,Incineration and Open Burning of Waste
+4706,1.A.1.a,Main Activity Electricity and Heat Production
+4707,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4708,1.A.2,Manufacturing Industries and Construction
+4709,1.A.3.a,Civil Aviation
+4710,1.A.3.b_noRES,Road Transportation no resuspension
+4711,1.A.3.c,Railways
+4712,1.A.3.d,Water-borne Navigation
+4713,1.A.3.e,Other Transportation
+4714,1.A.4,Residential and other sectors
+4715,1.A.5,Non-Specified
+4716,1.B.1,Solid Fuels
+4717,1.B.2,Oil and Natural Gas
+4718,2.A.1,Cement production
+4719,2.A.2,Lime production
+4720,2.A.3,Glass Production
+4721,2.A.4,Other Process Uses of Carbonates
+4722,2.B,Chemical Industry
+4723,2.C,Metal Industry
+4724,2.D,Non-Energy Products from Fuels and Solvent Use
+4725,3.C.2,Liming
+4726,3.C.3,Urea application
+4727,1.A.2,Manufacturing Industries and Construction
+4728,1.A.4,Residential and other sectors
+4729,1.B.1,Solid Fuels
+4730,3.C.1,Emissions from biomass burning
+4731,1.A.1.a,Main Activity Electricity and Heat Production
+4732,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4733,1.A.2,Manufacturing Industries and Construction
+4734,1.A.3.a,Civil Aviation
+4735,1.A.3.b_noRES,Road Transportation no resuspension
+4736,1.A.3.c,Railways
+4737,1.A.3.d,Water-borne Navigation
+4738,1.A.3.e,Other Transportation
+4739,1.A.4,Residential and other sectors
+4740,1.A.5,Non-Specified
+4741,1.B.1,Solid Fuels
+4742,1.B.2,Oil and Natural Gas
+4743,2.A.1,Cement production
+4744,2.A.2,Lime production
+4745,2.A.3,Glass Production
+4746,2.A.4,Other Process Uses of Carbonates
+4747,2.B,Chemical Industry
+4748,2.C,Metal Industry
+4749,2.D,Non-Energy Products from Fuels and Solvent Use
+4750,3.C.3,Urea application
+4751,1.A.1.a,Main Activity Electricity and Heat Production
+4752,1.A.2,Manufacturing Industries and Construction
+4753,1.A.3.b_noRES,Road Transportation no resuspension
+4754,1.A.4,Residential and other sectors
+4755,1.B.1,Solid Fuels
+4756,1.B.2,Oil and Natural Gas
+4757,3.C.1,Emissions from biomass burning
+4758,1.A.1.a,Main Activity Electricity and Heat Production
+4759,1.A.1.bc,Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries
+4760,1.A.2,Manufacturing Industries and Construction
+4761,1.A.3.b_noRES,Road Transportation no resuspension
+4762,1.A.3.c,Railways
+4763,1.A.4,Residential and other sectors
+4764,1.A.5,Non-Specified
+4765,1.B.1,Solid Fuels
+4766,2.A.1,Cement production
+4767,2.A.3,Glass Production
+4768,2.A.4,Other Process Uses of Carbonates
+4769,2.B,Chemical Industry
+4770,2.C,Metal Industry
+4771,2.D,Non-Energy Products from Fuels and Solvent Use
+4772,3.C.3,Urea application
